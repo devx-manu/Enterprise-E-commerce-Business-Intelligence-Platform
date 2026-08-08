@@ -1,0 +1,5001 @@
+payment_id,payment_method,payment_status
+1,Wallet,Paid
+2,COD,Paid
+3,UPI,Paid
+4,Debit Card,Paid
+5,Credit Card,Paid
+6,Debit Card,Paid
+7,COD,Paid
+8,Debit Card,Paid
+9,Credit Card,Paid
+10,Credit Card,Paid
+11,Wallet,Paid
+12,Wallet,Paid
+13,Debit Card,Paid
+14,Credit Card,Paid
+15,COD,Paid
+16,Credit Card,Paid
+17,Credit Card,Paid
+18,Credit Card,Paid
+19,UPI,Paid
+20,Debit Card,Paid
+21,Debit Card,Paid
+22,UPI,Paid
+23,Credit Card,Paid
+24,UPI,Paid
+25,Credit Card,Paid
+26,COD,Paid
+27,UPI,Paid
+28,UPI,Paid
+29,UPI,Paid
+30,COD,Paid
+31,COD,Paid
+32,Credit Card,Paid
+33,UPI,Paid
+34,Debit Card,Paid
+35,Wallet,Paid
+36,Credit Card,Paid
+37,Debit Card,Paid
+38,UPI,Paid
+39,COD,Paid
+40,COD,Paid
+41,Wallet,Paid
+42,Debit Card,Paid
+43,COD,Paid
+44,Credit Card,Paid
+45,UPI,Paid
+46,Credit Card,Paid
+47,COD,Paid
+48,Credit Card,Paid
+49,UPI,Paid
+50,Debit Card,Paid
+51,Wallet,Paid
+52,Credit Card,Paid
+53,UPI,Paid
+54,COD,Paid
+55,COD,Paid
+56,Debit Card,Paid
+57,Debit Card,Paid
+58,COD,Paid
+59,COD,Paid
+60,UPI,Paid
+61,COD,Paid
+62,Credit Card,Paid
+63,Wallet,Paid
+64,Credit Card,Paid
+65,Debit Card,Paid
+66,Wallet,Paid
+67,COD,Paid
+68,Wallet,Paid
+69,Debit Card,Paid
+70,Credit Card,Paid
+71,Credit Card,Paid
+72,UPI,Paid
+73,UPI,Paid
+74,Debit Card,Paid
+75,Credit Card,Paid
+76,UPI,Paid
+77,UPI,Paid
+78,Debit Card,Paid
+79,Wallet,Paid
+80,Credit Card,Paid
+81,COD,Paid
+82,Wallet,Paid
+83,COD,Paid
+84,Wallet,Paid
+85,Debit Card,Paid
+86,Credit Card,Paid
+87,Debit Card,Paid
+88,UPI,Paid
+89,Credit Card,Paid
+90,COD,Paid
+91,COD,Paid
+92,Credit Card,Paid
+93,Debit Card,Paid
+94,Credit Card,Paid
+95,UPI,Paid
+96,COD,Paid
+97,Debit Card,Paid
+98,UPI,Paid
+99,UPI,Paid
+100,UPI,Paid
+101,Wallet,Paid
+102,Debit Card,Paid
+103,COD,Paid
+104,Credit Card,Paid
+105,UPI,Paid
+106,UPI,Paid
+107,COD,Paid
+108,Credit Card,Paid
+109,Wallet,Paid
+110,UPI,Paid
+111,UPI,Paid
+112,Wallet,Paid
+113,UPI,Paid
+114,COD,Paid
+115,UPI,Paid
+116,Wallet,Paid
+117,COD,Paid
+118,Credit Card,Paid
+119,Debit Card,Paid
+120,UPI,Paid
+121,COD,Paid
+122,Debit Card,Paid
+123,COD,Paid
+124,Credit Card,Paid
+125,UPI,Paid
+126,COD,Paid
+127,COD,Paid
+128,Debit Card,Paid
+129,Debit Card,Paid
+130,Credit Card,Paid
+131,Wallet,Paid
+132,Credit Card,Paid
+133,UPI,Paid
+134,Debit Card,Paid
+135,Credit Card,Paid
+136,COD,Paid
+137,COD,Paid
+138,Wallet,Paid
+139,Wallet,Paid
+140,UPI,Paid
+141,Wallet,Paid
+142,UPI,Paid
+143,Debit Card,Paid
+144,Credit Card,Paid
+145,Wallet,Paid
+146,Credit Card,Paid
+147,COD,Paid
+148,Wallet,Paid
+149,UPI,Paid
+150,Credit Card,Paid
+151,Wallet,Paid
+152,Wallet,Paid
+153,Debit Card,Paid
+154,Wallet,Paid
+155,Wallet,Paid
+156,Credit Card,Paid
+157,Wallet,Paid
+158,UPI,Paid
+159,UPI,Paid
+160,Credit Card,Paid
+161,Debit Card,Paid
+162,UPI,Paid
+163,Debit Card,Paid
+164,Debit Card,Paid
+165,Credit Card,Paid
+166,Debit Card,Paid
+167,Credit Card,Paid
+168,UPI,Paid
+169,Debit Card,Paid
+170,COD,Paid
+171,UPI,Paid
+172,Wallet,Paid
+173,Credit Card,Paid
+174,Wallet,Paid
+175,Credit Card,Paid
+176,Wallet,Paid
+177,Debit Card,Paid
+178,Debit Card,Paid
+179,Debit Card,Paid
+180,UPI,Paid
+181,UPI,Paid
+182,Credit Card,Paid
+183,COD,Paid
+184,Debit Card,Paid
+185,Debit Card,Paid
+186,COD,Paid
+187,COD,Paid
+188,Wallet,Paid
+189,Debit Card,Paid
+190,COD,Paid
+191,Wallet,Paid
+192,Wallet,Paid
+193,Debit Card,Paid
+194,Wallet,Paid
+195,Debit Card,Paid
+196,Credit Card,Paid
+197,Wallet,Paid
+198,UPI,Paid
+199,COD,Paid
+200,Credit Card,Paid
+201,COD,Paid
+202,Credit Card,Paid
+203,UPI,Paid
+204,COD,Paid
+205,Debit Card,Paid
+206,Debit Card,Paid
+207,UPI,Paid
+208,UPI,Paid
+209,Wallet,Paid
+210,Debit Card,Paid
+211,Credit Card,Paid
+212,Wallet,Paid
+213,Credit Card,Paid
+214,Credit Card,Paid
+215,Credit Card,Paid
+216,Credit Card,Paid
+217,COD,Paid
+218,Wallet,Paid
+219,COD,Paid
+220,Credit Card,Paid
+221,Debit Card,Paid
+222,Credit Card,Paid
+223,Debit Card,Paid
+224,Wallet,Paid
+225,UPI,Paid
+226,Credit Card,Paid
+227,Wallet,Paid
+228,UPI,Paid
+229,Credit Card,Paid
+230,Debit Card,Paid
+231,COD,Paid
+232,Wallet,Paid
+233,Debit Card,Paid
+234,Credit Card,Paid
+235,Wallet,Paid
+236,Wallet,Paid
+237,UPI,Paid
+238,COD,Paid
+239,Wallet,Paid
+240,COD,Paid
+241,COD,Paid
+242,Wallet,Paid
+243,UPI,Paid
+244,Credit Card,Paid
+245,COD,Paid
+246,COD,Paid
+247,Credit Card,Paid
+248,Wallet,Paid
+249,COD,Paid
+250,Credit Card,Paid
+251,Debit Card,Paid
+252,UPI,Paid
+253,UPI,Paid
+254,Wallet,Paid
+255,Wallet,Paid
+256,COD,Paid
+257,Wallet,Paid
+258,Debit Card,Paid
+259,COD,Paid
+260,Wallet,Paid
+261,Wallet,Paid
+262,Credit Card,Paid
+263,UPI,Paid
+264,Wallet,Paid
+265,Wallet,Paid
+266,COD,Paid
+267,Wallet,Paid
+268,COD,Paid
+269,Debit Card,Paid
+270,UPI,Paid
+271,Credit Card,Paid
+272,Wallet,Paid
+273,Credit Card,Paid
+274,Credit Card,Paid
+275,UPI,Paid
+276,Wallet,Paid
+277,COD,Paid
+278,Wallet,Paid
+279,Credit Card,Paid
+280,Wallet,Paid
+281,UPI,Paid
+282,UPI,Paid
+283,Wallet,Paid
+284,COD,Paid
+285,COD,Paid
+286,COD,Paid
+287,Wallet,Paid
+288,Wallet,Paid
+289,Credit Card,Paid
+290,Credit Card,Paid
+291,Wallet,Paid
+292,Credit Card,Paid
+293,UPI,Paid
+294,Wallet,Paid
+295,UPI,Paid
+296,Debit Card,Paid
+297,Wallet,Paid
+298,Debit Card,Paid
+299,Debit Card,Paid
+300,Debit Card,Paid
+301,Debit Card,Paid
+302,UPI,Paid
+303,UPI,Paid
+304,UPI,Paid
+305,Wallet,Paid
+306,UPI,Paid
+307,Debit Card,Paid
+308,Credit Card,Paid
+309,Debit Card,Paid
+310,Credit Card,Paid
+311,Wallet,Paid
+312,Credit Card,Paid
+313,Debit Card,Paid
+314,Credit Card,Paid
+315,COD,Paid
+316,Debit Card,Paid
+317,Credit Card,Paid
+318,COD,Paid
+319,Credit Card,Paid
+320,Wallet,Paid
+321,Credit Card,Paid
+322,Wallet,Paid
+323,UPI,Paid
+324,UPI,Paid
+325,UPI,Paid
+326,Credit Card,Paid
+327,COD,Paid
+328,Credit Card,Paid
+329,COD,Paid
+330,UPI,Paid
+331,COD,Paid
+332,UPI,Paid
+333,Debit Card,Paid
+334,Wallet,Paid
+335,Debit Card,Paid
+336,Credit Card,Paid
+337,Credit Card,Paid
+338,UPI,Paid
+339,UPI,Paid
+340,Wallet,Paid
+341,Credit Card,Paid
+342,Debit Card,Paid
+343,UPI,Paid
+344,UPI,Paid
+345,COD,Paid
+346,COD,Paid
+347,COD,Paid
+348,Wallet,Paid
+349,Debit Card,Paid
+350,Wallet,Paid
+351,Credit Card,Paid
+352,Debit Card,Paid
+353,Credit Card,Paid
+354,Credit Card,Paid
+355,Wallet,Paid
+356,Wallet,Paid
+357,UPI,Paid
+358,COD,Paid
+359,UPI,Paid
+360,UPI,Paid
+361,Credit Card,Paid
+362,Wallet,Paid
+363,Credit Card,Paid
+364,Credit Card,Paid
+365,Debit Card,Paid
+366,Debit Card,Paid
+367,Wallet,Paid
+368,COD,Paid
+369,Wallet,Paid
+370,Credit Card,Paid
+371,Wallet,Paid
+372,Debit Card,Paid
+373,Wallet,Paid
+374,UPI,Paid
+375,Debit Card,Paid
+376,Wallet,Paid
+377,Wallet,Paid
+378,Debit Card,Paid
+379,Credit Card,Paid
+380,Wallet,Paid
+381,Credit Card,Paid
+382,Wallet,Paid
+383,COD,Paid
+384,Wallet,Paid
+385,Wallet,Paid
+386,Credit Card,Paid
+387,Wallet,Paid
+388,COD,Paid
+389,COD,Paid
+390,Wallet,Paid
+391,COD,Paid
+392,Credit Card,Paid
+393,UPI,Paid
+394,Credit Card,Paid
+395,UPI,Paid
+396,Credit Card,Paid
+397,Debit Card,Paid
+398,UPI,Paid
+399,Debit Card,Paid
+400,UPI,Paid
+401,Debit Card,Paid
+402,COD,Paid
+403,Debit Card,Paid
+404,COD,Paid
+405,Wallet,Paid
+406,Credit Card,Paid
+407,Debit Card,Paid
+408,COD,Paid
+409,COD,Paid
+410,Wallet,Paid
+411,COD,Paid
+412,Credit Card,Paid
+413,Wallet,Paid
+414,Wallet,Paid
+415,UPI,Paid
+416,Debit Card,Paid
+417,Debit Card,Paid
+418,UPI,Paid
+419,Credit Card,Paid
+420,COD,Paid
+421,COD,Paid
+422,Credit Card,Paid
+423,COD,Paid
+424,COD,Paid
+425,Credit Card,Paid
+426,COD,Paid
+427,COD,Paid
+428,COD,Paid
+429,COD,Paid
+430,COD,Paid
+431,COD,Paid
+432,Wallet,Paid
+433,UPI,Paid
+434,Debit Card,Paid
+435,COD,Paid
+436,Wallet,Paid
+437,UPI,Paid
+438,Credit Card,Paid
+439,COD,Paid
+440,Credit Card,Paid
+441,COD,Paid
+442,Wallet,Paid
+443,Wallet,Paid
+444,Wallet,Paid
+445,UPI,Paid
+446,Wallet,Paid
+447,UPI,Paid
+448,Wallet,Paid
+449,Debit Card,Paid
+450,COD,Paid
+451,Credit Card,Paid
+452,Wallet,Paid
+453,Wallet,Paid
+454,Debit Card,Paid
+455,COD,Paid
+456,Wallet,Paid
+457,UPI,Paid
+458,COD,Paid
+459,Credit Card,Paid
+460,UPI,Paid
+461,UPI,Paid
+462,Wallet,Paid
+463,Debit Card,Paid
+464,COD,Paid
+465,COD,Paid
+466,UPI,Paid
+467,Credit Card,Paid
+468,Wallet,Paid
+469,Debit Card,Paid
+470,COD,Paid
+471,Debit Card,Paid
+472,UPI,Paid
+473,COD,Paid
+474,COD,Paid
+475,UPI,Paid
+476,COD,Paid
+477,UPI,Paid
+478,UPI,Paid
+479,Debit Card,Paid
+480,Debit Card,Paid
+481,Debit Card,Paid
+482,Wallet,Paid
+483,Wallet,Paid
+484,Debit Card,Paid
+485,Wallet,Paid
+486,COD,Paid
+487,COD,Paid
+488,Debit Card,Paid
+489,COD,Paid
+490,COD,Paid
+491,COD,Paid
+492,Wallet,Paid
+493,Debit Card,Paid
+494,COD,Paid
+495,Credit Card,Paid
+496,COD,Paid
+497,Wallet,Paid
+498,Credit Card,Paid
+499,Debit Card,Paid
+500,Debit Card,Paid
+501,UPI,Paid
+502,COD,Paid
+503,COD,Paid
+504,UPI,Paid
+505,UPI,Paid
+506,COD,Paid
+507,Debit Card,Paid
+508,Debit Card,Paid
+509,Debit Card,Paid
+510,Wallet,Paid
+511,Credit Card,Paid
+512,COD,Paid
+513,COD,Paid
+514,Debit Card,Paid
+515,Credit Card,Paid
+516,Credit Card,Paid
+517,COD,Paid
+518,COD,Paid
+519,Credit Card,Paid
+520,Credit Card,Paid
+521,Debit Card,Paid
+522,UPI,Paid
+523,Wallet,Paid
+524,Wallet,Paid
+525,UPI,Paid
+526,UPI,Paid
+527,Debit Card,Paid
+528,UPI,Paid
+529,COD,Paid
+530,Wallet,Paid
+531,Wallet,Paid
+532,Debit Card,Paid
+533,Wallet,Paid
+534,Credit Card,Paid
+535,Wallet,Paid
+536,Credit Card,Paid
+537,COD,Paid
+538,Debit Card,Paid
+539,COD,Paid
+540,COD,Paid
+541,COD,Paid
+542,Debit Card,Paid
+543,Debit Card,Paid
+544,UPI,Paid
+545,Credit Card,Paid
+546,Credit Card,Paid
+547,UPI,Paid
+548,Debit Card,Paid
+549,UPI,Paid
+550,Credit Card,Paid
+551,Wallet,Paid
+552,Credit Card,Paid
+553,UPI,Paid
+554,Debit Card,Paid
+555,UPI,Paid
+556,Debit Card,Paid
+557,Credit Card,Paid
+558,UPI,Paid
+559,UPI,Paid
+560,UPI,Paid
+561,COD,Paid
+562,Debit Card,Paid
+563,Wallet,Paid
+564,UPI,Paid
+565,COD,Paid
+566,COD,Paid
+567,Debit Card,Paid
+568,Credit Card,Paid
+569,Debit Card,Paid
+570,COD,Paid
+571,Wallet,Paid
+572,Wallet,Paid
+573,Debit Card,Paid
+574,Credit Card,Paid
+575,Credit Card,Paid
+576,UPI,Paid
+577,Credit Card,Paid
+578,UPI,Paid
+579,UPI,Paid
+580,Credit Card,Paid
+581,Wallet,Paid
+582,Credit Card,Paid
+583,Debit Card,Paid
+584,Wallet,Paid
+585,Credit Card,Paid
+586,COD,Paid
+587,UPI,Paid
+588,COD,Paid
+589,Wallet,Paid
+590,UPI,Paid
+591,UPI,Paid
+592,Credit Card,Paid
+593,Wallet,Paid
+594,Credit Card,Paid
+595,Credit Card,Paid
+596,UPI,Paid
+597,Debit Card,Paid
+598,UPI,Paid
+599,COD,Paid
+600,COD,Paid
+601,Debit Card,Paid
+602,Credit Card,Paid
+603,COD,Paid
+604,Credit Card,Paid
+605,Credit Card,Paid
+606,Debit Card,Paid
+607,UPI,Paid
+608,Debit Card,Paid
+609,Wallet,Paid
+610,Wallet,Paid
+611,Debit Card,Paid
+612,COD,Paid
+613,UPI,Paid
+614,Wallet,Paid
+615,UPI,Paid
+616,UPI,Paid
+617,Credit Card,Paid
+618,Credit Card,Paid
+619,Credit Card,Paid
+620,UPI,Paid
+621,Debit Card,Paid
+622,UPI,Paid
+623,Debit Card,Paid
+624,Wallet,Paid
+625,Wallet,Paid
+626,Wallet,Paid
+627,Credit Card,Paid
+628,COD,Paid
+629,COD,Paid
+630,Wallet,Paid
+631,UPI,Paid
+632,Credit Card,Paid
+633,UPI,Paid
+634,Wallet,Paid
+635,Credit Card,Paid
+636,UPI,Paid
+637,Credit Card,Paid
+638,Debit Card,Paid
+639,Credit Card,Paid
+640,Debit Card,Paid
+641,COD,Paid
+642,Credit Card,Paid
+643,Debit Card,Paid
+644,Credit Card,Paid
+645,Debit Card,Paid
+646,UPI,Paid
+647,Debit Card,Paid
+648,Debit Card,Paid
+649,COD,Paid
+650,Wallet,Paid
+651,Credit Card,Paid
+652,Wallet,Paid
+653,UPI,Paid
+654,Credit Card,Paid
+655,COD,Paid
+656,UPI,Paid
+657,Wallet,Paid
+658,COD,Paid
+659,COD,Paid
+660,COD,Paid
+661,COD,Paid
+662,Debit Card,Paid
+663,Credit Card,Paid
+664,COD,Paid
+665,COD,Paid
+666,Debit Card,Paid
+667,COD,Paid
+668,COD,Paid
+669,Debit Card,Paid
+670,Wallet,Paid
+671,Credit Card,Paid
+672,UPI,Paid
+673,Debit Card,Paid
+674,UPI,Paid
+675,Wallet,Paid
+676,Debit Card,Paid
+677,Debit Card,Paid
+678,Debit Card,Paid
+679,Credit Card,Paid
+680,Wallet,Paid
+681,UPI,Paid
+682,Debit Card,Paid
+683,Debit Card,Paid
+684,UPI,Paid
+685,Debit Card,Paid
+686,UPI,Paid
+687,UPI,Paid
+688,Wallet,Paid
+689,Debit Card,Paid
+690,UPI,Paid
+691,Debit Card,Paid
+692,Debit Card,Paid
+693,Wallet,Paid
+694,UPI,Paid
+695,Debit Card,Paid
+696,Wallet,Paid
+697,UPI,Paid
+698,Wallet,Paid
+699,UPI,Paid
+700,Debit Card,Paid
+701,UPI,Paid
+702,Debit Card,Paid
+703,COD,Paid
+704,Credit Card,Paid
+705,Wallet,Paid
+706,Wallet,Paid
+707,Credit Card,Paid
+708,COD,Paid
+709,COD,Paid
+710,Debit Card,Paid
+711,COD,Paid
+712,UPI,Paid
+713,Wallet,Paid
+714,UPI,Paid
+715,COD,Paid
+716,Wallet,Paid
+717,UPI,Paid
+718,COD,Paid
+719,Debit Card,Paid
+720,COD,Paid
+721,Wallet,Paid
+722,Credit Card,Paid
+723,Wallet,Paid
+724,UPI,Paid
+725,Debit Card,Paid
+726,COD,Paid
+727,Credit Card,Paid
+728,UPI,Paid
+729,Wallet,Paid
+730,COD,Paid
+731,COD,Paid
+732,COD,Paid
+733,Credit Card,Paid
+734,Debit Card,Paid
+735,COD,Paid
+736,Debit Card,Paid
+737,UPI,Paid
+738,Wallet,Paid
+739,UPI,Paid
+740,Debit Card,Paid
+741,Wallet,Paid
+742,Wallet,Paid
+743,COD,Paid
+744,Debit Card,Paid
+745,Debit Card,Paid
+746,UPI,Paid
+747,Credit Card,Paid
+748,Credit Card,Paid
+749,Debit Card,Paid
+750,UPI,Paid
+751,Debit Card,Paid
+752,UPI,Paid
+753,UPI,Paid
+754,Credit Card,Paid
+755,Wallet,Paid
+756,Wallet,Paid
+757,COD,Paid
+758,Credit Card,Paid
+759,Wallet,Paid
+760,UPI,Paid
+761,Debit Card,Paid
+762,Debit Card,Paid
+763,Credit Card,Paid
+764,Debit Card,Paid
+765,COD,Paid
+766,Credit Card,Paid
+767,Debit Card,Paid
+768,COD,Paid
+769,UPI,Paid
+770,COD,Paid
+771,UPI,Paid
+772,Credit Card,Paid
+773,Credit Card,Paid
+774,Debit Card,Paid
+775,Wallet,Paid
+776,Debit Card,Paid
+777,Wallet,Paid
+778,Wallet,Paid
+779,Credit Card,Paid
+780,Credit Card,Paid
+781,UPI,Paid
+782,COD,Paid
+783,Debit Card,Paid
+784,Credit Card,Paid
+785,Credit Card,Paid
+786,UPI,Paid
+787,Credit Card,Paid
+788,Credit Card,Paid
+789,COD,Paid
+790,UPI,Paid
+791,Debit Card,Paid
+792,Wallet,Paid
+793,Credit Card,Paid
+794,Wallet,Paid
+795,Debit Card,Paid
+796,Debit Card,Paid
+797,Debit Card,Paid
+798,Debit Card,Paid
+799,COD,Paid
+800,UPI,Paid
+801,Credit Card,Paid
+802,COD,Paid
+803,Credit Card,Paid
+804,Debit Card,Paid
+805,Wallet,Paid
+806,Wallet,Paid
+807,COD,Paid
+808,UPI,Paid
+809,Credit Card,Paid
+810,COD,Paid
+811,UPI,Paid
+812,Wallet,Paid
+813,Debit Card,Paid
+814,Wallet,Paid
+815,Credit Card,Paid
+816,Credit Card,Paid
+817,Credit Card,Paid
+818,Debit Card,Paid
+819,Debit Card,Paid
+820,COD,Paid
+821,COD,Paid
+822,UPI,Paid
+823,Credit Card,Paid
+824,UPI,Paid
+825,Debit Card,Paid
+826,Wallet,Paid
+827,COD,Paid
+828,Wallet,Paid
+829,COD,Paid
+830,COD,Paid
+831,COD,Paid
+832,Credit Card,Paid
+833,Debit Card,Paid
+834,UPI,Paid
+835,COD,Paid
+836,Wallet,Paid
+837,Credit Card,Paid
+838,Credit Card,Paid
+839,Credit Card,Paid
+840,COD,Paid
+841,Credit Card,Paid
+842,COD,Paid
+843,COD,Paid
+844,COD,Paid
+845,COD,Paid
+846,Wallet,Paid
+847,Debit Card,Paid
+848,Debit Card,Paid
+849,Credit Card,Paid
+850,Credit Card,Paid
+851,Debit Card,Paid
+852,Credit Card,Paid
+853,UPI,Paid
+854,Wallet,Paid
+855,Credit Card,Paid
+856,Debit Card,Paid
+857,Wallet,Paid
+858,Wallet,Paid
+859,Debit Card,Paid
+860,Wallet,Paid
+861,COD,Paid
+862,UPI,Paid
+863,Credit Card,Paid
+864,Wallet,Paid
+865,Debit Card,Paid
+866,COD,Paid
+867,Wallet,Paid
+868,COD,Paid
+869,Wallet,Paid
+870,COD,Paid
+871,Credit Card,Paid
+872,COD,Paid
+873,UPI,Paid
+874,Wallet,Paid
+875,Debit Card,Paid
+876,Credit Card,Paid
+877,COD,Paid
+878,Debit Card,Paid
+879,Wallet,Paid
+880,Credit Card,Paid
+881,Debit Card,Paid
+882,Debit Card,Paid
+883,UPI,Paid
+884,Credit Card,Paid
+885,Wallet,Paid
+886,Wallet,Paid
+887,Credit Card,Paid
+888,COD,Paid
+889,Debit Card,Paid
+890,Wallet,Paid
+891,COD,Paid
+892,COD,Paid
+893,COD,Paid
+894,UPI,Paid
+895,Wallet,Paid
+896,Debit Card,Paid
+897,Credit Card,Paid
+898,Debit Card,Paid
+899,Wallet,Paid
+900,Wallet,Paid
+901,COD,Paid
+902,COD,Paid
+903,Debit Card,Paid
+904,COD,Paid
+905,UPI,Paid
+906,UPI,Paid
+907,Wallet,Paid
+908,UPI,Paid
+909,Credit Card,Paid
+910,Wallet,Paid
+911,UPI,Paid
+912,Wallet,Paid
+913,UPI,Paid
+914,Debit Card,Paid
+915,Credit Card,Paid
+916,UPI,Paid
+917,COD,Paid
+918,UPI,Paid
+919,Wallet,Paid
+920,COD,Paid
+921,Wallet,Paid
+922,Credit Card,Paid
+923,Wallet,Paid
+924,Wallet,Paid
+925,Credit Card,Paid
+926,COD,Paid
+927,COD,Paid
+928,Credit Card,Paid
+929,Wallet,Paid
+930,UPI,Paid
+931,Wallet,Paid
+932,COD,Paid
+933,COD,Paid
+934,UPI,Paid
+935,Credit Card,Paid
+936,UPI,Paid
+937,Debit Card,Paid
+938,UPI,Paid
+939,UPI,Paid
+940,Debit Card,Paid
+941,Credit Card,Paid
+942,COD,Paid
+943,COD,Paid
+944,Wallet,Paid
+945,UPI,Paid
+946,Debit Card,Paid
+947,COD,Paid
+948,Debit Card,Paid
+949,Wallet,Paid
+950,UPI,Paid
+951,COD,Paid
+952,UPI,Paid
+953,UPI,Paid
+954,UPI,Paid
+955,UPI,Paid
+956,COD,Paid
+957,Wallet,Paid
+958,COD,Paid
+959,UPI,Paid
+960,UPI,Paid
+961,COD,Paid
+962,Debit Card,Paid
+963,COD,Paid
+964,COD,Paid
+965,UPI,Paid
+966,UPI,Paid
+967,Wallet,Paid
+968,Wallet,Paid
+969,UPI,Paid
+970,Wallet,Paid
+971,Debit Card,Paid
+972,UPI,Paid
+973,Wallet,Paid
+974,Credit Card,Paid
+975,COD,Paid
+976,COD,Paid
+977,UPI,Paid
+978,Credit Card,Paid
+979,Debit Card,Paid
+980,UPI,Paid
+981,Wallet,Paid
+982,Wallet,Paid
+983,Debit Card,Paid
+984,Debit Card,Paid
+985,Credit Card,Paid
+986,Credit Card,Paid
+987,COD,Paid
+988,Wallet,Paid
+989,Credit Card,Paid
+990,Debit Card,Paid
+991,Wallet,Paid
+992,Debit Card,Paid
+993,Wallet,Paid
+994,COD,Paid
+995,Wallet,Paid
+996,Debit Card,Paid
+997,Wallet,Paid
+998,Credit Card,Paid
+999,COD,Paid
+1000,UPI,Paid
+1001,Debit Card,Paid
+1002,Debit Card,Paid
+1003,Debit Card,Paid
+1004,Credit Card,Paid
+1005,Debit Card,Paid
+1006,UPI,Paid
+1007,Debit Card,Paid
+1008,Debit Card,Paid
+1009,Wallet,Paid
+1010,Debit Card,Paid
+1011,UPI,Paid
+1012,Credit Card,Paid
+1013,COD,Paid
+1014,COD,Paid
+1015,Wallet,Paid
+1016,Credit Card,Paid
+1017,Debit Card,Paid
+1018,COD,Paid
+1019,Wallet,Paid
+1020,Wallet,Paid
+1021,COD,Paid
+1022,Debit Card,Paid
+1023,UPI,Paid
+1024,Wallet,Paid
+1025,COD,Paid
+1026,Wallet,Paid
+1027,UPI,Paid
+1028,UPI,Paid
+1029,COD,Paid
+1030,COD,Paid
+1031,COD,Paid
+1032,UPI,Paid
+1033,COD,Paid
+1034,Debit Card,Paid
+1035,Credit Card,Paid
+1036,COD,Paid
+1037,UPI,Paid
+1038,Debit Card,Paid
+1039,Credit Card,Paid
+1040,UPI,Paid
+1041,Debit Card,Paid
+1042,COD,Paid
+1043,COD,Paid
+1044,Credit Card,Paid
+1045,UPI,Paid
+1046,Debit Card,Paid
+1047,Credit Card,Paid
+1048,UPI,Paid
+1049,Credit Card,Paid
+1050,Wallet,Paid
+1051,Wallet,Paid
+1052,Credit Card,Paid
+1053,COD,Paid
+1054,UPI,Paid
+1055,UPI,Paid
+1056,Credit Card,Paid
+1057,Credit Card,Paid
+1058,UPI,Paid
+1059,COD,Paid
+1060,Debit Card,Paid
+1061,Wallet,Paid
+1062,UPI,Paid
+1063,Credit Card,Paid
+1064,COD,Paid
+1065,Wallet,Paid
+1066,UPI,Paid
+1067,COD,Paid
+1068,COD,Paid
+1069,UPI,Paid
+1070,Debit Card,Paid
+1071,Credit Card,Paid
+1072,UPI,Paid
+1073,Credit Card,Paid
+1074,UPI,Paid
+1075,UPI,Paid
+1076,COD,Paid
+1077,Credit Card,Paid
+1078,Wallet,Paid
+1079,COD,Paid
+1080,COD,Paid
+1081,COD,Paid
+1082,COD,Paid
+1083,Credit Card,Paid
+1084,Debit Card,Paid
+1085,COD,Paid
+1086,Wallet,Paid
+1087,COD,Paid
+1088,Wallet,Paid
+1089,Wallet,Paid
+1090,Debit Card,Paid
+1091,COD,Paid
+1092,Debit Card,Paid
+1093,Credit Card,Paid
+1094,UPI,Paid
+1095,Credit Card,Paid
+1096,Debit Card,Paid
+1097,UPI,Paid
+1098,Credit Card,Paid
+1099,COD,Paid
+1100,COD,Paid
+1101,Credit Card,Paid
+1102,Credit Card,Paid
+1103,Wallet,Paid
+1104,Credit Card,Paid
+1105,Wallet,Paid
+1106,COD,Paid
+1107,Wallet,Paid
+1108,UPI,Paid
+1109,UPI,Paid
+1110,UPI,Paid
+1111,Debit Card,Paid
+1112,Debit Card,Paid
+1113,COD,Paid
+1114,UPI,Paid
+1115,Credit Card,Paid
+1116,Credit Card,Paid
+1117,Credit Card,Paid
+1118,UPI,Paid
+1119,COD,Paid
+1120,COD,Paid
+1121,Credit Card,Paid
+1122,UPI,Paid
+1123,UPI,Paid
+1124,UPI,Paid
+1125,Debit Card,Paid
+1126,COD,Paid
+1127,Debit Card,Paid
+1128,COD,Paid
+1129,UPI,Paid
+1130,Wallet,Paid
+1131,Debit Card,Paid
+1132,Wallet,Paid
+1133,Debit Card,Paid
+1134,Wallet,Paid
+1135,Debit Card,Paid
+1136,Debit Card,Paid
+1137,UPI,Paid
+1138,COD,Paid
+1139,Credit Card,Paid
+1140,COD,Paid
+1141,Debit Card,Paid
+1142,COD,Paid
+1143,Credit Card,Paid
+1144,Wallet,Paid
+1145,Wallet,Paid
+1146,Credit Card,Paid
+1147,UPI,Paid
+1148,COD,Paid
+1149,COD,Paid
+1150,Debit Card,Paid
+1151,COD,Paid
+1152,COD,Paid
+1153,UPI,Paid
+1154,COD,Paid
+1155,UPI,Paid
+1156,Wallet,Paid
+1157,Credit Card,Paid
+1158,Credit Card,Paid
+1159,Wallet,Paid
+1160,Wallet,Paid
+1161,Wallet,Paid
+1162,UPI,Paid
+1163,Debit Card,Paid
+1164,Credit Card,Paid
+1165,Wallet,Paid
+1166,UPI,Paid
+1167,Debit Card,Paid
+1168,Debit Card,Paid
+1169,UPI,Paid
+1170,Credit Card,Paid
+1171,Wallet,Paid
+1172,Credit Card,Paid
+1173,COD,Paid
+1174,Debit Card,Paid
+1175,Credit Card,Paid
+1176,Wallet,Paid
+1177,UPI,Paid
+1178,UPI,Paid
+1179,Credit Card,Paid
+1180,Credit Card,Paid
+1181,Debit Card,Paid
+1182,Wallet,Paid
+1183,Debit Card,Paid
+1184,Wallet,Paid
+1185,Debit Card,Paid
+1186,Wallet,Paid
+1187,Credit Card,Paid
+1188,Debit Card,Paid
+1189,Credit Card,Paid
+1190,Debit Card,Paid
+1191,UPI,Paid
+1192,Wallet,Paid
+1193,Credit Card,Paid
+1194,Wallet,Paid
+1195,Debit Card,Paid
+1196,Wallet,Paid
+1197,Credit Card,Paid
+1198,COD,Paid
+1199,Credit Card,Paid
+1200,Debit Card,Paid
+1201,Wallet,Paid
+1202,UPI,Paid
+1203,Wallet,Paid
+1204,UPI,Paid
+1205,UPI,Paid
+1206,Wallet,Paid
+1207,Credit Card,Paid
+1208,Debit Card,Paid
+1209,Debit Card,Paid
+1210,Debit Card,Paid
+1211,Credit Card,Paid
+1212,COD,Paid
+1213,Credit Card,Paid
+1214,Wallet,Paid
+1215,COD,Paid
+1216,UPI,Paid
+1217,UPI,Paid
+1218,Wallet,Paid
+1219,COD,Paid
+1220,Wallet,Paid
+1221,Debit Card,Paid
+1222,UPI,Paid
+1223,Credit Card,Paid
+1224,Debit Card,Paid
+1225,Credit Card,Paid
+1226,Debit Card,Paid
+1227,UPI,Paid
+1228,Debit Card,Paid
+1229,Credit Card,Paid
+1230,UPI,Paid
+1231,Wallet,Paid
+1232,COD,Paid
+1233,UPI,Paid
+1234,Debit Card,Paid
+1235,Credit Card,Paid
+1236,Wallet,Paid
+1237,COD,Paid
+1238,COD,Paid
+1239,COD,Paid
+1240,UPI,Paid
+1241,Wallet,Paid
+1242,Credit Card,Paid
+1243,Credit Card,Paid
+1244,Wallet,Paid
+1245,Credit Card,Paid
+1246,Wallet,Paid
+1247,Wallet,Paid
+1248,Debit Card,Paid
+1249,Wallet,Paid
+1250,Debit Card,Paid
+1251,Credit Card,Paid
+1252,Wallet,Paid
+1253,Wallet,Paid
+1254,Debit Card,Paid
+1255,Debit Card,Paid
+1256,Wallet,Paid
+1257,Wallet,Paid
+1258,Debit Card,Paid
+1259,COD,Paid
+1260,Credit Card,Paid
+1261,COD,Paid
+1262,Credit Card,Paid
+1263,COD,Paid
+1264,Wallet,Paid
+1265,UPI,Paid
+1266,UPI,Paid
+1267,UPI,Paid
+1268,COD,Paid
+1269,COD,Paid
+1270,Debit Card,Paid
+1271,UPI,Paid
+1272,COD,Paid
+1273,COD,Paid
+1274,Credit Card,Paid
+1275,Credit Card,Paid
+1276,Debit Card,Paid
+1277,Credit Card,Paid
+1278,COD,Paid
+1279,UPI,Paid
+1280,UPI,Paid
+1281,COD,Paid
+1282,COD,Paid
+1283,Credit Card,Paid
+1284,COD,Paid
+1285,Credit Card,Paid
+1286,COD,Paid
+1287,COD,Paid
+1288,UPI,Paid
+1289,Credit Card,Paid
+1290,Credit Card,Paid
+1291,Wallet,Paid
+1292,UPI,Paid
+1293,UPI,Paid
+1294,Wallet,Paid
+1295,Debit Card,Paid
+1296,Wallet,Paid
+1297,Credit Card,Paid
+1298,Debit Card,Paid
+1299,UPI,Paid
+1300,COD,Paid
+1301,Debit Card,Paid
+1302,UPI,Paid
+1303,COD,Paid
+1304,Wallet,Paid
+1305,COD,Paid
+1306,COD,Paid
+1307,Debit Card,Paid
+1308,Credit Card,Paid
+1309,UPI,Paid
+1310,UPI,Paid
+1311,UPI,Paid
+1312,UPI,Paid
+1313,COD,Paid
+1314,Debit Card,Paid
+1315,Wallet,Paid
+1316,COD,Paid
+1317,COD,Paid
+1318,Credit Card,Paid
+1319,Debit Card,Paid
+1320,COD,Paid
+1321,COD,Paid
+1322,Debit Card,Paid
+1323,Debit Card,Paid
+1324,Wallet,Paid
+1325,COD,Paid
+1326,COD,Paid
+1327,Debit Card,Paid
+1328,Wallet,Paid
+1329,COD,Paid
+1330,Wallet,Paid
+1331,UPI,Paid
+1332,UPI,Paid
+1333,Debit Card,Paid
+1334,Credit Card,Paid
+1335,Debit Card,Paid
+1336,Credit Card,Paid
+1337,Wallet,Paid
+1338,Debit Card,Paid
+1339,Debit Card,Paid
+1340,UPI,Paid
+1341,UPI,Paid
+1342,Debit Card,Paid
+1343,Debit Card,Paid
+1344,Debit Card,Paid
+1345,COD,Paid
+1346,Wallet,Paid
+1347,Wallet,Paid
+1348,Debit Card,Paid
+1349,Debit Card,Paid
+1350,UPI,Paid
+1351,Wallet,Paid
+1352,COD,Paid
+1353,Credit Card,Paid
+1354,UPI,Paid
+1355,UPI,Paid
+1356,Debit Card,Paid
+1357,Credit Card,Paid
+1358,Wallet,Paid
+1359,COD,Paid
+1360,UPI,Paid
+1361,Wallet,Paid
+1362,UPI,Paid
+1363,COD,Paid
+1364,COD,Paid
+1365,COD,Paid
+1366,Debit Card,Paid
+1367,UPI,Paid
+1368,Debit Card,Paid
+1369,Wallet,Paid
+1370,COD,Paid
+1371,Credit Card,Paid
+1372,UPI,Paid
+1373,Debit Card,Paid
+1374,UPI,Paid
+1375,Wallet,Paid
+1376,UPI,Paid
+1377,Credit Card,Paid
+1378,COD,Paid
+1379,Credit Card,Paid
+1380,Wallet,Paid
+1381,Credit Card,Paid
+1382,Credit Card,Paid
+1383,COD,Paid
+1384,COD,Paid
+1385,Credit Card,Paid
+1386,Wallet,Paid
+1387,Wallet,Paid
+1388,Debit Card,Paid
+1389,Wallet,Paid
+1390,UPI,Paid
+1391,UPI,Paid
+1392,UPI,Paid
+1393,COD,Paid
+1394,Credit Card,Paid
+1395,Wallet,Paid
+1396,COD,Paid
+1397,Wallet,Paid
+1398,Debit Card,Paid
+1399,UPI,Paid
+1400,Wallet,Paid
+1401,Debit Card,Paid
+1402,Credit Card,Paid
+1403,UPI,Paid
+1404,Credit Card,Paid
+1405,COD,Paid
+1406,Debit Card,Paid
+1407,COD,Paid
+1408,COD,Paid
+1409,UPI,Paid
+1410,Credit Card,Paid
+1411,Wallet,Paid
+1412,COD,Paid
+1413,UPI,Paid
+1414,Debit Card,Paid
+1415,Debit Card,Paid
+1416,COD,Paid
+1417,UPI,Paid
+1418,Debit Card,Paid
+1419,Debit Card,Paid
+1420,UPI,Paid
+1421,Debit Card,Paid
+1422,Credit Card,Paid
+1423,Credit Card,Paid
+1424,Wallet,Paid
+1425,Debit Card,Paid
+1426,Debit Card,Paid
+1427,Credit Card,Paid
+1428,UPI,Paid
+1429,UPI,Paid
+1430,Debit Card,Paid
+1431,Credit Card,Paid
+1432,Wallet,Paid
+1433,Debit Card,Paid
+1434,UPI,Paid
+1435,Credit Card,Paid
+1436,COD,Paid
+1437,Wallet,Paid
+1438,COD,Paid
+1439,COD,Paid
+1440,COD,Paid
+1441,Credit Card,Paid
+1442,UPI,Paid
+1443,UPI,Paid
+1444,UPI,Paid
+1445,UPI,Paid
+1446,Credit Card,Paid
+1447,UPI,Paid
+1448,Credit Card,Paid
+1449,Debit Card,Paid
+1450,COD,Paid
+1451,UPI,Paid
+1452,UPI,Paid
+1453,UPI,Paid
+1454,Credit Card,Paid
+1455,Debit Card,Paid
+1456,COD,Paid
+1457,Debit Card,Paid
+1458,Wallet,Paid
+1459,Credit Card,Paid
+1460,COD,Paid
+1461,COD,Paid
+1462,Debit Card,Paid
+1463,Debit Card,Paid
+1464,Debit Card,Paid
+1465,Wallet,Paid
+1466,Credit Card,Paid
+1467,Credit Card,Paid
+1468,Debit Card,Paid
+1469,Wallet,Paid
+1470,COD,Paid
+1471,Debit Card,Paid
+1472,Credit Card,Paid
+1473,UPI,Paid
+1474,COD,Paid
+1475,Debit Card,Paid
+1476,Debit Card,Paid
+1477,COD,Paid
+1478,Debit Card,Paid
+1479,COD,Paid
+1480,Wallet,Paid
+1481,COD,Paid
+1482,COD,Paid
+1483,Wallet,Paid
+1484,Wallet,Paid
+1485,UPI,Paid
+1486,Debit Card,Paid
+1487,Wallet,Paid
+1488,Wallet,Paid
+1489,Wallet,Paid
+1490,Credit Card,Paid
+1491,Wallet,Paid
+1492,Wallet,Paid
+1493,COD,Paid
+1494,UPI,Paid
+1495,Credit Card,Paid
+1496,Wallet,Paid
+1497,Credit Card,Paid
+1498,Wallet,Paid
+1499,UPI,Paid
+1500,COD,Paid
+1501,COD,Paid
+1502,Wallet,Paid
+1503,Wallet,Paid
+1504,COD,Paid
+1505,Wallet,Paid
+1506,Credit Card,Paid
+1507,Credit Card,Paid
+1508,COD,Paid
+1509,Wallet,Paid
+1510,Wallet,Paid
+1511,UPI,Paid
+1512,COD,Paid
+1513,Credit Card,Paid
+1514,COD,Paid
+1515,UPI,Paid
+1516,UPI,Paid
+1517,Wallet,Paid
+1518,Debit Card,Paid
+1519,Wallet,Paid
+1520,UPI,Paid
+1521,COD,Paid
+1522,Wallet,Paid
+1523,COD,Paid
+1524,Wallet,Paid
+1525,COD,Paid
+1526,Debit Card,Paid
+1527,Wallet,Paid
+1528,Debit Card,Paid
+1529,Credit Card,Paid
+1530,Wallet,Paid
+1531,Wallet,Paid
+1532,UPI,Paid
+1533,UPI,Paid
+1534,UPI,Paid
+1535,Wallet,Paid
+1536,COD,Paid
+1537,UPI,Paid
+1538,Debit Card,Paid
+1539,Credit Card,Paid
+1540,Credit Card,Paid
+1541,UPI,Paid
+1542,COD,Paid
+1543,Wallet,Paid
+1544,UPI,Paid
+1545,Credit Card,Paid
+1546,Credit Card,Paid
+1547,Credit Card,Paid
+1548,Credit Card,Paid
+1549,UPI,Paid
+1550,COD,Paid
+1551,Debit Card,Paid
+1552,Debit Card,Paid
+1553,COD,Paid
+1554,Credit Card,Paid
+1555,Credit Card,Paid
+1556,COD,Paid
+1557,UPI,Paid
+1558,UPI,Paid
+1559,COD,Paid
+1560,COD,Paid
+1561,UPI,Paid
+1562,Debit Card,Paid
+1563,Wallet,Paid
+1564,Wallet,Paid
+1565,Wallet,Paid
+1566,Credit Card,Paid
+1567,Debit Card,Paid
+1568,COD,Paid
+1569,Debit Card,Paid
+1570,Debit Card,Paid
+1571,COD,Paid
+1572,Wallet,Paid
+1573,UPI,Paid
+1574,Debit Card,Paid
+1575,Credit Card,Paid
+1576,UPI,Paid
+1577,Credit Card,Paid
+1578,Debit Card,Paid
+1579,UPI,Paid
+1580,Credit Card,Paid
+1581,COD,Paid
+1582,Debit Card,Paid
+1583,Debit Card,Paid
+1584,UPI,Paid
+1585,Credit Card,Paid
+1586,Wallet,Paid
+1587,UPI,Paid
+1588,Wallet,Paid
+1589,Wallet,Paid
+1590,Wallet,Paid
+1591,Debit Card,Paid
+1592,UPI,Paid
+1593,Debit Card,Paid
+1594,Wallet,Paid
+1595,Credit Card,Paid
+1596,Credit Card,Paid
+1597,UPI,Paid
+1598,Wallet,Paid
+1599,Credit Card,Paid
+1600,COD,Paid
+1601,UPI,Paid
+1602,Wallet,Paid
+1603,Wallet,Paid
+1604,Debit Card,Paid
+1605,Debit Card,Paid
+1606,COD,Paid
+1607,Wallet,Paid
+1608,Wallet,Paid
+1609,Credit Card,Paid
+1610,COD,Paid
+1611,COD,Paid
+1612,Credit Card,Paid
+1613,Debit Card,Paid
+1614,Credit Card,Paid
+1615,Credit Card,Paid
+1616,UPI,Paid
+1617,Wallet,Paid
+1618,UPI,Paid
+1619,UPI,Paid
+1620,COD,Paid
+1621,UPI,Paid
+1622,UPI,Paid
+1623,UPI,Paid
+1624,Debit Card,Paid
+1625,Debit Card,Paid
+1626,Wallet,Paid
+1627,UPI,Paid
+1628,Credit Card,Paid
+1629,Credit Card,Paid
+1630,UPI,Paid
+1631,COD,Paid
+1632,Debit Card,Paid
+1633,COD,Paid
+1634,Debit Card,Paid
+1635,Wallet,Paid
+1636,Debit Card,Paid
+1637,COD,Paid
+1638,UPI,Paid
+1639,COD,Paid
+1640,Debit Card,Paid
+1641,Debit Card,Paid
+1642,COD,Paid
+1643,COD,Paid
+1644,COD,Paid
+1645,UPI,Paid
+1646,UPI,Paid
+1647,Debit Card,Paid
+1648,Debit Card,Paid
+1649,COD,Paid
+1650,COD,Paid
+1651,UPI,Paid
+1652,COD,Paid
+1653,Credit Card,Paid
+1654,COD,Paid
+1655,UPI,Paid
+1656,Wallet,Paid
+1657,COD,Paid
+1658,UPI,Paid
+1659,Debit Card,Paid
+1660,UPI,Paid
+1661,Wallet,Paid
+1662,COD,Paid
+1663,UPI,Paid
+1664,Wallet,Paid
+1665,UPI,Paid
+1666,COD,Paid
+1667,Wallet,Paid
+1668,Debit Card,Paid
+1669,UPI,Paid
+1670,Credit Card,Paid
+1671,Credit Card,Paid
+1672,UPI,Paid
+1673,UPI,Paid
+1674,UPI,Paid
+1675,Wallet,Paid
+1676,Debit Card,Paid
+1677,Debit Card,Paid
+1678,Credit Card,Paid
+1679,Debit Card,Paid
+1680,Debit Card,Paid
+1681,COD,Paid
+1682,Debit Card,Paid
+1683,Debit Card,Paid
+1684,UPI,Paid
+1685,Credit Card,Paid
+1686,Debit Card,Paid
+1687,Credit Card,Paid
+1688,Debit Card,Paid
+1689,Wallet,Paid
+1690,Wallet,Paid
+1691,UPI,Paid
+1692,Credit Card,Paid
+1693,Debit Card,Paid
+1694,COD,Paid
+1695,UPI,Paid
+1696,COD,Paid
+1697,Wallet,Paid
+1698,COD,Paid
+1699,Debit Card,Paid
+1700,Debit Card,Paid
+1701,Wallet,Paid
+1702,UPI,Paid
+1703,UPI,Paid
+1704,Debit Card,Paid
+1705,Debit Card,Paid
+1706,Debit Card,Paid
+1707,COD,Paid
+1708,Wallet,Paid
+1709,Credit Card,Paid
+1710,UPI,Paid
+1711,Wallet,Paid
+1712,Debit Card,Paid
+1713,COD,Paid
+1714,Wallet,Paid
+1715,UPI,Paid
+1716,UPI,Paid
+1717,COD,Paid
+1718,UPI,Paid
+1719,UPI,Paid
+1720,COD,Paid
+1721,Credit Card,Paid
+1722,Debit Card,Paid
+1723,COD,Paid
+1724,Debit Card,Paid
+1725,Debit Card,Paid
+1726,Wallet,Paid
+1727,COD,Paid
+1728,Debit Card,Paid
+1729,Debit Card,Paid
+1730,Debit Card,Paid
+1731,COD,Paid
+1732,Wallet,Paid
+1733,UPI,Paid
+1734,UPI,Paid
+1735,Wallet,Paid
+1736,COD,Paid
+1737,Credit Card,Paid
+1738,COD,Paid
+1739,Wallet,Paid
+1740,Wallet,Paid
+1741,Debit Card,Paid
+1742,Debit Card,Paid
+1743,Credit Card,Paid
+1744,UPI,Paid
+1745,UPI,Paid
+1746,Credit Card,Paid
+1747,Debit Card,Paid
+1748,COD,Paid
+1749,UPI,Paid
+1750,Credit Card,Paid
+1751,COD,Paid
+1752,Wallet,Paid
+1753,Debit Card,Paid
+1754,Wallet,Paid
+1755,Credit Card,Paid
+1756,COD,Paid
+1757,COD,Paid
+1758,COD,Paid
+1759,COD,Paid
+1760,Debit Card,Paid
+1761,Credit Card,Paid
+1762,COD,Paid
+1763,UPI,Paid
+1764,COD,Paid
+1765,COD,Paid
+1766,Debit Card,Paid
+1767,Wallet,Paid
+1768,UPI,Paid
+1769,Wallet,Paid
+1770,Debit Card,Paid
+1771,COD,Paid
+1772,UPI,Paid
+1773,Wallet,Paid
+1774,UPI,Paid
+1775,Debit Card,Paid
+1776,Wallet,Paid
+1777,Debit Card,Paid
+1778,UPI,Paid
+1779,Credit Card,Paid
+1780,Credit Card,Paid
+1781,Wallet,Paid
+1782,Credit Card,Paid
+1783,UPI,Paid
+1784,Debit Card,Paid
+1785,COD,Paid
+1786,Debit Card,Paid
+1787,Debit Card,Paid
+1788,Wallet,Paid
+1789,COD,Paid
+1790,Debit Card,Paid
+1791,COD,Paid
+1792,UPI,Paid
+1793,UPI,Paid
+1794,Debit Card,Paid
+1795,Wallet,Paid
+1796,UPI,Paid
+1797,Wallet,Paid
+1798,Credit Card,Paid
+1799,Credit Card,Paid
+1800,COD,Paid
+1801,UPI,Paid
+1802,COD,Paid
+1803,Credit Card,Paid
+1804,Debit Card,Paid
+1805,COD,Paid
+1806,Wallet,Paid
+1807,Wallet,Paid
+1808,Credit Card,Paid
+1809,Wallet,Paid
+1810,Credit Card,Paid
+1811,Debit Card,Paid
+1812,COD,Paid
+1813,COD,Paid
+1814,Credit Card,Paid
+1815,UPI,Paid
+1816,COD,Paid
+1817,UPI,Paid
+1818,Wallet,Paid
+1819,Debit Card,Paid
+1820,Debit Card,Paid
+1821,UPI,Paid
+1822,Credit Card,Paid
+1823,Debit Card,Paid
+1824,Credit Card,Paid
+1825,Debit Card,Paid
+1826,Credit Card,Paid
+1827,Debit Card,Paid
+1828,COD,Paid
+1829,Wallet,Paid
+1830,Wallet,Paid
+1831,Credit Card,Paid
+1832,Debit Card,Paid
+1833,COD,Paid
+1834,UPI,Paid
+1835,Credit Card,Paid
+1836,COD,Paid
+1837,Debit Card,Paid
+1838,UPI,Paid
+1839,Wallet,Paid
+1840,Credit Card,Paid
+1841,Wallet,Paid
+1842,UPI,Paid
+1843,Credit Card,Paid
+1844,UPI,Paid
+1845,COD,Paid
+1846,Wallet,Paid
+1847,Wallet,Paid
+1848,Credit Card,Paid
+1849,COD,Paid
+1850,Debit Card,Paid
+1851,Debit Card,Paid
+1852,Wallet,Paid
+1853,Credit Card,Paid
+1854,COD,Paid
+1855,Debit Card,Paid
+1856,Wallet,Paid
+1857,Credit Card,Paid
+1858,COD,Paid
+1859,Credit Card,Paid
+1860,Credit Card,Paid
+1861,Wallet,Paid
+1862,Debit Card,Paid
+1863,Debit Card,Paid
+1864,COD,Paid
+1865,COD,Paid
+1866,UPI,Paid
+1867,Debit Card,Paid
+1868,Debit Card,Paid
+1869,COD,Paid
+1870,Debit Card,Paid
+1871,COD,Paid
+1872,COD,Paid
+1873,Debit Card,Paid
+1874,COD,Paid
+1875,COD,Paid
+1876,Wallet,Paid
+1877,Wallet,Paid
+1878,UPI,Paid
+1879,Credit Card,Paid
+1880,Debit Card,Paid
+1881,UPI,Paid
+1882,COD,Paid
+1883,COD,Paid
+1884,Debit Card,Paid
+1885,UPI,Paid
+1886,COD,Paid
+1887,COD,Paid
+1888,Debit Card,Paid
+1889,COD,Paid
+1890,COD,Paid
+1891,Credit Card,Paid
+1892,Credit Card,Paid
+1893,Credit Card,Paid
+1894,Wallet,Paid
+1895,UPI,Paid
+1896,Credit Card,Paid
+1897,Credit Card,Paid
+1898,COD,Paid
+1899,COD,Paid
+1900,COD,Paid
+1901,Wallet,Paid
+1902,UPI,Paid
+1903,Credit Card,Paid
+1904,UPI,Paid
+1905,COD,Paid
+1906,Debit Card,Paid
+1907,UPI,Paid
+1908,Debit Card,Paid
+1909,UPI,Paid
+1910,UPI,Paid
+1911,COD,Paid
+1912,Wallet,Paid
+1913,Credit Card,Paid
+1914,Debit Card,Paid
+1915,Debit Card,Paid
+1916,Credit Card,Paid
+1917,Wallet,Paid
+1918,Credit Card,Paid
+1919,COD,Paid
+1920,Wallet,Paid
+1921,Debit Card,Paid
+1922,UPI,Paid
+1923,Wallet,Paid
+1924,UPI,Paid
+1925,Debit Card,Paid
+1926,COD,Paid
+1927,Debit Card,Paid
+1928,Credit Card,Paid
+1929,Credit Card,Paid
+1930,COD,Paid
+1931,Wallet,Paid
+1932,Debit Card,Paid
+1933,Wallet,Paid
+1934,COD,Paid
+1935,Debit Card,Paid
+1936,COD,Paid
+1937,COD,Paid
+1938,Debit Card,Paid
+1939,UPI,Paid
+1940,Wallet,Paid
+1941,Credit Card,Paid
+1942,Debit Card,Paid
+1943,UPI,Paid
+1944,Wallet,Paid
+1945,COD,Paid
+1946,Debit Card,Paid
+1947,Wallet,Paid
+1948,COD,Paid
+1949,Credit Card,Paid
+1950,Credit Card,Paid
+1951,Debit Card,Paid
+1952,Wallet,Paid
+1953,Debit Card,Paid
+1954,Wallet,Paid
+1955,Debit Card,Paid
+1956,Debit Card,Paid
+1957,Debit Card,Paid
+1958,COD,Paid
+1959,Wallet,Paid
+1960,COD,Paid
+1961,Debit Card,Paid
+1962,Debit Card,Paid
+1963,COD,Paid
+1964,Debit Card,Paid
+1965,COD,Paid
+1966,UPI,Paid
+1967,UPI,Paid
+1968,Wallet,Paid
+1969,UPI,Paid
+1970,Debit Card,Paid
+1971,COD,Paid
+1972,Credit Card,Paid
+1973,Debit Card,Paid
+1974,Debit Card,Paid
+1975,Wallet,Paid
+1976,UPI,Paid
+1977,Credit Card,Paid
+1978,COD,Paid
+1979,Credit Card,Paid
+1980,Wallet,Paid
+1981,UPI,Paid
+1982,COD,Paid
+1983,COD,Paid
+1984,Debit Card,Paid
+1985,UPI,Paid
+1986,Credit Card,Paid
+1987,Credit Card,Paid
+1988,UPI,Paid
+1989,Wallet,Paid
+1990,Wallet,Paid
+1991,Debit Card,Paid
+1992,Credit Card,Paid
+1993,Debit Card,Paid
+1994,COD,Paid
+1995,Wallet,Paid
+1996,Wallet,Paid
+1997,COD,Paid
+1998,Wallet,Paid
+1999,Credit Card,Paid
+2000,Wallet,Paid
+2001,Credit Card,Paid
+2002,Debit Card,Paid
+2003,Wallet,Paid
+2004,Debit Card,Paid
+2005,Wallet,Paid
+2006,Credit Card,Paid
+2007,Debit Card,Paid
+2008,COD,Paid
+2009,Debit Card,Paid
+2010,COD,Paid
+2011,COD,Paid
+2012,UPI,Paid
+2013,UPI,Paid
+2014,UPI,Paid
+2015,COD,Paid
+2016,Credit Card,Paid
+2017,Debit Card,Paid
+2018,COD,Paid
+2019,UPI,Paid
+2020,Debit Card,Paid
+2021,Wallet,Paid
+2022,COD,Paid
+2023,Debit Card,Paid
+2024,COD,Paid
+2025,Wallet,Paid
+2026,Wallet,Paid
+2027,Credit Card,Paid
+2028,COD,Paid
+2029,COD,Paid
+2030,Debit Card,Paid
+2031,UPI,Paid
+2032,Wallet,Paid
+2033,Wallet,Paid
+2034,Debit Card,Paid
+2035,Wallet,Paid
+2036,COD,Paid
+2037,Credit Card,Paid
+2038,COD,Paid
+2039,Credit Card,Paid
+2040,Debit Card,Paid
+2041,Credit Card,Paid
+2042,Debit Card,Paid
+2043,COD,Paid
+2044,Credit Card,Paid
+2045,COD,Paid
+2046,Credit Card,Paid
+2047,COD,Paid
+2048,Debit Card,Paid
+2049,Wallet,Paid
+2050,Credit Card,Paid
+2051,UPI,Paid
+2052,UPI,Paid
+2053,UPI,Paid
+2054,Credit Card,Paid
+2055,Credit Card,Paid
+2056,Credit Card,Paid
+2057,Credit Card,Paid
+2058,Debit Card,Paid
+2059,Credit Card,Paid
+2060,UPI,Paid
+2061,Debit Card,Paid
+2062,Wallet,Paid
+2063,Credit Card,Paid
+2064,Wallet,Paid
+2065,UPI,Paid
+2066,COD,Paid
+2067,COD,Paid
+2068,Debit Card,Paid
+2069,Debit Card,Paid
+2070,Credit Card,Paid
+2071,UPI,Paid
+2072,COD,Paid
+2073,Debit Card,Paid
+2074,COD,Paid
+2075,Debit Card,Paid
+2076,Credit Card,Paid
+2077,COD,Paid
+2078,COD,Paid
+2079,Wallet,Paid
+2080,Wallet,Paid
+2081,COD,Paid
+2082,Credit Card,Paid
+2083,Credit Card,Paid
+2084,Credit Card,Paid
+2085,UPI,Paid
+2086,UPI,Paid
+2087,Credit Card,Paid
+2088,Debit Card,Paid
+2089,Credit Card,Paid
+2090,Credit Card,Paid
+2091,Wallet,Paid
+2092,Credit Card,Paid
+2093,UPI,Paid
+2094,Credit Card,Paid
+2095,Credit Card,Paid
+2096,Debit Card,Paid
+2097,Credit Card,Paid
+2098,Credit Card,Paid
+2099,COD,Paid
+2100,Debit Card,Paid
+2101,Credit Card,Paid
+2102,COD,Paid
+2103,COD,Paid
+2104,Wallet,Paid
+2105,COD,Paid
+2106,Debit Card,Paid
+2107,COD,Paid
+2108,Debit Card,Paid
+2109,UPI,Paid
+2110,UPI,Paid
+2111,Credit Card,Paid
+2112,Credit Card,Paid
+2113,Debit Card,Paid
+2114,COD,Paid
+2115,Credit Card,Paid
+2116,UPI,Paid
+2117,UPI,Paid
+2118,Credit Card,Paid
+2119,Wallet,Paid
+2120,UPI,Paid
+2121,Wallet,Paid
+2122,UPI,Paid
+2123,Credit Card,Paid
+2124,Debit Card,Paid
+2125,Credit Card,Paid
+2126,Credit Card,Paid
+2127,UPI,Paid
+2128,COD,Paid
+2129,Debit Card,Paid
+2130,Debit Card,Paid
+2131,Debit Card,Paid
+2132,Credit Card,Paid
+2133,COD,Paid
+2134,COD,Paid
+2135,COD,Paid
+2136,COD,Paid
+2137,Credit Card,Paid
+2138,COD,Paid
+2139,UPI,Paid
+2140,Wallet,Paid
+2141,COD,Paid
+2142,UPI,Paid
+2143,COD,Paid
+2144,COD,Paid
+2145,Debit Card,Paid
+2146,COD,Paid
+2147,Debit Card,Paid
+2148,COD,Paid
+2149,Credit Card,Paid
+2150,Debit Card,Paid
+2151,Debit Card,Paid
+2152,Wallet,Paid
+2153,COD,Paid
+2154,Credit Card,Paid
+2155,COD,Paid
+2156,Credit Card,Paid
+2157,UPI,Paid
+2158,Debit Card,Paid
+2159,Debit Card,Paid
+2160,Credit Card,Paid
+2161,Credit Card,Paid
+2162,COD,Paid
+2163,Debit Card,Paid
+2164,COD,Paid
+2165,Wallet,Paid
+2166,Debit Card,Paid
+2167,Credit Card,Paid
+2168,Debit Card,Paid
+2169,COD,Paid
+2170,COD,Paid
+2171,Debit Card,Paid
+2172,Credit Card,Paid
+2173,UPI,Paid
+2174,Debit Card,Paid
+2175,UPI,Paid
+2176,COD,Paid
+2177,UPI,Paid
+2178,Wallet,Paid
+2179,UPI,Paid
+2180,Wallet,Paid
+2181,COD,Paid
+2182,COD,Paid
+2183,UPI,Paid
+2184,UPI,Paid
+2185,COD,Paid
+2186,Wallet,Paid
+2187,Credit Card,Paid
+2188,Debit Card,Paid
+2189,COD,Paid
+2190,UPI,Paid
+2191,Wallet,Paid
+2192,UPI,Paid
+2193,Debit Card,Paid
+2194,Credit Card,Paid
+2195,Wallet,Paid
+2196,Debit Card,Paid
+2197,UPI,Paid
+2198,UPI,Paid
+2199,Credit Card,Paid
+2200,Credit Card,Paid
+2201,UPI,Paid
+2202,Debit Card,Paid
+2203,UPI,Paid
+2204,Credit Card,Paid
+2205,Wallet,Paid
+2206,COD,Paid
+2207,COD,Paid
+2208,UPI,Paid
+2209,Credit Card,Paid
+2210,Credit Card,Paid
+2211,COD,Paid
+2212,UPI,Paid
+2213,COD,Paid
+2214,Debit Card,Paid
+2215,Debit Card,Paid
+2216,Debit Card,Paid
+2217,COD,Paid
+2218,Credit Card,Paid
+2219,Wallet,Paid
+2220,Credit Card,Paid
+2221,Wallet,Paid
+2222,COD,Paid
+2223,Debit Card,Paid
+2224,Debit Card,Paid
+2225,Debit Card,Paid
+2226,Debit Card,Paid
+2227,COD,Paid
+2228,Wallet,Paid
+2229,Debit Card,Paid
+2230,Wallet,Paid
+2231,Debit Card,Paid
+2232,UPI,Paid
+2233,Debit Card,Paid
+2234,Debit Card,Paid
+2235,COD,Paid
+2236,Debit Card,Paid
+2237,COD,Paid
+2238,Wallet,Paid
+2239,COD,Paid
+2240,UPI,Paid
+2241,Debit Card,Paid
+2242,Wallet,Paid
+2243,Credit Card,Paid
+2244,Wallet,Paid
+2245,COD,Paid
+2246,Wallet,Paid
+2247,Credit Card,Paid
+2248,Credit Card,Paid
+2249,UPI,Paid
+2250,Credit Card,Paid
+2251,COD,Paid
+2252,Wallet,Paid
+2253,COD,Paid
+2254,UPI,Paid
+2255,UPI,Paid
+2256,Credit Card,Paid
+2257,Wallet,Paid
+2258,Debit Card,Paid
+2259,Credit Card,Paid
+2260,Credit Card,Paid
+2261,COD,Paid
+2262,UPI,Paid
+2263,Credit Card,Paid
+2264,Credit Card,Paid
+2265,Credit Card,Paid
+2266,Wallet,Paid
+2267,Wallet,Paid
+2268,Debit Card,Paid
+2269,COD,Paid
+2270,Debit Card,Paid
+2271,Credit Card,Paid
+2272,Wallet,Paid
+2273,UPI,Paid
+2274,Credit Card,Paid
+2275,COD,Paid
+2276,COD,Paid
+2277,Wallet,Paid
+2278,COD,Paid
+2279,Debit Card,Paid
+2280,Credit Card,Paid
+2281,Debit Card,Paid
+2282,COD,Paid
+2283,Debit Card,Paid
+2284,Wallet,Paid
+2285,Debit Card,Paid
+2286,COD,Paid
+2287,Debit Card,Paid
+2288,Wallet,Paid
+2289,Wallet,Paid
+2290,Debit Card,Paid
+2291,COD,Paid
+2292,COD,Paid
+2293,Debit Card,Paid
+2294,UPI,Paid
+2295,Wallet,Paid
+2296,COD,Paid
+2297,Debit Card,Paid
+2298,Credit Card,Paid
+2299,Credit Card,Paid
+2300,COD,Paid
+2301,Wallet,Paid
+2302,COD,Paid
+2303,Credit Card,Paid
+2304,Debit Card,Paid
+2305,UPI,Paid
+2306,COD,Paid
+2307,Debit Card,Paid
+2308,Wallet,Paid
+2309,Wallet,Paid
+2310,UPI,Paid
+2311,Credit Card,Paid
+2312,Credit Card,Paid
+2313,COD,Paid
+2314,UPI,Paid
+2315,COD,Paid
+2316,Debit Card,Paid
+2317,Debit Card,Paid
+2318,Wallet,Paid
+2319,UPI,Paid
+2320,Wallet,Paid
+2321,Debit Card,Paid
+2322,COD,Paid
+2323,Credit Card,Paid
+2324,Wallet,Paid
+2325,COD,Paid
+2326,Credit Card,Paid
+2327,Debit Card,Paid
+2328,Debit Card,Paid
+2329,UPI,Paid
+2330,UPI,Paid
+2331,UPI,Paid
+2332,Wallet,Paid
+2333,Credit Card,Paid
+2334,UPI,Paid
+2335,COD,Paid
+2336,COD,Paid
+2337,Wallet,Paid
+2338,COD,Paid
+2339,Debit Card,Paid
+2340,Debit Card,Paid
+2341,UPI,Paid
+2342,Wallet,Paid
+2343,UPI,Paid
+2344,COD,Paid
+2345,COD,Paid
+2346,UPI,Paid
+2347,COD,Paid
+2348,Wallet,Paid
+2349,COD,Paid
+2350,Wallet,Paid
+2351,Wallet,Paid
+2352,Wallet,Paid
+2353,Wallet,Paid
+2354,UPI,Paid
+2355,COD,Paid
+2356,Credit Card,Paid
+2357,Debit Card,Paid
+2358,COD,Paid
+2359,Debit Card,Paid
+2360,Credit Card,Paid
+2361,Debit Card,Paid
+2362,UPI,Paid
+2363,Credit Card,Paid
+2364,Debit Card,Paid
+2365,Wallet,Paid
+2366,Wallet,Paid
+2367,UPI,Paid
+2368,Wallet,Paid
+2369,Wallet,Paid
+2370,Wallet,Paid
+2371,Credit Card,Paid
+2372,COD,Paid
+2373,Credit Card,Paid
+2374,UPI,Paid
+2375,COD,Paid
+2376,Credit Card,Paid
+2377,COD,Paid
+2378,Credit Card,Paid
+2379,UPI,Paid
+2380,UPI,Paid
+2381,Credit Card,Paid
+2382,Credit Card,Paid
+2383,UPI,Paid
+2384,UPI,Paid
+2385,Credit Card,Paid
+2386,Wallet,Paid
+2387,COD,Paid
+2388,Wallet,Paid
+2389,UPI,Paid
+2390,COD,Paid
+2391,COD,Paid
+2392,Credit Card,Paid
+2393,UPI,Paid
+2394,COD,Paid
+2395,Debit Card,Paid
+2396,UPI,Paid
+2397,UPI,Paid
+2398,UPI,Paid
+2399,COD,Paid
+2400,Debit Card,Paid
+2401,Credit Card,Paid
+2402,Debit Card,Paid
+2403,Wallet,Paid
+2404,COD,Paid
+2405,Wallet,Paid
+2406,Wallet,Paid
+2407,Wallet,Paid
+2408,UPI,Paid
+2409,Debit Card,Paid
+2410,COD,Paid
+2411,Credit Card,Paid
+2412,UPI,Paid
+2413,Wallet,Paid
+2414,Credit Card,Paid
+2415,UPI,Paid
+2416,Debit Card,Paid
+2417,Wallet,Paid
+2418,COD,Paid
+2419,Credit Card,Paid
+2420,Credit Card,Paid
+2421,Debit Card,Paid
+2422,COD,Paid
+2423,Debit Card,Paid
+2424,UPI,Paid
+2425,Debit Card,Paid
+2426,Wallet,Paid
+2427,Wallet,Paid
+2428,Debit Card,Paid
+2429,Debit Card,Paid
+2430,Debit Card,Paid
+2431,Debit Card,Paid
+2432,COD,Paid
+2433,Wallet,Paid
+2434,COD,Paid
+2435,Debit Card,Paid
+2436,UPI,Paid
+2437,Debit Card,Paid
+2438,COD,Paid
+2439,Wallet,Paid
+2440,Wallet,Paid
+2441,Debit Card,Paid
+2442,UPI,Paid
+2443,COD,Paid
+2444,UPI,Paid
+2445,Debit Card,Paid
+2446,Credit Card,Paid
+2447,UPI,Paid
+2448,Wallet,Paid
+2449,Debit Card,Paid
+2450,Debit Card,Paid
+2451,COD,Paid
+2452,Credit Card,Paid
+2453,COD,Paid
+2454,UPI,Paid
+2455,Credit Card,Paid
+2456,Credit Card,Paid
+2457,Wallet,Paid
+2458,UPI,Paid
+2459,Wallet,Paid
+2460,Wallet,Paid
+2461,UPI,Paid
+2462,COD,Paid
+2463,Wallet,Paid
+2464,UPI,Paid
+2465,COD,Paid
+2466,UPI,Paid
+2467,Debit Card,Paid
+2468,UPI,Paid
+2469,Wallet,Paid
+2470,Credit Card,Paid
+2471,Credit Card,Paid
+2472,Debit Card,Paid
+2473,UPI,Paid
+2474,Debit Card,Paid
+2475,UPI,Paid
+2476,Credit Card,Paid
+2477,COD,Paid
+2478,Credit Card,Paid
+2479,Wallet,Paid
+2480,Debit Card,Paid
+2481,Wallet,Paid
+2482,UPI,Paid
+2483,Wallet,Paid
+2484,Credit Card,Paid
+2485,UPI,Paid
+2486,Debit Card,Paid
+2487,COD,Paid
+2488,Wallet,Paid
+2489,Debit Card,Paid
+2490,COD,Paid
+2491,UPI,Paid
+2492,UPI,Paid
+2493,UPI,Paid
+2494,Credit Card,Paid
+2495,UPI,Paid
+2496,Wallet,Paid
+2497,Credit Card,Paid
+2498,Wallet,Paid
+2499,Debit Card,Paid
+2500,Credit Card,Paid
+2501,Wallet,Paid
+2502,Debit Card,Paid
+2503,UPI,Paid
+2504,Credit Card,Paid
+2505,Credit Card,Paid
+2506,COD,Paid
+2507,Credit Card,Paid
+2508,UPI,Paid
+2509,Debit Card,Paid
+2510,Credit Card,Paid
+2511,COD,Paid
+2512,Wallet,Paid
+2513,Wallet,Paid
+2514,Wallet,Paid
+2515,Credit Card,Paid
+2516,Wallet,Paid
+2517,Credit Card,Paid
+2518,COD,Paid
+2519,Wallet,Paid
+2520,Wallet,Paid
+2521,UPI,Paid
+2522,Wallet,Paid
+2523,Credit Card,Paid
+2524,Wallet,Paid
+2525,Wallet,Paid
+2526,Debit Card,Paid
+2527,UPI,Paid
+2528,Wallet,Paid
+2529,UPI,Paid
+2530,Wallet,Paid
+2531,UPI,Paid
+2532,UPI,Paid
+2533,Wallet,Paid
+2534,Debit Card,Paid
+2535,UPI,Paid
+2536,Wallet,Paid
+2537,Debit Card,Paid
+2538,Debit Card,Paid
+2539,UPI,Paid
+2540,Wallet,Paid
+2541,Debit Card,Paid
+2542,Wallet,Paid
+2543,Credit Card,Paid
+2544,Wallet,Paid
+2545,Debit Card,Paid
+2546,Wallet,Paid
+2547,Debit Card,Paid
+2548,Credit Card,Paid
+2549,Credit Card,Paid
+2550,Wallet,Paid
+2551,Credit Card,Paid
+2552,Credit Card,Paid
+2553,Debit Card,Paid
+2554,Debit Card,Paid
+2555,Debit Card,Paid
+2556,Debit Card,Paid
+2557,UPI,Paid
+2558,Debit Card,Paid
+2559,Debit Card,Paid
+2560,Credit Card,Paid
+2561,UPI,Paid
+2562,Debit Card,Paid
+2563,COD,Paid
+2564,Wallet,Paid
+2565,Wallet,Paid
+2566,Credit Card,Paid
+2567,Debit Card,Paid
+2568,UPI,Paid
+2569,COD,Paid
+2570,Credit Card,Paid
+2571,Debit Card,Paid
+2572,Wallet,Paid
+2573,COD,Paid
+2574,COD,Paid
+2575,Debit Card,Paid
+2576,UPI,Paid
+2577,Credit Card,Paid
+2578,UPI,Paid
+2579,Credit Card,Paid
+2580,Debit Card,Paid
+2581,Debit Card,Paid
+2582,COD,Paid
+2583,Debit Card,Paid
+2584,UPI,Paid
+2585,COD,Paid
+2586,Wallet,Paid
+2587,Wallet,Paid
+2588,COD,Paid
+2589,Credit Card,Paid
+2590,COD,Paid
+2591,COD,Paid
+2592,Wallet,Paid
+2593,Debit Card,Paid
+2594,Debit Card,Paid
+2595,Wallet,Paid
+2596,Credit Card,Paid
+2597,Debit Card,Paid
+2598,Wallet,Paid
+2599,Credit Card,Paid
+2600,Credit Card,Paid
+2601,Debit Card,Paid
+2602,Credit Card,Paid
+2603,Wallet,Paid
+2604,Debit Card,Paid
+2605,Credit Card,Paid
+2606,Credit Card,Paid
+2607,UPI,Paid
+2608,UPI,Paid
+2609,Credit Card,Paid
+2610,Credit Card,Paid
+2611,Wallet,Paid
+2612,COD,Paid
+2613,Wallet,Paid
+2614,Credit Card,Paid
+2615,COD,Paid
+2616,UPI,Paid
+2617,UPI,Paid
+2618,UPI,Paid
+2619,Credit Card,Paid
+2620,UPI,Paid
+2621,UPI,Paid
+2622,UPI,Paid
+2623,UPI,Paid
+2624,UPI,Paid
+2625,Wallet,Paid
+2626,Credit Card,Paid
+2627,Credit Card,Paid
+2628,Debit Card,Paid
+2629,Debit Card,Paid
+2630,COD,Paid
+2631,Wallet,Paid
+2632,UPI,Paid
+2633,Wallet,Paid
+2634,Wallet,Paid
+2635,Credit Card,Paid
+2636,Debit Card,Paid
+2637,COD,Paid
+2638,Credit Card,Paid
+2639,UPI,Paid
+2640,Credit Card,Paid
+2641,Wallet,Paid
+2642,Credit Card,Paid
+2643,Wallet,Paid
+2644,COD,Paid
+2645,Debit Card,Paid
+2646,Debit Card,Paid
+2647,Credit Card,Paid
+2648,UPI,Paid
+2649,Wallet,Paid
+2650,COD,Paid
+2651,Wallet,Paid
+2652,Credit Card,Paid
+2653,Credit Card,Paid
+2654,Credit Card,Paid
+2655,Wallet,Paid
+2656,UPI,Paid
+2657,COD,Paid
+2658,UPI,Paid
+2659,UPI,Paid
+2660,Debit Card,Paid
+2661,Debit Card,Paid
+2662,Debit Card,Paid
+2663,Credit Card,Paid
+2664,COD,Paid
+2665,Wallet,Paid
+2666,UPI,Paid
+2667,Wallet,Paid
+2668,Credit Card,Paid
+2669,Debit Card,Paid
+2670,UPI,Paid
+2671,Wallet,Paid
+2672,Wallet,Paid
+2673,UPI,Paid
+2674,Wallet,Paid
+2675,Wallet,Paid
+2676,Credit Card,Paid
+2677,Wallet,Paid
+2678,Credit Card,Paid
+2679,Debit Card,Paid
+2680,Wallet,Paid
+2681,Wallet,Paid
+2682,Credit Card,Paid
+2683,Credit Card,Paid
+2684,Credit Card,Paid
+2685,Credit Card,Paid
+2686,Debit Card,Paid
+2687,Debit Card,Paid
+2688,Wallet,Paid
+2689,Credit Card,Paid
+2690,Wallet,Paid
+2691,COD,Paid
+2692,Debit Card,Paid
+2693,Debit Card,Paid
+2694,Wallet,Paid
+2695,COD,Paid
+2696,Debit Card,Paid
+2697,UPI,Paid
+2698,Debit Card,Paid
+2699,Debit Card,Paid
+2700,Debit Card,Paid
+2701,Wallet,Paid
+2702,Debit Card,Paid
+2703,UPI,Paid
+2704,Credit Card,Paid
+2705,Wallet,Paid
+2706,UPI,Paid
+2707,Wallet,Paid
+2708,Credit Card,Paid
+2709,Debit Card,Paid
+2710,Debit Card,Paid
+2711,Debit Card,Paid
+2712,Debit Card,Paid
+2713,Debit Card,Paid
+2714,Debit Card,Paid
+2715,COD,Paid
+2716,UPI,Paid
+2717,Credit Card,Paid
+2718,UPI,Paid
+2719,Debit Card,Paid
+2720,COD,Paid
+2721,Debit Card,Paid
+2722,COD,Paid
+2723,COD,Paid
+2724,Credit Card,Paid
+2725,UPI,Paid
+2726,UPI,Paid
+2727,Wallet,Paid
+2728,UPI,Paid
+2729,COD,Paid
+2730,Wallet,Paid
+2731,COD,Paid
+2732,Credit Card,Paid
+2733,Debit Card,Paid
+2734,Credit Card,Paid
+2735,UPI,Paid
+2736,Credit Card,Paid
+2737,Credit Card,Paid
+2738,COD,Paid
+2739,Credit Card,Paid
+2740,Credit Card,Paid
+2741,UPI,Paid
+2742,Credit Card,Paid
+2743,Debit Card,Paid
+2744,Debit Card,Paid
+2745,COD,Paid
+2746,Debit Card,Paid
+2747,Debit Card,Paid
+2748,COD,Paid
+2749,Credit Card,Paid
+2750,Credit Card,Paid
+2751,Credit Card,Paid
+2752,Wallet,Paid
+2753,UPI,Paid
+2754,UPI,Paid
+2755,UPI,Paid
+2756,Wallet,Paid
+2757,Debit Card,Paid
+2758,Wallet,Paid
+2759,Debit Card,Paid
+2760,Wallet,Paid
+2761,Debit Card,Paid
+2762,Credit Card,Paid
+2763,UPI,Paid
+2764,Wallet,Paid
+2765,COD,Paid
+2766,COD,Paid
+2767,Credit Card,Paid
+2768,COD,Paid
+2769,Wallet,Paid
+2770,UPI,Paid
+2771,UPI,Paid
+2772,Wallet,Paid
+2773,Credit Card,Paid
+2774,Debit Card,Paid
+2775,Debit Card,Paid
+2776,Debit Card,Paid
+2777,Wallet,Paid
+2778,Wallet,Paid
+2779,COD,Paid
+2780,Debit Card,Paid
+2781,UPI,Paid
+2782,Wallet,Paid
+2783,COD,Paid
+2784,Debit Card,Paid
+2785,Credit Card,Paid
+2786,Credit Card,Paid
+2787,UPI,Paid
+2788,COD,Paid
+2789,UPI,Paid
+2790,Wallet,Paid
+2791,Debit Card,Paid
+2792,Credit Card,Paid
+2793,UPI,Paid
+2794,COD,Paid
+2795,Debit Card,Paid
+2796,Debit Card,Paid
+2797,Credit Card,Paid
+2798,Debit Card,Paid
+2799,Wallet,Paid
+2800,UPI,Paid
+2801,Debit Card,Paid
+2802,UPI,Paid
+2803,Debit Card,Paid
+2804,UPI,Paid
+2805,Wallet,Paid
+2806,UPI,Paid
+2807,UPI,Paid
+2808,Credit Card,Paid
+2809,UPI,Paid
+2810,Wallet,Paid
+2811,Wallet,Paid
+2812,Wallet,Paid
+2813,Credit Card,Paid
+2814,COD,Paid
+2815,Credit Card,Paid
+2816,Credit Card,Paid
+2817,COD,Paid
+2818,Debit Card,Paid
+2819,UPI,Paid
+2820,Debit Card,Paid
+2821,Wallet,Paid
+2822,Debit Card,Paid
+2823,UPI,Paid
+2824,Wallet,Paid
+2825,UPI,Paid
+2826,COD,Paid
+2827,COD,Paid
+2828,UPI,Paid
+2829,Credit Card,Paid
+2830,Wallet,Paid
+2831,UPI,Paid
+2832,Credit Card,Paid
+2833,COD,Paid
+2834,UPI,Paid
+2835,Wallet,Paid
+2836,Wallet,Paid
+2837,COD,Paid
+2838,UPI,Paid
+2839,Credit Card,Paid
+2840,Wallet,Paid
+2841,UPI,Paid
+2842,Debit Card,Paid
+2843,COD,Paid
+2844,UPI,Paid
+2845,UPI,Paid
+2846,Wallet,Paid
+2847,COD,Paid
+2848,Wallet,Paid
+2849,UPI,Paid
+2850,UPI,Paid
+2851,Wallet,Paid
+2852,Debit Card,Paid
+2853,UPI,Paid
+2854,COD,Paid
+2855,UPI,Paid
+2856,COD,Paid
+2857,Credit Card,Paid
+2858,COD,Paid
+2859,Wallet,Paid
+2860,Wallet,Paid
+2861,COD,Paid
+2862,UPI,Paid
+2863,UPI,Paid
+2864,Wallet,Paid
+2865,Credit Card,Paid
+2866,Credit Card,Paid
+2867,UPI,Paid
+2868,Debit Card,Paid
+2869,Wallet,Paid
+2870,Credit Card,Paid
+2871,COD,Paid
+2872,COD,Paid
+2873,Wallet,Paid
+2874,COD,Paid
+2875,COD,Paid
+2876,Debit Card,Paid
+2877,Debit Card,Paid
+2878,Wallet,Paid
+2879,Wallet,Paid
+2880,Debit Card,Paid
+2881,Credit Card,Paid
+2882,COD,Paid
+2883,Debit Card,Paid
+2884,UPI,Paid
+2885,Credit Card,Paid
+2886,Debit Card,Paid
+2887,UPI,Paid
+2888,Debit Card,Paid
+2889,COD,Paid
+2890,COD,Paid
+2891,UPI,Paid
+2892,COD,Paid
+2893,Debit Card,Paid
+2894,Wallet,Paid
+2895,Debit Card,Paid
+2896,Credit Card,Paid
+2897,COD,Paid
+2898,COD,Paid
+2899,Debit Card,Paid
+2900,COD,Paid
+2901,Wallet,Paid
+2902,Credit Card,Paid
+2903,Wallet,Paid
+2904,Wallet,Paid
+2905,COD,Paid
+2906,UPI,Paid
+2907,UPI,Paid
+2908,Debit Card,Paid
+2909,UPI,Paid
+2910,Credit Card,Paid
+2911,Wallet,Paid
+2912,Credit Card,Paid
+2913,UPI,Paid
+2914,Debit Card,Paid
+2915,COD,Paid
+2916,COD,Paid
+2917,UPI,Paid
+2918,COD,Paid
+2919,COD,Paid
+2920,Credit Card,Paid
+2921,Wallet,Paid
+2922,COD,Paid
+2923,UPI,Paid
+2924,Debit Card,Paid
+2925,Credit Card,Paid
+2926,Credit Card,Paid
+2927,UPI,Paid
+2928,Wallet,Paid
+2929,Debit Card,Paid
+2930,COD,Paid
+2931,COD,Paid
+2932,Wallet,Paid
+2933,Wallet,Paid
+2934,Debit Card,Paid
+2935,Wallet,Paid
+2936,Wallet,Paid
+2937,COD,Paid
+2938,UPI,Paid
+2939,Credit Card,Paid
+2940,Credit Card,Paid
+2941,Wallet,Paid
+2942,Wallet,Paid
+2943,Wallet,Paid
+2944,UPI,Paid
+2945,UPI,Paid
+2946,COD,Paid
+2947,Wallet,Paid
+2948,Wallet,Paid
+2949,UPI,Paid
+2950,Debit Card,Paid
+2951,Debit Card,Paid
+2952,COD,Paid
+2953,Credit Card,Paid
+2954,Debit Card,Paid
+2955,UPI,Paid
+2956,COD,Paid
+2957,COD,Paid
+2958,Credit Card,Paid
+2959,UPI,Paid
+2960,Wallet,Paid
+2961,Wallet,Paid
+2962,Wallet,Paid
+2963,COD,Paid
+2964,Wallet,Paid
+2965,COD,Paid
+2966,Wallet,Paid
+2967,UPI,Paid
+2968,Wallet,Paid
+2969,COD,Paid
+2970,Debit Card,Paid
+2971,UPI,Paid
+2972,UPI,Paid
+2973,UPI,Paid
+2974,Credit Card,Paid
+2975,Wallet,Paid
+2976,Credit Card,Paid
+2977,Wallet,Paid
+2978,Debit Card,Paid
+2979,Wallet,Paid
+2980,UPI,Paid
+2981,Wallet,Paid
+2982,UPI,Paid
+2983,COD,Paid
+2984,UPI,Paid
+2985,Debit Card,Paid
+2986,Wallet,Paid
+2987,UPI,Paid
+2988,COD,Paid
+2989,COD,Paid
+2990,UPI,Paid
+2991,Debit Card,Paid
+2992,UPI,Paid
+2993,UPI,Paid
+2994,Wallet,Paid
+2995,UPI,Paid
+2996,COD,Paid
+2997,Debit Card,Paid
+2998,Credit Card,Paid
+2999,Wallet,Paid
+3000,Debit Card,Paid
+3001,UPI,Paid
+3002,Debit Card,Paid
+3003,UPI,Paid
+3004,Debit Card,Paid
+3005,UPI,Paid
+3006,Debit Card,Paid
+3007,Credit Card,Paid
+3008,Wallet,Paid
+3009,Wallet,Paid
+3010,Wallet,Paid
+3011,Credit Card,Paid
+3012,UPI,Paid
+3013,COD,Paid
+3014,Wallet,Paid
+3015,COD,Paid
+3016,UPI,Paid
+3017,UPI,Paid
+3018,Wallet,Paid
+3019,COD,Paid
+3020,UPI,Paid
+3021,COD,Paid
+3022,UPI,Paid
+3023,Debit Card,Paid
+3024,Credit Card,Paid
+3025,Wallet,Paid
+3026,COD,Paid
+3027,Credit Card,Paid
+3028,Wallet,Paid
+3029,COD,Paid
+3030,COD,Paid
+3031,Wallet,Paid
+3032,UPI,Paid
+3033,Wallet,Paid
+3034,Wallet,Paid
+3035,UPI,Paid
+3036,Debit Card,Paid
+3037,UPI,Paid
+3038,Debit Card,Paid
+3039,Debit Card,Paid
+3040,COD,Paid
+3041,COD,Paid
+3042,COD,Paid
+3043,Credit Card,Paid
+3044,Credit Card,Paid
+3045,Debit Card,Paid
+3046,COD,Paid
+3047,Credit Card,Paid
+3048,Credit Card,Paid
+3049,COD,Paid
+3050,Debit Card,Paid
+3051,Wallet,Paid
+3052,UPI,Paid
+3053,COD,Paid
+3054,Wallet,Paid
+3055,Credit Card,Paid
+3056,Credit Card,Paid
+3057,COD,Paid
+3058,Credit Card,Paid
+3059,COD,Paid
+3060,Credit Card,Paid
+3061,Wallet,Paid
+3062,UPI,Paid
+3063,UPI,Paid
+3064,Wallet,Paid
+3065,Credit Card,Paid
+3066,Wallet,Paid
+3067,Wallet,Paid
+3068,Wallet,Paid
+3069,Wallet,Paid
+3070,COD,Paid
+3071,UPI,Paid
+3072,Wallet,Paid
+3073,Credit Card,Paid
+3074,Debit Card,Paid
+3075,Wallet,Paid
+3076,UPI,Paid
+3077,Credit Card,Paid
+3078,Debit Card,Paid
+3079,Credit Card,Paid
+3080,Debit Card,Paid
+3081,UPI,Paid
+3082,Credit Card,Paid
+3083,COD,Paid
+3084,Credit Card,Paid
+3085,Debit Card,Paid
+3086,UPI,Paid
+3087,COD,Paid
+3088,Wallet,Paid
+3089,UPI,Paid
+3090,UPI,Paid
+3091,UPI,Paid
+3092,Debit Card,Paid
+3093,COD,Paid
+3094,Credit Card,Paid
+3095,UPI,Paid
+3096,COD,Paid
+3097,COD,Paid
+3098,UPI,Paid
+3099,UPI,Paid
+3100,Debit Card,Paid
+3101,Debit Card,Paid
+3102,Credit Card,Paid
+3103,UPI,Paid
+3104,COD,Paid
+3105,Credit Card,Paid
+3106,Wallet,Paid
+3107,Debit Card,Paid
+3108,Wallet,Paid
+3109,Debit Card,Paid
+3110,Debit Card,Paid
+3111,Credit Card,Paid
+3112,Debit Card,Paid
+3113,Debit Card,Paid
+3114,Debit Card,Paid
+3115,Debit Card,Paid
+3116,Debit Card,Paid
+3117,Wallet,Paid
+3118,Debit Card,Paid
+3119,Debit Card,Paid
+3120,Wallet,Paid
+3121,COD,Paid
+3122,Debit Card,Paid
+3123,COD,Paid
+3124,Debit Card,Paid
+3125,Wallet,Paid
+3126,Debit Card,Paid
+3127,Credit Card,Paid
+3128,Debit Card,Paid
+3129,Credit Card,Paid
+3130,UPI,Paid
+3131,Debit Card,Paid
+3132,Wallet,Paid
+3133,Credit Card,Paid
+3134,Wallet,Paid
+3135,COD,Paid
+3136,Credit Card,Paid
+3137,Credit Card,Paid
+3138,Wallet,Paid
+3139,Credit Card,Paid
+3140,UPI,Paid
+3141,Wallet,Paid
+3142,Wallet,Paid
+3143,Credit Card,Paid
+3144,COD,Paid
+3145,Debit Card,Paid
+3146,Wallet,Paid
+3147,UPI,Paid
+3148,Credit Card,Paid
+3149,Wallet,Paid
+3150,Debit Card,Paid
+3151,Credit Card,Paid
+3152,Credit Card,Paid
+3153,COD,Paid
+3154,COD,Paid
+3155,UPI,Paid
+3156,COD,Paid
+3157,UPI,Paid
+3158,UPI,Paid
+3159,UPI,Paid
+3160,COD,Paid
+3161,COD,Paid
+3162,Credit Card,Paid
+3163,Credit Card,Paid
+3164,Debit Card,Paid
+3165,Wallet,Paid
+3166,Debit Card,Paid
+3167,Wallet,Paid
+3168,COD,Paid
+3169,UPI,Paid
+3170,COD,Paid
+3171,Debit Card,Paid
+3172,Debit Card,Paid
+3173,COD,Paid
+3174,Debit Card,Paid
+3175,COD,Paid
+3176,UPI,Paid
+3177,Credit Card,Paid
+3178,Debit Card,Paid
+3179,Debit Card,Paid
+3180,Wallet,Paid
+3181,Credit Card,Paid
+3182,UPI,Paid
+3183,UPI,Paid
+3184,UPI,Paid
+3185,Credit Card,Paid
+3186,COD,Paid
+3187,Credit Card,Paid
+3188,Wallet,Paid
+3189,UPI,Paid
+3190,COD,Paid
+3191,Wallet,Paid
+3192,COD,Paid
+3193,Wallet,Paid
+3194,Credit Card,Paid
+3195,Debit Card,Paid
+3196,Debit Card,Paid
+3197,UPI,Paid
+3198,COD,Paid
+3199,Debit Card,Paid
+3200,UPI,Paid
+3201,UPI,Paid
+3202,Credit Card,Paid
+3203,UPI,Paid
+3204,Wallet,Paid
+3205,Wallet,Paid
+3206,Credit Card,Paid
+3207,Credit Card,Paid
+3208,Credit Card,Paid
+3209,Credit Card,Paid
+3210,Wallet,Paid
+3211,Debit Card,Paid
+3212,Debit Card,Paid
+3213,Debit Card,Paid
+3214,Wallet,Paid
+3215,Debit Card,Paid
+3216,Debit Card,Paid
+3217,Wallet,Paid
+3218,Debit Card,Paid
+3219,COD,Paid
+3220,UPI,Paid
+3221,Credit Card,Paid
+3222,Debit Card,Paid
+3223,COD,Paid
+3224,Credit Card,Paid
+3225,Debit Card,Paid
+3226,UPI,Paid
+3227,Credit Card,Paid
+3228,Credit Card,Paid
+3229,Wallet,Paid
+3230,Debit Card,Paid
+3231,Wallet,Paid
+3232,Debit Card,Paid
+3233,Debit Card,Paid
+3234,Credit Card,Paid
+3235,Credit Card,Paid
+3236,Credit Card,Paid
+3237,Debit Card,Paid
+3238,UPI,Paid
+3239,Wallet,Paid
+3240,Debit Card,Paid
+3241,UPI,Paid
+3242,Debit Card,Paid
+3243,Debit Card,Paid
+3244,Wallet,Paid
+3245,Wallet,Paid
+3246,Credit Card,Paid
+3247,Credit Card,Paid
+3248,UPI,Paid
+3249,Credit Card,Paid
+3250,Credit Card,Paid
+3251,UPI,Paid
+3252,COD,Paid
+3253,Debit Card,Paid
+3254,Debit Card,Paid
+3255,Credit Card,Paid
+3256,UPI,Paid
+3257,Wallet,Paid
+3258,UPI,Paid
+3259,Credit Card,Paid
+3260,COD,Paid
+3261,COD,Paid
+3262,Wallet,Paid
+3263,Debit Card,Paid
+3264,COD,Paid
+3265,UPI,Paid
+3266,Wallet,Paid
+3267,Debit Card,Paid
+3268,Credit Card,Paid
+3269,UPI,Paid
+3270,Wallet,Paid
+3271,COD,Paid
+3272,UPI,Paid
+3273,Credit Card,Paid
+3274,Wallet,Paid
+3275,Debit Card,Paid
+3276,Credit Card,Paid
+3277,Wallet,Paid
+3278,Debit Card,Paid
+3279,COD,Paid
+3280,Credit Card,Paid
+3281,Debit Card,Paid
+3282,Debit Card,Paid
+3283,Debit Card,Paid
+3284,Credit Card,Paid
+3285,Debit Card,Paid
+3286,COD,Paid
+3287,Credit Card,Paid
+3288,Credit Card,Paid
+3289,Credit Card,Paid
+3290,UPI,Paid
+3291,Wallet,Paid
+3292,Credit Card,Paid
+3293,COD,Paid
+3294,Debit Card,Paid
+3295,COD,Paid
+3296,Debit Card,Paid
+3297,Debit Card,Paid
+3298,Credit Card,Paid
+3299,Wallet,Paid
+3300,UPI,Paid
+3301,UPI,Paid
+3302,Wallet,Paid
+3303,COD,Paid
+3304,UPI,Paid
+3305,UPI,Paid
+3306,UPI,Paid
+3307,Wallet,Paid
+3308,Debit Card,Paid
+3309,Debit Card,Paid
+3310,Credit Card,Paid
+3311,Credit Card,Paid
+3312,Credit Card,Paid
+3313,Credit Card,Paid
+3314,UPI,Paid
+3315,Wallet,Paid
+3316,Wallet,Paid
+3317,Wallet,Paid
+3318,COD,Paid
+3319,Credit Card,Paid
+3320,Credit Card,Paid
+3321,Credit Card,Paid
+3322,Debit Card,Paid
+3323,Credit Card,Paid
+3324,Credit Card,Paid
+3325,COD,Paid
+3326,COD,Paid
+3327,Credit Card,Paid
+3328,COD,Paid
+3329,UPI,Paid
+3330,UPI,Paid
+3331,UPI,Paid
+3332,Credit Card,Paid
+3333,Wallet,Paid
+3334,Wallet,Paid
+3335,UPI,Paid
+3336,UPI,Paid
+3337,Wallet,Paid
+3338,UPI,Paid
+3339,COD,Paid
+3340,Debit Card,Paid
+3341,Debit Card,Paid
+3342,UPI,Paid
+3343,COD,Paid
+3344,Debit Card,Paid
+3345,Credit Card,Paid
+3346,Wallet,Paid
+3347,Debit Card,Paid
+3348,COD,Paid
+3349,UPI,Paid
+3350,UPI,Paid
+3351,COD,Paid
+3352,UPI,Paid
+3353,UPI,Paid
+3354,COD,Paid
+3355,Wallet,Paid
+3356,Wallet,Paid
+3357,UPI,Paid
+3358,Credit Card,Paid
+3359,COD,Paid
+3360,Wallet,Paid
+3361,Debit Card,Paid
+3362,Wallet,Paid
+3363,Debit Card,Paid
+3364,UPI,Paid
+3365,UPI,Paid
+3366,UPI,Paid
+3367,COD,Paid
+3368,Debit Card,Paid
+3369,Wallet,Paid
+3370,Wallet,Paid
+3371,Wallet,Paid
+3372,UPI,Paid
+3373,UPI,Paid
+3374,Debit Card,Paid
+3375,Debit Card,Paid
+3376,UPI,Paid
+3377,Debit Card,Paid
+3378,COD,Paid
+3379,UPI,Paid
+3380,Debit Card,Paid
+3381,COD,Paid
+3382,Debit Card,Paid
+3383,UPI,Paid
+3384,UPI,Paid
+3385,Credit Card,Paid
+3386,Credit Card,Paid
+3387,UPI,Paid
+3388,COD,Paid
+3389,Wallet,Paid
+3390,Debit Card,Paid
+3391,Debit Card,Paid
+3392,Debit Card,Paid
+3393,COD,Paid
+3394,Debit Card,Paid
+3395,UPI,Paid
+3396,COD,Paid
+3397,Credit Card,Paid
+3398,COD,Paid
+3399,Wallet,Paid
+3400,Wallet,Paid
+3401,Wallet,Paid
+3402,Wallet,Paid
+3403,UPI,Paid
+3404,UPI,Paid
+3405,Credit Card,Paid
+3406,COD,Paid
+3407,Wallet,Paid
+3408,Debit Card,Paid
+3409,COD,Paid
+3410,COD,Paid
+3411,UPI,Paid
+3412,Debit Card,Paid
+3413,COD,Paid
+3414,UPI,Paid
+3415,Credit Card,Paid
+3416,COD,Paid
+3417,Wallet,Paid
+3418,Wallet,Paid
+3419,UPI,Paid
+3420,UPI,Paid
+3421,Debit Card,Paid
+3422,Wallet,Paid
+3423,Debit Card,Paid
+3424,Credit Card,Paid
+3425,UPI,Paid
+3426,Debit Card,Paid
+3427,UPI,Paid
+3428,UPI,Paid
+3429,Credit Card,Paid
+3430,Credit Card,Paid
+3431,COD,Paid
+3432,Wallet,Paid
+3433,UPI,Paid
+3434,Wallet,Paid
+3435,COD,Paid
+3436,Debit Card,Paid
+3437,UPI,Paid
+3438,COD,Paid
+3439,Wallet,Paid
+3440,Credit Card,Paid
+3441,Debit Card,Paid
+3442,UPI,Paid
+3443,UPI,Paid
+3444,UPI,Paid
+3445,Credit Card,Paid
+3446,Wallet,Paid
+3447,Credit Card,Paid
+3448,Wallet,Paid
+3449,Credit Card,Paid
+3450,Wallet,Paid
+3451,Debit Card,Paid
+3452,COD,Paid
+3453,Debit Card,Paid
+3454,Credit Card,Paid
+3455,Credit Card,Paid
+3456,Credit Card,Paid
+3457,Debit Card,Paid
+3458,COD,Paid
+3459,COD,Paid
+3460,COD,Paid
+3461,Debit Card,Paid
+3462,UPI,Paid
+3463,Credit Card,Paid
+3464,Credit Card,Paid
+3465,Debit Card,Paid
+3466,Wallet,Paid
+3467,COD,Paid
+3468,Debit Card,Paid
+3469,Wallet,Paid
+3470,Debit Card,Paid
+3471,COD,Paid
+3472,Credit Card,Paid
+3473,COD,Paid
+3474,Credit Card,Paid
+3475,Wallet,Paid
+3476,Credit Card,Paid
+3477,COD,Paid
+3478,UPI,Paid
+3479,Wallet,Paid
+3480,COD,Paid
+3481,UPI,Paid
+3482,Credit Card,Paid
+3483,Credit Card,Paid
+3484,UPI,Paid
+3485,Credit Card,Paid
+3486,UPI,Paid
+3487,Credit Card,Paid
+3488,Wallet,Paid
+3489,Wallet,Paid
+3490,UPI,Paid
+3491,UPI,Paid
+3492,UPI,Paid
+3493,COD,Paid
+3494,Credit Card,Paid
+3495,COD,Paid
+3496,UPI,Paid
+3497,COD,Paid
+3498,Wallet,Paid
+3499,COD,Paid
+3500,COD,Paid
+3501,UPI,Paid
+3502,UPI,Paid
+3503,UPI,Paid
+3504,Wallet,Paid
+3505,Credit Card,Paid
+3506,Debit Card,Paid
+3507,Credit Card,Paid
+3508,COD,Paid
+3509,Credit Card,Paid
+3510,Credit Card,Paid
+3511,COD,Paid
+3512,Wallet,Paid
+3513,UPI,Paid
+3514,COD,Paid
+3515,Credit Card,Paid
+3516,Credit Card,Paid
+3517,COD,Paid
+3518,Debit Card,Paid
+3519,UPI,Paid
+3520,UPI,Paid
+3521,Wallet,Paid
+3522,Wallet,Paid
+3523,COD,Paid
+3524,Debit Card,Paid
+3525,Credit Card,Paid
+3526,COD,Paid
+3527,UPI,Paid
+3528,Credit Card,Paid
+3529,Debit Card,Paid
+3530,UPI,Paid
+3531,Wallet,Paid
+3532,Credit Card,Paid
+3533,COD,Paid
+3534,Credit Card,Paid
+3535,Wallet,Paid
+3536,COD,Paid
+3537,UPI,Paid
+3538,COD,Paid
+3539,Credit Card,Paid
+3540,COD,Paid
+3541,Wallet,Paid
+3542,Wallet,Paid
+3543,UPI,Paid
+3544,Credit Card,Paid
+3545,Credit Card,Paid
+3546,UPI,Paid
+3547,Debit Card,Paid
+3548,UPI,Paid
+3549,Credit Card,Paid
+3550,UPI,Paid
+3551,Wallet,Paid
+3552,COD,Paid
+3553,Wallet,Paid
+3554,Wallet,Paid
+3555,Wallet,Paid
+3556,COD,Paid
+3557,UPI,Paid
+3558,Credit Card,Paid
+3559,Credit Card,Paid
+3560,UPI,Paid
+3561,Debit Card,Paid
+3562,Credit Card,Paid
+3563,COD,Paid
+3564,Credit Card,Paid
+3565,UPI,Paid
+3566,Wallet,Paid
+3567,Credit Card,Paid
+3568,UPI,Paid
+3569,Debit Card,Paid
+3570,Debit Card,Paid
+3571,UPI,Paid
+3572,Credit Card,Paid
+3573,UPI,Paid
+3574,Credit Card,Paid
+3575,Debit Card,Paid
+3576,Wallet,Paid
+3577,Credit Card,Paid
+3578,Wallet,Paid
+3579,COD,Paid
+3580,Wallet,Paid
+3581,Debit Card,Paid
+3582,UPI,Paid
+3583,UPI,Paid
+3584,COD,Paid
+3585,Debit Card,Paid
+3586,COD,Paid
+3587,Debit Card,Paid
+3588,Debit Card,Paid
+3589,Debit Card,Paid
+3590,Wallet,Paid
+3591,COD,Paid
+3592,Credit Card,Paid
+3593,Wallet,Paid
+3594,COD,Paid
+3595,UPI,Paid
+3596,UPI,Paid
+3597,Debit Card,Paid
+3598,UPI,Paid
+3599,Wallet,Paid
+3600,UPI,Paid
+3601,Credit Card,Paid
+3602,Wallet,Paid
+3603,Debit Card,Paid
+3604,COD,Paid
+3605,COD,Paid
+3606,UPI,Paid
+3607,Wallet,Paid
+3608,Debit Card,Paid
+3609,UPI,Paid
+3610,Debit Card,Paid
+3611,Credit Card,Paid
+3612,COD,Paid
+3613,COD,Paid
+3614,Wallet,Paid
+3615,Credit Card,Paid
+3616,UPI,Paid
+3617,Credit Card,Paid
+3618,UPI,Paid
+3619,Wallet,Paid
+3620,Wallet,Paid
+3621,Debit Card,Paid
+3622,Credit Card,Paid
+3623,COD,Paid
+3624,Debit Card,Paid
+3625,COD,Paid
+3626,UPI,Paid
+3627,UPI,Paid
+3628,COD,Paid
+3629,Credit Card,Paid
+3630,Debit Card,Paid
+3631,Debit Card,Paid
+3632,UPI,Paid
+3633,Wallet,Paid
+3634,UPI,Paid
+3635,COD,Paid
+3636,Credit Card,Paid
+3637,UPI,Paid
+3638,UPI,Paid
+3639,Credit Card,Paid
+3640,Credit Card,Paid
+3641,UPI,Paid
+3642,UPI,Paid
+3643,COD,Paid
+3644,Credit Card,Paid
+3645,COD,Paid
+3646,COD,Paid
+3647,COD,Paid
+3648,UPI,Paid
+3649,Wallet,Paid
+3650,Debit Card,Paid
+3651,UPI,Paid
+3652,Credit Card,Paid
+3653,UPI,Paid
+3654,COD,Paid
+3655,COD,Paid
+3656,Wallet,Paid
+3657,COD,Paid
+3658,COD,Paid
+3659,Credit Card,Paid
+3660,Credit Card,Paid
+3661,Wallet,Paid
+3662,UPI,Paid
+3663,Debit Card,Paid
+3664,UPI,Paid
+3665,COD,Paid
+3666,Debit Card,Paid
+3667,Debit Card,Paid
+3668,Wallet,Paid
+3669,Debit Card,Paid
+3670,Wallet,Paid
+3671,Credit Card,Paid
+3672,Credit Card,Paid
+3673,Credit Card,Paid
+3674,UPI,Paid
+3675,UPI,Paid
+3676,Debit Card,Paid
+3677,Wallet,Paid
+3678,UPI,Paid
+3679,Credit Card,Paid
+3680,Wallet,Paid
+3681,COD,Paid
+3682,Wallet,Paid
+3683,UPI,Paid
+3684,UPI,Paid
+3685,Credit Card,Paid
+3686,Credit Card,Paid
+3687,UPI,Paid
+3688,COD,Paid
+3689,COD,Paid
+3690,Debit Card,Paid
+3691,Credit Card,Paid
+3692,Credit Card,Paid
+3693,Wallet,Paid
+3694,UPI,Paid
+3695,COD,Paid
+3696,Credit Card,Paid
+3697,Wallet,Paid
+3698,UPI,Paid
+3699,COD,Paid
+3700,UPI,Paid
+3701,UPI,Paid
+3702,UPI,Paid
+3703,Debit Card,Paid
+3704,Credit Card,Paid
+3705,UPI,Paid
+3706,Credit Card,Paid
+3707,UPI,Paid
+3708,UPI,Paid
+3709,Wallet,Paid
+3710,Credit Card,Paid
+3711,COD,Paid
+3712,Wallet,Paid
+3713,Debit Card,Paid
+3714,COD,Paid
+3715,Wallet,Paid
+3716,Credit Card,Paid
+3717,COD,Paid
+3718,UPI,Paid
+3719,Wallet,Paid
+3720,UPI,Paid
+3721,UPI,Paid
+3722,COD,Paid
+3723,Credit Card,Paid
+3724,Credit Card,Paid
+3725,Credit Card,Paid
+3726,Wallet,Paid
+3727,Credit Card,Paid
+3728,Credit Card,Paid
+3729,Debit Card,Paid
+3730,UPI,Paid
+3731,COD,Paid
+3732,Wallet,Paid
+3733,Credit Card,Paid
+3734,Debit Card,Paid
+3735,UPI,Paid
+3736,COD,Paid
+3737,Credit Card,Paid
+3738,Wallet,Paid
+3739,Wallet,Paid
+3740,Wallet,Paid
+3741,Wallet,Paid
+3742,COD,Paid
+3743,Wallet,Paid
+3744,Wallet,Paid
+3745,Debit Card,Paid
+3746,Credit Card,Paid
+3747,UPI,Paid
+3748,COD,Paid
+3749,COD,Paid
+3750,UPI,Paid
+3751,Debit Card,Paid
+3752,Wallet,Paid
+3753,COD,Paid
+3754,Debit Card,Paid
+3755,Credit Card,Paid
+3756,UPI,Paid
+3757,UPI,Paid
+3758,Credit Card,Paid
+3759,COD,Paid
+3760,UPI,Paid
+3761,COD,Paid
+3762,COD,Paid
+3763,COD,Paid
+3764,Wallet,Paid
+3765,Credit Card,Paid
+3766,UPI,Paid
+3767,UPI,Paid
+3768,Wallet,Paid
+3769,Credit Card,Paid
+3770,Debit Card,Paid
+3771,COD,Paid
+3772,UPI,Paid
+3773,Credit Card,Paid
+3774,UPI,Paid
+3775,Wallet,Paid
+3776,COD,Paid
+3777,Credit Card,Paid
+3778,COD,Paid
+3779,COD,Paid
+3780,Debit Card,Paid
+3781,UPI,Paid
+3782,Debit Card,Paid
+3783,Wallet,Paid
+3784,Wallet,Paid
+3785,UPI,Paid
+3786,Debit Card,Paid
+3787,COD,Paid
+3788,Wallet,Paid
+3789,UPI,Paid
+3790,COD,Paid
+3791,Wallet,Paid
+3792,COD,Paid
+3793,Debit Card,Paid
+3794,Credit Card,Paid
+3795,UPI,Paid
+3796,Wallet,Paid
+3797,COD,Paid
+3798,Debit Card,Paid
+3799,Wallet,Paid
+3800,COD,Paid
+3801,Credit Card,Paid
+3802,Credit Card,Paid
+3803,COD,Paid
+3804,UPI,Paid
+3805,COD,Paid
+3806,Wallet,Paid
+3807,COD,Paid
+3808,Wallet,Paid
+3809,Wallet,Paid
+3810,Credit Card,Paid
+3811,Debit Card,Paid
+3812,Credit Card,Paid
+3813,Wallet,Paid
+3814,COD,Paid
+3815,UPI,Paid
+3816,UPI,Paid
+3817,Wallet,Paid
+3818,Wallet,Paid
+3819,Credit Card,Paid
+3820,UPI,Paid
+3821,Credit Card,Paid
+3822,Wallet,Paid
+3823,Credit Card,Paid
+3824,Debit Card,Paid
+3825,Wallet,Paid
+3826,COD,Paid
+3827,Wallet,Paid
+3828,Wallet,Paid
+3829,UPI,Paid
+3830,UPI,Paid
+3831,UPI,Paid
+3832,Debit Card,Paid
+3833,Credit Card,Paid
+3834,Wallet,Paid
+3835,UPI,Paid
+3836,UPI,Paid
+3837,Credit Card,Paid
+3838,Debit Card,Paid
+3839,UPI,Paid
+3840,Debit Card,Paid
+3841,UPI,Paid
+3842,Wallet,Paid
+3843,COD,Paid
+3844,UPI,Paid
+3845,UPI,Paid
+3846,Debit Card,Paid
+3847,Wallet,Paid
+3848,COD,Paid
+3849,Debit Card,Paid
+3850,Debit Card,Paid
+3851,Credit Card,Paid
+3852,Credit Card,Paid
+3853,UPI,Paid
+3854,Debit Card,Paid
+3855,Debit Card,Paid
+3856,COD,Paid
+3857,Debit Card,Paid
+3858,Debit Card,Paid
+3859,Wallet,Paid
+3860,Debit Card,Paid
+3861,Credit Card,Paid
+3862,COD,Paid
+3863,Credit Card,Paid
+3864,Credit Card,Paid
+3865,Wallet,Paid
+3866,Wallet,Paid
+3867,UPI,Paid
+3868,Debit Card,Paid
+3869,Wallet,Paid
+3870,COD,Paid
+3871,UPI,Paid
+3872,Credit Card,Paid
+3873,Credit Card,Paid
+3874,COD,Paid
+3875,Debit Card,Paid
+3876,Wallet,Paid
+3877,Debit Card,Paid
+3878,UPI,Paid
+3879,Wallet,Paid
+3880,Wallet,Paid
+3881,Credit Card,Paid
+3882,Credit Card,Paid
+3883,Credit Card,Paid
+3884,UPI,Paid
+3885,Wallet,Paid
+3886,Credit Card,Paid
+3887,Credit Card,Paid
+3888,Wallet,Paid
+3889,Debit Card,Paid
+3890,Debit Card,Paid
+3891,Debit Card,Paid
+3892,Wallet,Paid
+3893,COD,Paid
+3894,UPI,Paid
+3895,UPI,Paid
+3896,Debit Card,Paid
+3897,Credit Card,Paid
+3898,Credit Card,Paid
+3899,Debit Card,Paid
+3900,UPI,Paid
+3901,Debit Card,Paid
+3902,UPI,Paid
+3903,Wallet,Paid
+3904,Credit Card,Paid
+3905,COD,Paid
+3906,UPI,Paid
+3907,Debit Card,Paid
+3908,COD,Paid
+3909,Credit Card,Paid
+3910,COD,Paid
+3911,Wallet,Paid
+3912,Debit Card,Paid
+3913,Wallet,Paid
+3914,Wallet,Paid
+3915,Credit Card,Paid
+3916,Wallet,Paid
+3917,Wallet,Paid
+3918,Credit Card,Paid
+3919,COD,Paid
+3920,Debit Card,Paid
+3921,Credit Card,Paid
+3922,UPI,Paid
+3923,Wallet,Paid
+3924,UPI,Paid
+3925,UPI,Paid
+3926,COD,Paid
+3927,Wallet,Paid
+3928,COD,Paid
+3929,COD,Paid
+3930,Credit Card,Paid
+3931,COD,Paid
+3932,Debit Card,Paid
+3933,Credit Card,Paid
+3934,Debit Card,Paid
+3935,Wallet,Paid
+3936,COD,Paid
+3937,Wallet,Paid
+3938,UPI,Paid
+3939,Debit Card,Paid
+3940,Wallet,Paid
+3941,COD,Paid
+3942,UPI,Paid
+3943,UPI,Paid
+3944,UPI,Paid
+3945,Wallet,Paid
+3946,Wallet,Paid
+3947,Credit Card,Paid
+3948,Wallet,Paid
+3949,COD,Paid
+3950,UPI,Paid
+3951,Wallet,Paid
+3952,COD,Paid
+3953,Debit Card,Paid
+3954,Wallet,Paid
+3955,Wallet,Paid
+3956,UPI,Paid
+3957,Wallet,Paid
+3958,COD,Paid
+3959,Debit Card,Paid
+3960,UPI,Paid
+3961,COD,Paid
+3962,COD,Paid
+3963,Credit Card,Paid
+3964,Debit Card,Paid
+3965,UPI,Paid
+3966,Credit Card,Paid
+3967,Debit Card,Paid
+3968,Wallet,Paid
+3969,Debit Card,Paid
+3970,Debit Card,Paid
+3971,Debit Card,Paid
+3972,Debit Card,Paid
+3973,UPI,Paid
+3974,Debit Card,Paid
+3975,UPI,Paid
+3976,Wallet,Paid
+3977,UPI,Paid
+3978,Credit Card,Paid
+3979,Credit Card,Paid
+3980,Wallet,Paid
+3981,Credit Card,Paid
+3982,Credit Card,Paid
+3983,Credit Card,Paid
+3984,Credit Card,Paid
+3985,Wallet,Paid
+3986,Credit Card,Paid
+3987,Debit Card,Paid
+3988,Credit Card,Paid
+3989,UPI,Paid
+3990,Credit Card,Paid
+3991,Debit Card,Paid
+3992,COD,Paid
+3993,Debit Card,Paid
+3994,COD,Paid
+3995,Credit Card,Paid
+3996,COD,Paid
+3997,Credit Card,Paid
+3998,COD,Paid
+3999,Wallet,Paid
+4000,COD,Paid
+4001,Debit Card,Paid
+4002,Debit Card,Paid
+4003,Debit Card,Paid
+4004,UPI,Paid
+4005,COD,Paid
+4006,Debit Card,Paid
+4007,Credit Card,Paid
+4008,UPI,Paid
+4009,Wallet,Paid
+4010,UPI,Paid
+4011,COD,Paid
+4012,Credit Card,Paid
+4013,UPI,Paid
+4014,Wallet,Paid
+4015,Wallet,Paid
+4016,COD,Paid
+4017,Credit Card,Paid
+4018,UPI,Paid
+4019,Debit Card,Paid
+4020,UPI,Paid
+4021,Credit Card,Paid
+4022,Credit Card,Paid
+4023,Wallet,Paid
+4024,Credit Card,Paid
+4025,Wallet,Paid
+4026,COD,Paid
+4027,Debit Card,Paid
+4028,Wallet,Paid
+4029,Debit Card,Paid
+4030,Wallet,Paid
+4031,Wallet,Paid
+4032,UPI,Paid
+4033,COD,Paid
+4034,Debit Card,Paid
+4035,COD,Paid
+4036,Wallet,Paid
+4037,Debit Card,Paid
+4038,COD,Paid
+4039,COD,Paid
+4040,COD,Paid
+4041,Debit Card,Paid
+4042,Debit Card,Paid
+4043,Debit Card,Paid
+4044,Credit Card,Paid
+4045,UPI,Paid
+4046,UPI,Paid
+4047,Credit Card,Paid
+4048,Credit Card,Paid
+4049,Debit Card,Paid
+4050,Debit Card,Paid
+4051,UPI,Paid
+4052,COD,Paid
+4053,Debit Card,Paid
+4054,Debit Card,Paid
+4055,UPI,Paid
+4056,COD,Paid
+4057,Debit Card,Paid
+4058,Debit Card,Paid
+4059,UPI,Paid
+4060,UPI,Paid
+4061,Credit Card,Paid
+4062,Debit Card,Paid
+4063,COD,Paid
+4064,COD,Paid
+4065,UPI,Paid
+4066,Credit Card,Paid
+4067,Credit Card,Paid
+4068,Debit Card,Paid
+4069,Credit Card,Paid
+4070,Debit Card,Paid
+4071,COD,Paid
+4072,COD,Paid
+4073,Wallet,Paid
+4074,Wallet,Paid
+4075,Credit Card,Paid
+4076,COD,Paid
+4077,Credit Card,Paid
+4078,UPI,Paid
+4079,COD,Paid
+4080,COD,Paid
+4081,Wallet,Paid
+4082,Debit Card,Paid
+4083,Debit Card,Paid
+4084,Credit Card,Paid
+4085,Debit Card,Paid
+4086,Wallet,Paid
+4087,Credit Card,Paid
+4088,Wallet,Paid
+4089,COD,Paid
+4090,UPI,Paid
+4091,Debit Card,Paid
+4092,Wallet,Paid
+4093,Credit Card,Paid
+4094,Wallet,Paid
+4095,Credit Card,Paid
+4096,Credit Card,Paid
+4097,Wallet,Paid
+4098,Debit Card,Paid
+4099,Wallet,Paid
+4100,Debit Card,Paid
+4101,UPI,Paid
+4102,Debit Card,Paid
+4103,UPI,Paid
+4104,Wallet,Paid
+4105,Debit Card,Paid
+4106,Wallet,Paid
+4107,Debit Card,Paid
+4108,Credit Card,Paid
+4109,COD,Paid
+4110,Wallet,Paid
+4111,COD,Paid
+4112,Credit Card,Paid
+4113,Wallet,Paid
+4114,Debit Card,Paid
+4115,COD,Paid
+4116,Credit Card,Paid
+4117,COD,Paid
+4118,COD,Paid
+4119,Credit Card,Paid
+4120,Wallet,Paid
+4121,UPI,Paid
+4122,Credit Card,Paid
+4123,Debit Card,Paid
+4124,Wallet,Paid
+4125,Credit Card,Paid
+4126,Debit Card,Paid
+4127,Wallet,Paid
+4128,Debit Card,Paid
+4129,UPI,Paid
+4130,Wallet,Paid
+4131,Debit Card,Paid
+4132,COD,Paid
+4133,Credit Card,Paid
+4134,Credit Card,Paid
+4135,Credit Card,Paid
+4136,Debit Card,Paid
+4137,Credit Card,Paid
+4138,Wallet,Paid
+4139,UPI,Paid
+4140,Credit Card,Paid
+4141,Credit Card,Paid
+4142,Wallet,Paid
+4143,COD,Paid
+4144,Wallet,Paid
+4145,Wallet,Paid
+4146,Debit Card,Paid
+4147,Wallet,Paid
+4148,Debit Card,Paid
+4149,Debit Card,Paid
+4150,COD,Paid
+4151,Credit Card,Paid
+4152,Debit Card,Paid
+4153,Credit Card,Paid
+4154,Debit Card,Paid
+4155,Wallet,Paid
+4156,Debit Card,Paid
+4157,Debit Card,Paid
+4158,Credit Card,Paid
+4159,Credit Card,Paid
+4160,COD,Paid
+4161,Credit Card,Paid
+4162,Wallet,Paid
+4163,Credit Card,Paid
+4164,Debit Card,Paid
+4165,COD,Paid
+4166,Debit Card,Paid
+4167,Wallet,Paid
+4168,Wallet,Paid
+4169,Credit Card,Paid
+4170,UPI,Paid
+4171,UPI,Paid
+4172,Credit Card,Paid
+4173,Wallet,Paid
+4174,Credit Card,Paid
+4175,Credit Card,Paid
+4176,Credit Card,Paid
+4177,Debit Card,Paid
+4178,Credit Card,Paid
+4179,Credit Card,Paid
+4180,UPI,Paid
+4181,Wallet,Paid
+4182,COD,Paid
+4183,Wallet,Paid
+4184,Debit Card,Paid
+4185,Wallet,Paid
+4186,COD,Paid
+4187,Wallet,Paid
+4188,Debit Card,Paid
+4189,UPI,Paid
+4190,Wallet,Paid
+4191,Wallet,Paid
+4192,Debit Card,Paid
+4193,COD,Paid
+4194,UPI,Paid
+4195,Debit Card,Paid
+4196,COD,Paid
+4197,Wallet,Paid
+4198,Debit Card,Paid
+4199,COD,Paid
+4200,UPI,Paid
+4201,Credit Card,Paid
+4202,UPI,Paid
+4203,COD,Paid
+4204,COD,Paid
+4205,Credit Card,Paid
+4206,Wallet,Paid
+4207,Credit Card,Paid
+4208,Debit Card,Paid
+4209,COD,Paid
+4210,Debit Card,Paid
+4211,Credit Card,Paid
+4212,COD,Paid
+4213,Wallet,Paid
+4214,Credit Card,Paid
+4215,Wallet,Paid
+4216,UPI,Paid
+4217,UPI,Paid
+4218,Wallet,Paid
+4219,UPI,Paid
+4220,Wallet,Paid
+4221,COD,Paid
+4222,Debit Card,Paid
+4223,Debit Card,Paid
+4224,Wallet,Paid
+4225,Wallet,Paid
+4226,Wallet,Paid
+4227,COD,Paid
+4228,COD,Paid
+4229,Wallet,Paid
+4230,UPI,Paid
+4231,Debit Card,Paid
+4232,Credit Card,Paid
+4233,UPI,Paid
+4234,Debit Card,Paid
+4235,Credit Card,Paid
+4236,Wallet,Paid
+4237,UPI,Paid
+4238,Debit Card,Paid
+4239,Debit Card,Paid
+4240,Debit Card,Paid
+4241,COD,Paid
+4242,UPI,Paid
+4243,UPI,Paid
+4244,Debit Card,Paid
+4245,Debit Card,Paid
+4246,COD,Paid
+4247,Wallet,Paid
+4248,Debit Card,Paid
+4249,UPI,Paid
+4250,Debit Card,Paid
+4251,UPI,Paid
+4252,Credit Card,Paid
+4253,COD,Paid
+4254,Wallet,Paid
+4255,COD,Paid
+4256,UPI,Paid
+4257,UPI,Paid
+4258,Credit Card,Paid
+4259,Credit Card,Paid
+4260,COD,Paid
+4261,COD,Paid
+4262,Debit Card,Paid
+4263,Credit Card,Paid
+4264,UPI,Paid
+4265,Wallet,Paid
+4266,UPI,Paid
+4267,COD,Paid
+4268,Debit Card,Paid
+4269,UPI,Paid
+4270,Debit Card,Paid
+4271,UPI,Paid
+4272,Debit Card,Paid
+4273,Wallet,Paid
+4274,Wallet,Paid
+4275,COD,Paid
+4276,UPI,Paid
+4277,COD,Paid
+4278,UPI,Paid
+4279,Wallet,Paid
+4280,Debit Card,Paid
+4281,Credit Card,Paid
+4282,Wallet,Paid
+4283,UPI,Paid
+4284,UPI,Paid
+4285,Credit Card,Paid
+4286,COD,Paid
+4287,COD,Paid
+4288,UPI,Paid
+4289,Wallet,Paid
+4290,Wallet,Paid
+4291,Wallet,Paid
+4292,Debit Card,Paid
+4293,Credit Card,Paid
+4294,Wallet,Paid
+4295,Debit Card,Paid
+4296,Wallet,Paid
+4297,Wallet,Paid
+4298,COD,Paid
+4299,Wallet,Paid
+4300,Wallet,Paid
+4301,Debit Card,Paid
+4302,COD,Paid
+4303,Credit Card,Paid
+4304,UPI,Paid
+4305,Credit Card,Paid
+4306,UPI,Paid
+4307,COD,Paid
+4308,UPI,Paid
+4309,UPI,Paid
+4310,COD,Paid
+4311,Debit Card,Paid
+4312,UPI,Paid
+4313,Credit Card,Paid
+4314,UPI,Paid
+4315,Credit Card,Paid
+4316,COD,Paid
+4317,Debit Card,Paid
+4318,COD,Paid
+4319,Credit Card,Paid
+4320,Credit Card,Paid
+4321,Debit Card,Paid
+4322,Debit Card,Paid
+4323,Debit Card,Paid
+4324,Wallet,Paid
+4325,COD,Paid
+4326,UPI,Paid
+4327,Credit Card,Paid
+4328,COD,Paid
+4329,UPI,Paid
+4330,UPI,Paid
+4331,Wallet,Paid
+4332,Credit Card,Paid
+4333,UPI,Paid
+4334,Wallet,Paid
+4335,UPI,Paid
+4336,Wallet,Paid
+4337,Credit Card,Paid
+4338,UPI,Paid
+4339,UPI,Paid
+4340,Debit Card,Paid
+4341,COD,Paid
+4342,COD,Paid
+4343,COD,Paid
+4344,Credit Card,Paid
+4345,COD,Paid
+4346,Debit Card,Paid
+4347,UPI,Paid
+4348,Debit Card,Paid
+4349,Wallet,Paid
+4350,UPI,Paid
+4351,COD,Paid
+4352,Credit Card,Paid
+4353,Wallet,Paid
+4354,Wallet,Paid
+4355,COD,Paid
+4356,Wallet,Paid
+4357,Credit Card,Paid
+4358,Wallet,Paid
+4359,UPI,Paid
+4360,Wallet,Paid
+4361,Credit Card,Paid
+4362,Wallet,Paid
+4363,UPI,Paid
+4364,UPI,Paid
+4365,Credit Card,Paid
+4366,COD,Paid
+4367,COD,Paid
+4368,Credit Card,Paid
+4369,COD,Paid
+4370,COD,Paid
+4371,Debit Card,Paid
+4372,UPI,Paid
+4373,COD,Paid
+4374,Wallet,Paid
+4375,UPI,Paid
+4376,COD,Paid
+4377,Wallet,Paid
+4378,Debit Card,Paid
+4379,Debit Card,Paid
+4380,Credit Card,Paid
+4381,UPI,Paid
+4382,COD,Paid
+4383,Debit Card,Paid
+4384,Wallet,Paid
+4385,Wallet,Paid
+4386,Credit Card,Paid
+4387,COD,Paid
+4388,Credit Card,Paid
+4389,Wallet,Paid
+4390,Credit Card,Paid
+4391,Wallet,Paid
+4392,Debit Card,Paid
+4393,COD,Paid
+4394,Credit Card,Paid
+4395,UPI,Paid
+4396,Debit Card,Paid
+4397,UPI,Paid
+4398,UPI,Paid
+4399,Debit Card,Paid
+4400,UPI,Paid
+4401,UPI,Paid
+4402,UPI,Paid
+4403,UPI,Paid
+4404,UPI,Paid
+4405,UPI,Paid
+4406,UPI,Paid
+4407,Debit Card,Paid
+4408,UPI,Paid
+4409,COD,Paid
+4410,UPI,Paid
+4411,UPI,Paid
+4412,COD,Paid
+4413,COD,Paid
+4414,Wallet,Paid
+4415,Wallet,Paid
+4416,COD,Paid
+4417,Wallet,Paid
+4418,Wallet,Paid
+4419,Credit Card,Paid
+4420,Credit Card,Paid
+4421,COD,Paid
+4422,COD,Paid
+4423,Wallet,Paid
+4424,Wallet,Paid
+4425,Wallet,Paid
+4426,Credit Card,Paid
+4427,Credit Card,Paid
+4428,UPI,Paid
+4429,Debit Card,Paid
+4430,Wallet,Paid
+4431,Wallet,Paid
+4432,Credit Card,Paid
+4433,COD,Paid
+4434,Debit Card,Paid
+4435,COD,Paid
+4436,Wallet,Paid
+4437,UPI,Paid
+4438,Debit Card,Paid
+4439,UPI,Paid
+4440,Wallet,Paid
+4441,Debit Card,Paid
+4442,COD,Paid
+4443,Wallet,Paid
+4444,Debit Card,Paid
+4445,Debit Card,Paid
+4446,COD,Paid
+4447,UPI,Paid
+4448,UPI,Paid
+4449,COD,Paid
+4450,Debit Card,Paid
+4451,UPI,Paid
+4452,Credit Card,Paid
+4453,Credit Card,Paid
+4454,COD,Paid
+4455,Debit Card,Paid
+4456,UPI,Paid
+4457,COD,Paid
+4458,Wallet,Paid
+4459,Credit Card,Paid
+4460,COD,Paid
+4461,Wallet,Paid
+4462,Debit Card,Paid
+4463,Debit Card,Paid
+4464,Credit Card,Paid
+4465,COD,Paid
+4466,Wallet,Paid
+4467,COD,Paid
+4468,Credit Card,Paid
+4469,Credit Card,Paid
+4470,UPI,Paid
+4471,Wallet,Paid
+4472,Wallet,Paid
+4473,Wallet,Paid
+4474,Debit Card,Paid
+4475,UPI,Paid
+4476,Credit Card,Paid
+4477,COD,Paid
+4478,UPI,Paid
+4479,Debit Card,Paid
+4480,COD,Paid
+4481,UPI,Paid
+4482,Credit Card,Paid
+4483,COD,Paid
+4484,Wallet,Paid
+4485,Wallet,Paid
+4486,Debit Card,Paid
+4487,COD,Paid
+4488,COD,Paid
+4489,Wallet,Paid
+4490,COD,Paid
+4491,Credit Card,Paid
+4492,Wallet,Paid
+4493,COD,Paid
+4494,Wallet,Paid
+4495,Wallet,Paid
+4496,Debit Card,Paid
+4497,COD,Paid
+4498,Wallet,Paid
+4499,UPI,Paid
+4500,COD,Paid
+4501,Credit Card,Paid
+4502,UPI,Paid
+4503,Debit Card,Paid
+4504,Debit Card,Paid
+4505,Wallet,Paid
+4506,COD,Paid
+4507,Wallet,Paid
+4508,Credit Card,Paid
+4509,COD,Paid
+4510,UPI,Paid
+4511,Credit Card,Paid
+4512,Wallet,Paid
+4513,COD,Paid
+4514,Credit Card,Paid
+4515,Wallet,Paid
+4516,Debit Card,Paid
+4517,UPI,Paid
+4518,Wallet,Paid
+4519,COD,Paid
+4520,Debit Card,Paid
+4521,UPI,Paid
+4522,Wallet,Paid
+4523,Debit Card,Paid
+4524,Credit Card,Paid
+4525,COD,Paid
+4526,Wallet,Paid
+4527,COD,Paid
+4528,Wallet,Paid
+4529,COD,Paid
+4530,COD,Paid
+4531,Debit Card,Paid
+4532,Wallet,Paid
+4533,UPI,Paid
+4534,Wallet,Paid
+4535,COD,Paid
+4536,Debit Card,Paid
+4537,Credit Card,Paid
+4538,Credit Card,Paid
+4539,Credit Card,Paid
+4540,Credit Card,Paid
+4541,Credit Card,Paid
+4542,UPI,Paid
+4543,Wallet,Paid
+4544,Credit Card,Paid
+4545,COD,Paid
+4546,Wallet,Paid
+4547,Wallet,Paid
+4548,UPI,Paid
+4549,UPI,Paid
+4550,COD,Paid
+4551,Credit Card,Paid
+4552,Credit Card,Paid
+4553,Credit Card,Paid
+4554,Credit Card,Paid
+4555,COD,Paid
+4556,COD,Paid
+4557,COD,Paid
+4558,UPI,Paid
+4559,COD,Paid
+4560,Debit Card,Paid
+4561,Debit Card,Paid
+4562,COD,Paid
+4563,Credit Card,Paid
+4564,Debit Card,Paid
+4565,Debit Card,Paid
+4566,UPI,Paid
+4567,Debit Card,Paid
+4568,COD,Paid
+4569,UPI,Paid
+4570,Debit Card,Paid
+4571,Credit Card,Paid
+4572,Credit Card,Paid
+4573,COD,Paid
+4574,COD,Paid
+4575,COD,Paid
+4576,Credit Card,Paid
+4577,Wallet,Paid
+4578,Wallet,Paid
+4579,Credit Card,Paid
+4580,COD,Paid
+4581,Debit Card,Paid
+4582,Debit Card,Paid
+4583,UPI,Paid
+4584,Credit Card,Paid
+4585,Wallet,Paid
+4586,Debit Card,Paid
+4587,Wallet,Paid
+4588,UPI,Paid
+4589,COD,Paid
+4590,Credit Card,Paid
+4591,UPI,Paid
+4592,UPI,Paid
+4593,COD,Paid
+4594,UPI,Paid
+4595,Credit Card,Paid
+4596,UPI,Paid
+4597,UPI,Paid
+4598,COD,Paid
+4599,Wallet,Paid
+4600,UPI,Paid
+4601,Debit Card,Paid
+4602,UPI,Paid
+4603,UPI,Paid
+4604,COD,Paid
+4605,Wallet,Paid
+4606,Debit Card,Paid
+4607,Debit Card,Paid
+4608,COD,Paid
+4609,COD,Paid
+4610,Credit Card,Paid
+4611,COD,Paid
+4612,Debit Card,Paid
+4613,Wallet,Paid
+4614,Credit Card,Paid
+4615,UPI,Paid
+4616,COD,Paid
+4617,UPI,Paid
+4618,Debit Card,Paid
+4619,Wallet,Paid
+4620,COD,Paid
+4621,Debit Card,Paid
+4622,COD,Paid
+4623,Wallet,Paid
+4624,Wallet,Paid
+4625,Credit Card,Paid
+4626,Credit Card,Paid
+4627,UPI,Paid
+4628,UPI,Paid
+4629,Credit Card,Paid
+4630,Credit Card,Paid
+4631,Wallet,Paid
+4632,COD,Paid
+4633,COD,Paid
+4634,COD,Paid
+4635,Credit Card,Paid
+4636,Wallet,Paid
+4637,UPI,Paid
+4638,COD,Paid
+4639,UPI,Paid
+4640,COD,Paid
+4641,COD,Paid
+4642,Credit Card,Paid
+4643,Credit Card,Paid
+4644,Credit Card,Paid
+4645,UPI,Paid
+4646,Credit Card,Paid
+4647,Credit Card,Paid
+4648,Wallet,Paid
+4649,UPI,Paid
+4650,Credit Card,Paid
+4651,Debit Card,Paid
+4652,Credit Card,Paid
+4653,Debit Card,Paid
+4654,Debit Card,Paid
+4655,Wallet,Paid
+4656,Debit Card,Paid
+4657,Credit Card,Paid
+4658,Wallet,Paid
+4659,UPI,Paid
+4660,Debit Card,Paid
+4661,UPI,Paid
+4662,Wallet,Paid
+4663,Wallet,Paid
+4664,UPI,Paid
+4665,Credit Card,Paid
+4666,UPI,Paid
+4667,Credit Card,Paid
+4668,Credit Card,Paid
+4669,UPI,Paid
+4670,Credit Card,Paid
+4671,UPI,Paid
+4672,COD,Paid
+4673,Wallet,Paid
+4674,Debit Card,Paid
+4675,UPI,Paid
+4676,Debit Card,Paid
+4677,UPI,Paid
+4678,Debit Card,Paid
+4679,Debit Card,Paid
+4680,Debit Card,Paid
+4681,UPI,Paid
+4682,COD,Paid
+4683,Debit Card,Paid
+4684,Wallet,Paid
+4685,Credit Card,Paid
+4686,COD,Paid
+4687,Wallet,Paid
+4688,UPI,Paid
+4689,Wallet,Paid
+4690,Debit Card,Paid
+4691,COD,Paid
+4692,Credit Card,Paid
+4693,Credit Card,Paid
+4694,COD,Paid
+4695,Debit Card,Paid
+4696,Wallet,Paid
+4697,Debit Card,Paid
+4698,UPI,Paid
+4699,Wallet,Paid
+4700,UPI,Paid
+4701,Credit Card,Paid
+4702,UPI,Paid
+4703,Wallet,Paid
+4704,Wallet,Paid
+4705,COD,Paid
+4706,Wallet,Paid
+4707,Wallet,Paid
+4708,UPI,Paid
+4709,UPI,Paid
+4710,Credit Card,Paid
+4711,COD,Paid
+4712,Debit Card,Paid
+4713,Wallet,Paid
+4714,Debit Card,Paid
+4715,Credit Card,Paid
+4716,Debit Card,Paid
+4717,COD,Paid
+4718,UPI,Paid
+4719,COD,Paid
+4720,COD,Paid
+4721,Debit Card,Paid
+4722,COD,Paid
+4723,Debit Card,Paid
+4724,Credit Card,Paid
+4725,COD,Paid
+4726,Wallet,Paid
+4727,UPI,Paid
+4728,Wallet,Paid
+4729,Credit Card,Paid
+4730,Credit Card,Paid
+4731,COD,Paid
+4732,Credit Card,Paid
+4733,Debit Card,Paid
+4734,Wallet,Paid
+4735,UPI,Paid
+4736,COD,Paid
+4737,Credit Card,Paid
+4738,Debit Card,Paid
+4739,COD,Paid
+4740,Wallet,Paid
+4741,Wallet,Paid
+4742,COD,Paid
+4743,Debit Card,Paid
+4744,Credit Card,Paid
+4745,UPI,Paid
+4746,Wallet,Paid
+4747,Credit Card,Paid
+4748,UPI,Paid
+4749,UPI,Paid
+4750,Credit Card,Paid
+4751,UPI,Paid
+4752,Debit Card,Paid
+4753,Debit Card,Paid
+4754,Debit Card,Paid
+4755,Credit Card,Paid
+4756,UPI,Paid
+4757,Wallet,Paid
+4758,Debit Card,Paid
+4759,Wallet,Paid
+4760,Wallet,Paid
+4761,COD,Paid
+4762,Debit Card,Paid
+4763,COD,Paid
+4764,COD,Paid
+4765,COD,Paid
+4766,Credit Card,Paid
+4767,Debit Card,Paid
+4768,Credit Card,Paid
+4769,Credit Card,Paid
+4770,Debit Card,Paid
+4771,COD,Paid
+4772,Debit Card,Paid
+4773,COD,Paid
+4774,Credit Card,Paid
+4775,Wallet,Paid
+4776,Debit Card,Paid
+4777,Debit Card,Paid
+4778,Credit Card,Paid
+4779,UPI,Paid
+4780,COD,Paid
+4781,Credit Card,Paid
+4782,UPI,Paid
+4783,COD,Paid
+4784,Wallet,Paid
+4785,COD,Paid
+4786,Wallet,Paid
+4787,Wallet,Paid
+4788,UPI,Paid
+4789,Credit Card,Paid
+4790,Debit Card,Paid
+4791,Credit Card,Paid
+4792,Credit Card,Paid
+4793,Credit Card,Paid
+4794,Credit Card,Paid
+4795,Debit Card,Paid
+4796,UPI,Paid
+4797,UPI,Paid
+4798,UPI,Paid
+4799,UPI,Paid
+4800,Wallet,Paid
+4801,COD,Paid
+4802,COD,Paid
+4803,Debit Card,Paid
+4804,Wallet,Paid
+4805,COD,Paid
+4806,UPI,Paid
+4807,Wallet,Paid
+4808,UPI,Paid
+4809,Credit Card,Paid
+4810,COD,Paid
+4811,Wallet,Paid
+4812,UPI,Paid
+4813,Credit Card,Paid
+4814,Wallet,Paid
+4815,UPI,Paid
+4816,Wallet,Paid
+4817,Wallet,Paid
+4818,UPI,Paid
+4819,UPI,Paid
+4820,Wallet,Paid
+4821,Wallet,Paid
+4822,COD,Paid
+4823,COD,Paid
+4824,UPI,Paid
+4825,Wallet,Paid
+4826,Credit Card,Paid
+4827,Debit Card,Paid
+4828,COD,Paid
+4829,Wallet,Paid
+4830,UPI,Paid
+4831,UPI,Paid
+4832,UPI,Paid
+4833,COD,Paid
+4834,Credit Card,Paid
+4835,Wallet,Paid
+4836,Debit Card,Paid
+4837,Wallet,Paid
+4838,Credit Card,Paid
+4839,COD,Paid
+4840,Debit Card,Paid
+4841,Wallet,Paid
+4842,Debit Card,Paid
+4843,Wallet,Paid
+4844,UPI,Paid
+4845,Credit Card,Paid
+4846,Debit Card,Paid
+4847,Wallet,Paid
+4848,Wallet,Paid
+4849,Wallet,Paid
+4850,Credit Card,Paid
+4851,Debit Card,Paid
+4852,COD,Paid
+4853,UPI,Paid
+4854,Debit Card,Paid
+4855,Debit Card,Paid
+4856,Debit Card,Paid
+4857,UPI,Paid
+4858,COD,Paid
+4859,Credit Card,Paid
+4860,COD,Paid
+4861,Debit Card,Paid
+4862,Debit Card,Paid
+4863,Credit Card,Paid
+4864,Wallet,Paid
+4865,UPI,Paid
+4866,Credit Card,Paid
+4867,Debit Card,Paid
+4868,Wallet,Paid
+4869,Debit Card,Paid
+4870,UPI,Paid
+4871,Wallet,Paid
+4872,COD,Paid
+4873,Debit Card,Paid
+4874,UPI,Paid
+4875,Credit Card,Paid
+4876,Debit Card,Paid
+4877,COD,Paid
+4878,UPI,Paid
+4879,Credit Card,Paid
+4880,Wallet,Paid
+4881,Wallet,Paid
+4882,UPI,Paid
+4883,COD,Paid
+4884,Debit Card,Paid
+4885,Credit Card,Paid
+4886,Debit Card,Paid
+4887,Debit Card,Paid
+4888,COD,Paid
+4889,UPI,Paid
+4890,Wallet,Paid
+4891,COD,Paid
+4892,COD,Paid
+4893,Wallet,Paid
+4894,Credit Card,Paid
+4895,Wallet,Paid
+4896,UPI,Paid
+4897,COD,Paid
+4898,Debit Card,Paid
+4899,COD,Paid
+4900,Wallet,Paid
+4901,Debit Card,Paid
+4902,Wallet,Paid
+4903,Debit Card,Paid
+4904,Debit Card,Paid
+4905,Wallet,Paid
+4906,COD,Paid
+4907,Wallet,Paid
+4908,Credit Card,Paid
+4909,UPI,Paid
+4910,Wallet,Paid
+4911,Wallet,Paid
+4912,Debit Card,Paid
+4913,Credit Card,Paid
+4914,COD,Paid
+4915,Wallet,Paid
+4916,Debit Card,Paid
+4917,COD,Paid
+4918,Debit Card,Paid
+4919,Wallet,Paid
+4920,COD,Paid
+4921,Credit Card,Paid
+4922,Credit Card,Paid
+4923,Debit Card,Paid
+4924,COD,Paid
+4925,UPI,Paid
+4926,Credit Card,Paid
+4927,UPI,Paid
+4928,Debit Card,Paid
+4929,Credit Card,Paid
+4930,UPI,Paid
+4931,UPI,Paid
+4932,COD,Paid
+4933,Wallet,Paid
+4934,Credit Card,Paid
+4935,Wallet,Paid
+4936,UPI,Paid
+4937,Credit Card,Paid
+4938,Credit Card,Paid
+4939,Wallet,Paid
+4940,Debit Card,Paid
+4941,Debit Card,Paid
+4942,Debit Card,Paid
+4943,UPI,Paid
+4944,COD,Paid
+4945,Credit Card,Paid
+4946,COD,Paid
+4947,Debit Card,Paid
+4948,Credit Card,Paid
+4949,Wallet,Paid
+4950,UPI,Paid
+4951,Wallet,Paid
+4952,Wallet,Paid
+4953,COD,Paid
+4954,COD,Paid
+4955,COD,Paid
+4956,COD,Paid
+4957,Credit Card,Paid
+4958,Debit Card,Paid
+4959,Credit Card,Paid
+4960,Debit Card,Paid
+4961,Wallet,Paid
+4962,Credit Card,Paid
+4963,Debit Card,Paid
+4964,Credit Card,Paid
+4965,UPI,Paid
+4966,UPI,Paid
+4967,Credit Card,Paid
+4968,Debit Card,Paid
+4969,Wallet,Paid
+4970,Debit Card,Paid
+4971,UPI,Paid
+4972,Debit Card,Paid
+4973,Wallet,Paid
+4974,Wallet,Paid
+4975,Debit Card,Paid
+4976,COD,Paid
+4977,Credit Card,Paid
+4978,UPI,Paid
+4979,Wallet,Paid
+4980,Debit Card,Paid
+4981,Wallet,Paid
+4982,COD,Paid
+4983,Wallet,Paid
+4984,Debit Card,Paid
+4985,COD,Paid
+4986,COD,Paid
+4987,COD,Paid
+4988,COD,Paid
+4989,Debit Card,Paid
+4990,COD,Paid
+4991,Debit Card,Paid
+4992,COD,Paid
+4993,Debit Card,Paid
+4994,COD,Paid
+4995,UPI,Paid
+4996,COD,Paid
+4997,COD,Paid
+4998,Wallet,Paid
+4999,Debit Card,Paid
+5000,Wallet,Paid

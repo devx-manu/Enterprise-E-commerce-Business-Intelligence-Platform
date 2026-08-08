@@ -1,0 +1,5001 @@
+shipping_id,warehouse_id,shipping_partner,shipping_cost,delivery_days,delivery_status
+1,1,DTDC,223,4,Delivered
+2,3,Ekart,238,3,Delivered
+3,3,Blue Dart,55,7,Delivered
+4,1,DTDC,223,7,Delivered
+5,2,Delhivery,166,6,Delivered
+6,5,Delhivery,152,5,Delivered
+7,3,Blue Dart,130,2,Delivered
+8,3,Delhivery,220,5,Delivered
+9,5,Blue Dart,292,5,Delivered
+10,4,Delhivery,86,1,Delivered
+11,2,Delhivery,284,1,Delivered
+12,2,Blue Dart,214,6,Delivered
+13,1,Delhivery,115,5,Delivered
+14,1,Ekart,77,3,Delivered
+15,5,Delhivery,212,3,Delivered
+16,2,DTDC,289,6,Delivered
+17,5,Ekart,154,6,Delivered
+18,4,Ekart,190,2,Delivered
+19,5,DTDC,56,2,Delivered
+20,5,Blue Dart,93,4,Delivered
+21,1,Blue Dart,217,3,Delivered
+22,3,DTDC,45,3,Delivered
+23,1,Ekart,171,7,Delivered
+24,1,DTDC,264,6,Delivered
+25,4,DTDC,233,3,Delivered
+26,1,DTDC,155,2,Delivered
+27,1,Ekart,50,3,Delivered
+28,1,Ekart,127,4,Delivered
+29,5,Delhivery,213,5,Delivered
+30,1,DTDC,124,5,Delivered
+31,2,Delhivery,91,3,Delivered
+32,4,Ekart,184,3,Delivered
+33,1,DTDC,291,2,Delivered
+34,1,DTDC,84,3,Delivered
+35,4,Blue Dart,89,1,Delivered
+36,3,Delhivery,282,7,Delivered
+37,4,DTDC,290,6,Delivered
+38,5,DTDC,134,3,Delivered
+39,3,Blue Dart,268,1,Delivered
+40,4,Ekart,155,7,Delivered
+41,1,Blue Dart,89,1,Delivered
+42,5,DTDC,156,5,Delivered
+43,5,DTDC,283,5,Delivered
+44,4,Ekart,80,4,Delivered
+45,5,Blue Dart,101,7,Delivered
+46,2,Blue Dart,138,2,Delivered
+47,1,DTDC,143,7,Delivered
+48,5,Ekart,203,6,Delivered
+49,1,DTDC,243,5,Delivered
+50,5,DTDC,46,7,Delivered
+51,5,DTDC,97,4,Delivered
+52,5,Delhivery,94,5,Delivered
+53,3,Ekart,250,3,Delivered
+54,5,DTDC,59,2,Delivered
+55,2,DTDC,59,4,Delivered
+56,2,Delhivery,283,3,Delivered
+57,1,Ekart,195,3,Delivered
+58,1,Blue Dart,108,3,Delivered
+59,3,Ekart,253,5,Delivered
+60,2,DTDC,148,7,Delivered
+61,5,Ekart,68,5,Delivered
+62,1,Ekart,299,4,Delivered
+63,5,Delhivery,128,2,Delivered
+64,1,Blue Dart,56,4,Delivered
+65,2,Ekart,228,7,Delivered
+66,4,Delhivery,55,2,Delivered
+67,5,DTDC,130,7,Delivered
+68,5,Ekart,216,2,Delivered
+69,1,Ekart,54,4,Delivered
+70,5,Blue Dart,153,6,Delivered
+71,3,DTDC,50,7,Delivered
+72,4,Blue Dart,128,5,Delivered
+73,2,Ekart,196,6,Delivered
+74,4,DTDC,218,4,Delivered
+75,4,Ekart,243,5,Delivered
+76,5,Ekart,184,3,Delivered
+77,4,Delhivery,212,3,Delivered
+78,3,Ekart,192,2,Delivered
+79,2,Delhivery,246,6,Delivered
+80,1,DTDC,191,3,Delivered
+81,4,DTDC,58,5,Delivered
+82,2,Ekart,153,6,Delivered
+83,3,Ekart,127,7,Delivered
+84,2,Ekart,89,4,Delivered
+85,5,Blue Dart,211,6,Delivered
+86,3,Blue Dart,197,4,Delivered
+87,3,Ekart,190,4,Delivered
+88,4,Delhivery,76,4,Delivered
+89,5,Delhivery,235,5,Delivered
+90,1,Blue Dart,110,2,Delivered
+91,5,DTDC,113,3,Delivered
+92,1,DTDC,210,6,Delivered
+93,1,Delhivery,271,3,Delivered
+94,5,Blue Dart,290,7,Delivered
+95,2,DTDC,259,4,Delivered
+96,4,Delhivery,59,5,Delivered
+97,1,Ekart,137,1,Delivered
+98,2,Blue Dart,216,3,Delivered
+99,4,Ekart,125,1,Delivered
+100,3,Ekart,273,6,Delivered
+101,5,Ekart,262,6,Delivered
+102,4,Ekart,136,2,Delivered
+103,1,Blue Dart,154,6,Delivered
+104,1,Blue Dart,103,3,Delivered
+105,4,Ekart,64,5,Delivered
+106,1,Delhivery,99,4,Delivered
+107,1,Ekart,282,6,Delivered
+108,1,Ekart,255,6,Delivered
+109,3,Blue Dart,254,7,Delivered
+110,5,Delhivery,184,1,Delivered
+111,4,Blue Dart,142,7,Delivered
+112,2,Ekart,249,3,Delivered
+113,5,DTDC,146,6,Delivered
+114,3,Blue Dart,41,1,Delivered
+115,1,DTDC,116,1,Delivered
+116,1,Delhivery,171,6,Delivered
+117,3,Ekart,277,1,Delivered
+118,1,Ekart,224,7,Delivered
+119,4,Delhivery,88,7,Delivered
+120,1,Blue Dart,127,3,Delivered
+121,5,Ekart,87,3,Delivered
+122,2,Delhivery,245,4,Delivered
+123,3,DTDC,284,7,Delivered
+124,1,Blue Dart,70,7,Delivered
+125,4,DTDC,264,2,Delivered
+126,3,Delhivery,106,4,Delivered
+127,1,DTDC,265,1,Delivered
+128,3,Delhivery,154,6,Delivered
+129,5,Delhivery,261,6,Delivered
+130,4,Ekart,237,2,Delivered
+131,5,Delhivery,45,6,Delivered
+132,5,DTDC,293,7,Delivered
+133,4,Ekart,163,3,Delivered
+134,1,Blue Dart,233,4,Delivered
+135,1,DTDC,267,7,Delivered
+136,1,DTDC,268,3,Delivered
+137,1,Delhivery,246,4,Delivered
+138,5,Delhivery,86,7,Delivered
+139,3,Blue Dart,273,3,Delivered
+140,2,DTDC,209,5,Delivered
+141,5,DTDC,226,6,Delivered
+142,1,Blue Dart,41,3,Delivered
+143,5,Ekart,94,1,Delivered
+144,4,Blue Dart,249,1,Delivered
+145,2,Blue Dart,101,7,Delivered
+146,4,Blue Dart,213,1,Delivered
+147,1,Delhivery,270,4,Delivered
+148,5,Blue Dart,295,1,Delivered
+149,5,DTDC,287,5,Delivered
+150,5,Blue Dart,105,1,Delivered
+151,5,Ekart,298,4,Delivered
+152,2,Ekart,243,3,Delivered
+153,4,Blue Dart,110,4,Delivered
+154,3,Ekart,151,2,Delivered
+155,3,Ekart,107,6,Delivered
+156,5,Ekart,99,7,Delivered
+157,4,DTDC,186,7,Delivered
+158,5,Delhivery,52,4,Delivered
+159,1,Blue Dart,176,7,Delivered
+160,3,Ekart,114,7,Delivered
+161,2,Delhivery,223,7,Delivered
+162,5,Blue Dart,239,2,Delivered
+163,1,DTDC,238,4,Delivered
+164,5,Delhivery,46,6,Delivered
+165,5,DTDC,155,6,Delivered
+166,5,Blue Dart,139,3,Delivered
+167,1,Blue Dart,128,6,Delivered
+168,4,Delhivery,259,3,Delivered
+169,2,Blue Dart,170,1,Delivered
+170,2,Delhivery,118,3,Delivered
+171,5,Ekart,291,7,Delivered
+172,3,Delhivery,202,5,Delivered
+173,5,Delhivery,298,2,Delivered
+174,5,DTDC,87,3,Delivered
+175,3,Ekart,224,3,Delivered
+176,5,DTDC,44,1,Delivered
+177,4,Blue Dart,164,1,Delivered
+178,4,Delhivery,237,3,Delivered
+179,1,Ekart,300,4,Delivered
+180,3,Blue Dart,204,5,Delivered
+181,2,Delhivery,73,2,Delivered
+182,4,Delhivery,145,5,Delivered
+183,1,Blue Dart,52,4,Delivered
+184,1,Delhivery,77,1,Delivered
+185,5,Delhivery,156,3,Delivered
+186,4,DTDC,261,3,Delivered
+187,1,Delhivery,72,7,Delivered
+188,1,Delhivery,223,5,Delivered
+189,3,Delhivery,184,7,Delivered
+190,4,DTDC,55,4,Delivered
+191,2,Blue Dart,240,7,Delivered
+192,3,Blue Dart,192,6,Delivered
+193,1,Blue Dart,103,1,Delivered
+194,5,DTDC,83,3,Delivered
+195,2,DTDC,112,2,Delivered
+196,5,Ekart,139,1,Delivered
+197,1,DTDC,77,3,Delivered
+198,3,Delhivery,141,6,Delivered
+199,3,Ekart,105,6,Delivered
+200,1,Ekart,75,2,Delivered
+201,4,Ekart,196,6,Delivered
+202,5,Ekart,201,4,Delivered
+203,3,Blue Dart,153,6,Delivered
+204,3,Ekart,108,6,Delivered
+205,4,DTDC,268,3,Delivered
+206,4,Delhivery,129,6,Delivered
+207,3,Blue Dart,140,3,Delivered
+208,1,Delhivery,299,6,Delivered
+209,5,DTDC,148,1,Delivered
+210,5,DTDC,116,3,Delivered
+211,5,Ekart,108,4,Delivered
+212,1,DTDC,226,5,Delivered
+213,5,Blue Dart,111,4,Delivered
+214,5,Blue Dart,287,3,Delivered
+215,4,Blue Dart,72,3,Delivered
+216,1,Blue Dart,224,4,Delivered
+217,1,Delhivery,205,1,Delivered
+218,3,Ekart,129,4,Delivered
+219,3,Delhivery,168,4,Delivered
+220,5,DTDC,220,7,Delivered
+221,4,DTDC,43,5,Delivered
+222,4,Blue Dart,157,1,Delivered
+223,2,Blue Dart,135,2,Delivered
+224,1,Blue Dart,252,7,Delivered
+225,4,DTDC,285,2,Delivered
+226,4,Delhivery,164,1,Delivered
+227,5,Blue Dart,108,6,Delivered
+228,5,Blue Dart,68,2,Delivered
+229,5,DTDC,49,6,Delivered
+230,1,Blue Dart,269,5,Delivered
+231,2,Blue Dart,250,5,Delivered
+232,2,Ekart,125,6,Delivered
+233,4,Delhivery,157,4,Delivered
+234,1,Delhivery,143,5,Delivered
+235,4,Blue Dart,89,2,Delivered
+236,5,Delhivery,297,7,Delivered
+237,4,Blue Dart,40,7,Delivered
+238,5,DTDC,229,7,Delivered
+239,4,Blue Dart,286,7,Delivered
+240,3,Delhivery,257,2,Delivered
+241,2,Delhivery,185,5,Delivered
+242,4,Ekart,136,1,Delivered
+243,5,Delhivery,43,4,Delivered
+244,3,DTDC,225,1,Delivered
+245,5,Ekart,173,7,Delivered
+246,5,Ekart,181,6,Delivered
+247,4,DTDC,131,3,Delivered
+248,4,Ekart,197,5,Delivered
+249,2,Delhivery,157,4,Delivered
+250,1,Blue Dart,300,4,Delivered
+251,5,Delhivery,122,4,Delivered
+252,1,Blue Dart,281,5,Delivered
+253,1,Ekart,153,3,Delivered
+254,1,DTDC,245,5,Delivered
+255,3,Delhivery,129,6,Delivered
+256,1,Blue Dart,186,2,Delivered
+257,5,Blue Dart,126,6,Delivered
+258,2,Delhivery,120,1,Delivered
+259,3,DTDC,247,5,Delivered
+260,1,Delhivery,86,5,Delivered
+261,5,Ekart,217,7,Delivered
+262,5,Blue Dart,272,4,Delivered
+263,3,Blue Dart,248,5,Delivered
+264,1,Ekart,214,1,Delivered
+265,3,Ekart,266,4,Delivered
+266,2,Ekart,274,6,Delivered
+267,1,DTDC,99,3,Delivered
+268,2,Blue Dart,201,4,Delivered
+269,5,Delhivery,174,2,Delivered
+270,4,Ekart,78,5,Delivered
+271,4,Ekart,221,2,Delivered
+272,3,Blue Dart,137,4,Delivered
+273,2,Blue Dart,175,2,Delivered
+274,2,Ekart,119,7,Delivered
+275,1,DTDC,43,7,Delivered
+276,1,DTDC,230,5,Delivered
+277,5,Ekart,291,2,Delivered
+278,3,DTDC,153,7,Delivered
+279,1,DTDC,284,5,Delivered
+280,3,DTDC,129,4,Delivered
+281,5,DTDC,201,6,Delivered
+282,2,DTDC,91,3,Delivered
+283,3,Blue Dart,174,2,Delivered
+284,5,Ekart,227,2,Delivered
+285,2,DTDC,230,3,Delivered
+286,3,DTDC,132,5,Delivered
+287,2,Delhivery,178,7,Delivered
+288,4,DTDC,140,2,Delivered
+289,4,Delhivery,130,4,Delivered
+290,5,Ekart,289,3,Delivered
+291,5,Delhivery,243,1,Delivered
+292,1,Blue Dart,170,4,Delivered
+293,4,Ekart,173,3,Delivered
+294,5,Ekart,216,1,Delivered
+295,3,Blue Dart,129,7,Delivered
+296,3,DTDC,268,1,Delivered
+297,3,DTDC,114,7,Delivered
+298,4,DTDC,76,1,Delivered
+299,2,Ekart,202,6,Delivered
+300,5,DTDC,178,4,Delivered
+301,5,DTDC,251,2,Delivered
+302,2,Blue Dart,168,6,Delivered
+303,2,Blue Dart,243,1,Delivered
+304,4,Delhivery,53,7,Delivered
+305,1,Delhivery,174,5,Delivered
+306,4,Ekart,157,2,Delivered
+307,4,Blue Dart,107,5,Delivered
+308,1,Delhivery,222,7,Delivered
+309,4,DTDC,179,5,Delivered
+310,5,Blue Dart,273,6,Delivered
+311,4,Ekart,217,4,Delivered
+312,1,DTDC,197,3,Delivered
+313,2,Ekart,45,1,Delivered
+314,3,Ekart,280,5,Delivered
+315,4,Ekart,44,7,Delivered
+316,5,Blue Dart,43,5,Delivered
+317,4,DTDC,242,2,Delivered
+318,4,Blue Dart,174,1,Delivered
+319,5,Ekart,185,6,Delivered
+320,3,DTDC,136,7,Delivered
+321,2,Ekart,96,6,Delivered
+322,4,Ekart,291,2,Delivered
+323,2,Delhivery,51,2,Delivered
+324,3,Ekart,104,6,Delivered
+325,2,Delhivery,117,1,Delivered
+326,3,DTDC,199,7,Delivered
+327,3,DTDC,56,3,Delivered
+328,1,Ekart,240,1,Delivered
+329,2,Blue Dart,168,7,Delivered
+330,1,Blue Dart,237,7,Delivered
+331,2,Delhivery,141,4,Delivered
+332,5,Blue Dart,282,4,Delivered
+333,3,Blue Dart,61,6,Delivered
+334,5,Delhivery,169,4,Delivered
+335,2,Ekart,66,7,Delivered
+336,1,Blue Dart,262,3,Delivered
+337,3,Delhivery,242,7,Delivered
+338,1,DTDC,119,3,Delivered
+339,2,Blue Dart,295,1,Delivered
+340,3,Delhivery,70,3,Delivered
+341,5,Delhivery,104,4,Delivered
+342,5,Ekart,264,6,Delivered
+343,4,Ekart,108,3,Delivered
+344,4,DTDC,190,5,Delivered
+345,2,Blue Dart,218,3,Delivered
+346,3,Blue Dart,75,5,Delivered
+347,3,Ekart,227,4,Delivered
+348,4,Blue Dart,49,5,Delivered
+349,5,Blue Dart,204,6,Delivered
+350,4,Blue Dart,294,7,Delivered
+351,5,Ekart,205,4,Delivered
+352,1,Delhivery,74,1,Delivered
+353,2,Delhivery,143,1,Delivered
+354,1,Delhivery,238,6,Delivered
+355,5,Ekart,65,3,Delivered
+356,1,Delhivery,146,6,Delivered
+357,4,Delhivery,224,5,Delivered
+358,3,Delhivery,176,5,Delivered
+359,3,Delhivery,150,5,Delivered
+360,2,DTDC,137,2,Delivered
+361,5,Blue Dart,252,6,Delivered
+362,3,DTDC,258,1,Delivered
+363,5,DTDC,298,3,Delivered
+364,5,DTDC,220,3,Delivered
+365,3,DTDC,260,7,Delivered
+366,5,Blue Dart,149,4,Delivered
+367,3,Ekart,271,4,Delivered
+368,1,Delhivery,185,5,Delivered
+369,2,Ekart,43,3,Delivered
+370,3,Delhivery,181,5,Delivered
+371,5,Blue Dart,88,1,Delivered
+372,2,Blue Dart,175,3,Delivered
+373,2,Blue Dart,171,7,Delivered
+374,5,DTDC,151,6,Delivered
+375,4,Blue Dart,289,7,Delivered
+376,1,Ekart,59,6,Delivered
+377,4,Delhivery,68,7,Delivered
+378,4,DTDC,101,7,Delivered
+379,5,Delhivery,235,1,Delivered
+380,1,Ekart,116,3,Delivered
+381,2,Delhivery,241,4,Delivered
+382,5,Delhivery,153,4,Delivered
+383,2,Blue Dart,212,1,Delivered
+384,1,DTDC,174,1,Delivered
+385,4,Blue Dart,109,4,Delivered
+386,4,DTDC,140,5,Delivered
+387,2,Blue Dart,76,3,Delivered
+388,3,Delhivery,97,6,Delivered
+389,3,Ekart,137,3,Delivered
+390,1,Ekart,126,3,Delivered
+391,5,Blue Dart,265,1,Delivered
+392,2,Ekart,119,7,Delivered
+393,1,Delhivery,164,5,Delivered
+394,3,Delhivery,215,6,Delivered
+395,3,DTDC,281,1,Delivered
+396,5,Blue Dart,144,5,Delivered
+397,5,DTDC,112,6,Delivered
+398,4,Delhivery,170,2,Delivered
+399,2,Ekart,67,4,Delivered
+400,1,DTDC,178,6,Delivered
+401,1,Delhivery,189,7,Delivered
+402,2,DTDC,300,6,Delivered
+403,4,Delhivery,135,2,Delivered
+404,5,Delhivery,60,2,Delivered
+405,3,Ekart,290,4,Delivered
+406,1,Ekart,220,3,Delivered
+407,2,Ekart,71,6,Delivered
+408,1,Ekart,155,2,Delivered
+409,2,Delhivery,235,5,Delivered
+410,2,DTDC,163,5,Delivered
+411,3,Ekart,269,5,Delivered
+412,2,Blue Dart,110,3,Delivered
+413,2,DTDC,114,6,Delivered
+414,2,Ekart,74,5,Delivered
+415,2,Ekart,114,6,Delivered
+416,4,DTDC,195,4,Delivered
+417,2,Blue Dart,94,2,Delivered
+418,5,Ekart,158,5,Delivered
+419,1,Ekart,80,6,Delivered
+420,2,DTDC,231,2,Delivered
+421,4,DTDC,110,2,Delivered
+422,1,DTDC,47,3,Delivered
+423,2,Blue Dart,144,1,Delivered
+424,5,DTDC,206,7,Delivered
+425,4,DTDC,61,5,Delivered
+426,3,DTDC,59,5,Delivered
+427,4,Delhivery,165,5,Delivered
+428,1,DTDC,65,2,Delivered
+429,4,Ekart,186,4,Delivered
+430,3,Delhivery,112,4,Delivered
+431,1,Delhivery,132,7,Delivered
+432,2,DTDC,251,3,Delivered
+433,2,DTDC,143,4,Delivered
+434,3,Blue Dart,103,1,Delivered
+435,3,Delhivery,236,6,Delivered
+436,5,Blue Dart,233,5,Delivered
+437,2,Ekart,116,2,Delivered
+438,2,Delhivery,254,3,Delivered
+439,3,Blue Dart,100,2,Delivered
+440,1,Ekart,46,4,Delivered
+441,5,Delhivery,292,2,Delivered
+442,4,DTDC,249,4,Delivered
+443,5,Delhivery,165,5,Delivered
+444,5,Blue Dart,65,2,Delivered
+445,3,Delhivery,114,7,Delivered
+446,5,Ekart,209,1,Delivered
+447,4,Blue Dart,122,6,Delivered
+448,5,Blue Dart,273,6,Delivered
+449,1,Delhivery,193,3,Delivered
+450,1,DTDC,73,3,Delivered
+451,1,Ekart,208,5,Delivered
+452,2,Blue Dart,69,1,Delivered
+453,1,DTDC,187,4,Delivered
+454,3,Ekart,106,5,Delivered
+455,5,DTDC,292,7,Delivered
+456,2,Ekart,139,1,Delivered
+457,4,Delhivery,146,7,Delivered
+458,4,Delhivery,210,3,Delivered
+459,1,Blue Dart,184,3,Delivered
+460,3,Ekart,299,5,Delivered
+461,1,Ekart,214,4,Delivered
+462,5,Delhivery,129,2,Delivered
+463,4,DTDC,58,6,Delivered
+464,2,DTDC,211,4,Delivered
+465,1,Ekart,201,5,Delivered
+466,2,Ekart,221,1,Delivered
+467,3,Delhivery,213,4,Delivered
+468,2,DTDC,135,5,Delivered
+469,3,Delhivery,179,4,Delivered
+470,2,Ekart,271,7,Delivered
+471,2,Ekart,129,1,Delivered
+472,2,Delhivery,267,5,Delivered
+473,5,Blue Dart,137,3,Delivered
+474,5,Ekart,207,2,Delivered
+475,5,Blue Dart,145,6,Delivered
+476,4,Delhivery,42,3,Delivered
+477,5,Delhivery,210,4,Delivered
+478,1,Ekart,51,5,Delivered
+479,2,Ekart,142,2,Delivered
+480,5,Ekart,265,6,Delivered
+481,2,Blue Dart,180,1,Delivered
+482,5,Delhivery,145,5,Delivered
+483,3,Ekart,112,6,Delivered
+484,5,Blue Dart,127,1,Delivered
+485,3,DTDC,65,2,Delivered
+486,1,Delhivery,236,1,Delivered
+487,4,Blue Dart,268,5,Delivered
+488,3,Blue Dart,80,7,Delivered
+489,5,Blue Dart,87,7,Delivered
+490,1,DTDC,198,6,Delivered
+491,4,Blue Dart,154,2,Delivered
+492,3,Ekart,240,2,Delivered
+493,3,DTDC,289,1,Delivered
+494,1,Ekart,285,4,Delivered
+495,3,Ekart,105,5,Delivered
+496,1,Ekart,76,7,Delivered
+497,4,DTDC,251,2,Delivered
+498,5,Blue Dart,286,4,Delivered
+499,2,DTDC,262,5,Delivered
+500,5,Blue Dart,128,6,Delivered
+501,5,DTDC,98,5,Delivered
+502,3,Delhivery,267,2,Delivered
+503,1,Delhivery,234,3,Delivered
+504,1,Blue Dart,111,5,Delivered
+505,2,Blue Dart,271,5,Delivered
+506,5,DTDC,140,2,Delivered
+507,3,Ekart,262,6,Delivered
+508,1,Delhivery,246,7,Delivered
+509,1,Ekart,67,1,Delivered
+510,3,Delhivery,184,7,Delivered
+511,4,DTDC,202,6,Delivered
+512,4,DTDC,148,6,Delivered
+513,2,Blue Dart,236,7,Delivered
+514,4,Blue Dart,187,7,Delivered
+515,2,Delhivery,76,6,Delivered
+516,4,DTDC,109,1,Delivered
+517,4,DTDC,132,4,Delivered
+518,5,DTDC,236,3,Delivered
+519,4,Delhivery,295,7,Delivered
+520,5,Ekart,250,5,Delivered
+521,1,Delhivery,287,6,Delivered
+522,5,DTDC,80,2,Delivered
+523,3,DTDC,80,5,Delivered
+524,1,Blue Dart,281,6,Delivered
+525,5,Ekart,67,3,Delivered
+526,4,DTDC,280,5,Delivered
+527,4,Ekart,190,3,Delivered
+528,5,Ekart,173,1,Delivered
+529,5,Blue Dart,66,6,Delivered
+530,1,Ekart,288,1,Delivered
+531,1,Ekart,169,2,Delivered
+532,3,Ekart,47,6,Delivered
+533,2,Blue Dart,268,3,Delivered
+534,3,Blue Dart,288,2,Delivered
+535,1,Ekart,83,2,Delivered
+536,4,DTDC,236,2,Delivered
+537,2,Blue Dart,216,1,Delivered
+538,1,Delhivery,125,4,Delivered
+539,3,DTDC,159,4,Delivered
+540,4,Ekart,114,5,Delivered
+541,1,Ekart,269,4,Delivered
+542,5,Delhivery,89,5,Delivered
+543,4,Ekart,211,3,Delivered
+544,3,DTDC,276,7,Delivered
+545,5,Blue Dart,212,6,Delivered
+546,3,Delhivery,44,7,Delivered
+547,4,Delhivery,93,6,Delivered
+548,2,Ekart,168,2,Delivered
+549,5,Delhivery,69,5,Delivered
+550,5,Delhivery,101,1,Delivered
+551,2,DTDC,134,1,Delivered
+552,3,Ekart,279,6,Delivered
+553,4,Ekart,258,6,Delivered
+554,3,Blue Dart,77,3,Delivered
+555,4,DTDC,210,1,Delivered
+556,2,DTDC,75,4,Delivered
+557,5,DTDC,131,6,Delivered
+558,2,DTDC,151,5,Delivered
+559,4,Ekart,92,1,Delivered
+560,5,Ekart,268,1,Delivered
+561,2,Delhivery,59,6,Delivered
+562,2,Ekart,240,5,Delivered
+563,4,DTDC,263,4,Delivered
+564,5,Blue Dart,41,4,Delivered
+565,1,Ekart,210,6,Delivered
+566,1,Delhivery,227,5,Delivered
+567,1,DTDC,188,6,Delivered
+568,5,Delhivery,236,6,Delivered
+569,4,Delhivery,223,4,Delivered
+570,2,Blue Dart,58,2,Delivered
+571,2,DTDC,239,1,Delivered
+572,3,DTDC,270,1,Delivered
+573,1,Ekart,61,4,Delivered
+574,5,DTDC,116,6,Delivered
+575,1,Delhivery,112,4,Delivered
+576,4,Delhivery,164,6,Delivered
+577,1,Blue Dart,65,3,Delivered
+578,4,Blue Dart,72,7,Delivered
+579,1,DTDC,152,1,Delivered
+580,4,Ekart,245,3,Delivered
+581,5,Blue Dart,204,7,Delivered
+582,1,Blue Dart,211,1,Delivered
+583,2,DTDC,126,6,Delivered
+584,2,DTDC,164,5,Delivered
+585,1,DTDC,120,1,Delivered
+586,1,Delhivery,43,2,Delivered
+587,5,Ekart,253,6,Delivered
+588,2,Blue Dart,113,6,Delivered
+589,4,DTDC,162,2,Delivered
+590,5,Blue Dart,295,5,Delivered
+591,3,Ekart,254,1,Delivered
+592,2,Delhivery,88,5,Delivered
+593,5,Blue Dart,277,7,Delivered
+594,3,Delhivery,139,1,Delivered
+595,4,DTDC,130,2,Delivered
+596,1,Ekart,185,2,Delivered
+597,3,DTDC,62,1,Delivered
+598,5,Blue Dart,120,7,Delivered
+599,5,Delhivery,76,2,Delivered
+600,5,Ekart,254,2,Delivered
+601,2,Delhivery,206,2,Delivered
+602,4,Blue Dart,232,2,Delivered
+603,5,DTDC,67,4,Delivered
+604,5,DTDC,131,4,Delivered
+605,4,Blue Dart,223,3,Delivered
+606,2,Delhivery,70,3,Delivered
+607,4,DTDC,254,2,Delivered
+608,2,Ekart,120,7,Delivered
+609,2,Blue Dart,84,4,Delivered
+610,4,Blue Dart,282,7,Delivered
+611,1,DTDC,166,2,Delivered
+612,5,Blue Dart,116,5,Delivered
+613,4,Delhivery,60,4,Delivered
+614,1,DTDC,241,4,Delivered
+615,4,DTDC,163,1,Delivered
+616,4,Blue Dart,107,3,Delivered
+617,1,Delhivery,285,6,Delivered
+618,4,Delhivery,272,4,Delivered
+619,4,Blue Dart,229,6,Delivered
+620,1,DTDC,210,5,Delivered
+621,4,Ekart,146,7,Delivered
+622,5,Ekart,68,5,Delivered
+623,1,Delhivery,236,3,Delivered
+624,1,Ekart,227,2,Delivered
+625,1,Blue Dart,110,3,Delivered
+626,1,DTDC,147,7,Delivered
+627,3,Ekart,176,5,Delivered
+628,3,Delhivery,72,3,Delivered
+629,4,Delhivery,280,6,Delivered
+630,3,DTDC,228,7,Delivered
+631,2,DTDC,84,1,Delivered
+632,3,Delhivery,95,2,Delivered
+633,2,DTDC,117,7,Delivered
+634,1,Ekart,253,6,Delivered
+635,4,Ekart,255,4,Delivered
+636,3,Blue Dart,72,1,Delivered
+637,5,Ekart,250,5,Delivered
+638,4,DTDC,274,3,Delivered
+639,3,Blue Dart,173,2,Delivered
+640,3,Delhivery,115,3,Delivered
+641,2,Blue Dart,186,2,Delivered
+642,2,Blue Dart,161,1,Delivered
+643,5,Blue Dart,265,3,Delivered
+644,2,Delhivery,202,3,Delivered
+645,4,Blue Dart,194,1,Delivered
+646,4,DTDC,114,4,Delivered
+647,2,Delhivery,299,3,Delivered
+648,4,Ekart,115,7,Delivered
+649,3,Delhivery,285,1,Delivered
+650,1,Ekart,52,4,Delivered
+651,4,Ekart,87,3,Delivered
+652,2,Blue Dart,182,2,Delivered
+653,5,DTDC,84,5,Delivered
+654,4,Ekart,68,6,Delivered
+655,2,DTDC,229,4,Delivered
+656,3,Ekart,219,3,Delivered
+657,1,Blue Dart,267,6,Delivered
+658,3,Blue Dart,257,6,Delivered
+659,2,Delhivery,113,2,Delivered
+660,5,Ekart,73,5,Delivered
+661,1,Delhivery,249,6,Delivered
+662,4,Blue Dart,276,6,Delivered
+663,2,Blue Dart,235,3,Delivered
+664,1,Ekart,195,4,Delivered
+665,2,Delhivery,41,2,Delivered
+666,4,Delhivery,187,4,Delivered
+667,2,Delhivery,101,7,Delivered
+668,1,Ekart,286,5,Delivered
+669,4,Delhivery,231,5,Delivered
+670,1,Ekart,123,5,Delivered
+671,3,DTDC,109,3,Delivered
+672,3,Ekart,254,6,Delivered
+673,1,Ekart,189,5,Delivered
+674,5,Blue Dart,133,7,Delivered
+675,2,Ekart,201,7,Delivered
+676,3,Ekart,89,5,Delivered
+677,2,Delhivery,110,5,Delivered
+678,4,DTDC,214,2,Delivered
+679,2,Blue Dart,136,7,Delivered
+680,5,Delhivery,253,4,Delivered
+681,1,Blue Dart,48,4,Delivered
+682,3,Blue Dart,266,5,Delivered
+683,2,Ekart,54,6,Delivered
+684,2,Blue Dart,112,6,Delivered
+685,2,Blue Dart,106,1,Delivered
+686,1,Delhivery,287,7,Delivered
+687,2,Delhivery,56,7,Delivered
+688,5,Delhivery,280,1,Delivered
+689,1,Delhivery,194,6,Delivered
+690,1,Blue Dart,142,2,Delivered
+691,1,Delhivery,114,7,Delivered
+692,5,Ekart,220,2,Delivered
+693,5,Blue Dart,298,5,Delivered
+694,5,Delhivery,151,6,Delivered
+695,2,Delhivery,90,2,Delivered
+696,4,Ekart,134,4,Delivered
+697,2,Ekart,234,4,Delivered
+698,2,DTDC,97,7,Delivered
+699,4,Delhivery,109,4,Delivered
+700,3,Delhivery,82,3,Delivered
+701,4,Ekart,273,5,Delivered
+702,4,Blue Dart,248,3,Delivered
+703,2,Delhivery,283,6,Delivered
+704,1,DTDC,93,4,Delivered
+705,1,Delhivery,113,4,Delivered
+706,1,Blue Dart,73,3,Delivered
+707,3,Blue Dart,246,1,Delivered
+708,4,Ekart,179,7,Delivered
+709,3,DTDC,247,4,Delivered
+710,2,DTDC,95,1,Delivered
+711,4,Blue Dart,108,1,Delivered
+712,1,DTDC,53,2,Delivered
+713,3,Blue Dart,195,5,Delivered
+714,1,DTDC,278,2,Delivered
+715,4,Ekart,215,7,Delivered
+716,5,Delhivery,56,4,Delivered
+717,4,DTDC,201,7,Delivered
+718,4,Delhivery,56,2,Delivered
+719,2,DTDC,260,2,Delivered
+720,4,Delhivery,291,6,Delivered
+721,5,DTDC,283,5,Delivered
+722,5,Delhivery,240,3,Delivered
+723,4,Ekart,185,3,Delivered
+724,5,Delhivery,105,7,Delivered
+725,5,Delhivery,214,4,Delivered
+726,3,Ekart,250,3,Delivered
+727,2,Blue Dart,199,5,Delivered
+728,3,Delhivery,212,2,Delivered
+729,3,Delhivery,275,6,Delivered
+730,5,DTDC,176,1,Delivered
+731,5,Delhivery,202,4,Delivered
+732,3,Delhivery,290,1,Delivered
+733,3,DTDC,297,7,Delivered
+734,2,Ekart,226,4,Delivered
+735,1,Blue Dart,187,3,Delivered
+736,5,DTDC,155,5,Delivered
+737,5,Delhivery,212,3,Delivered
+738,5,DTDC,258,2,Delivered
+739,3,Ekart,261,6,Delivered
+740,2,DTDC,245,3,Delivered
+741,4,Blue Dart,49,6,Delivered
+742,2,DTDC,149,6,Delivered
+743,3,DTDC,70,5,Delivered
+744,4,Blue Dart,163,2,Delivered
+745,4,DTDC,203,7,Delivered
+746,2,DTDC,176,7,Delivered
+747,3,Blue Dart,247,2,Delivered
+748,2,Delhivery,165,7,Delivered
+749,4,DTDC,263,4,Delivered
+750,2,Blue Dart,179,2,Delivered
+751,3,Blue Dart,61,6,Delivered
+752,1,Delhivery,200,5,Delivered
+753,4,Ekart,86,4,Delivered
+754,2,Delhivery,296,1,Delivered
+755,5,Ekart,294,1,Delivered
+756,1,Ekart,208,7,Delivered
+757,2,DTDC,151,2,Delivered
+758,2,Ekart,265,4,Delivered
+759,1,DTDC,231,6,Delivered
+760,3,DTDC,283,6,Delivered
+761,2,Ekart,283,6,Delivered
+762,1,Delhivery,67,6,Delivered
+763,3,DTDC,198,6,Delivered
+764,1,Blue Dart,266,4,Delivered
+765,3,Ekart,86,7,Delivered
+766,3,Blue Dart,122,4,Delivered
+767,4,Delhivery,180,7,Delivered
+768,4,DTDC,210,6,Delivered
+769,2,Ekart,299,1,Delivered
+770,5,Ekart,272,6,Delivered
+771,2,DTDC,109,1,Delivered
+772,3,Ekart,82,1,Delivered
+773,5,Blue Dart,250,7,Delivered
+774,4,DTDC,108,3,Delivered
+775,3,Ekart,141,1,Delivered
+776,2,DTDC,233,7,Delivered
+777,2,Delhivery,51,5,Delivered
+778,2,Delhivery,276,2,Delivered
+779,1,DTDC,259,5,Delivered
+780,1,Ekart,127,5,Delivered
+781,5,DTDC,272,7,Delivered
+782,1,Blue Dart,144,2,Delivered
+783,3,DTDC,235,2,Delivered
+784,5,Blue Dart,184,6,Delivered
+785,4,Blue Dart,249,7,Delivered
+786,3,Ekart,160,5,Delivered
+787,3,DTDC,83,1,Delivered
+788,3,DTDC,148,6,Delivered
+789,5,Ekart,77,1,Delivered
+790,1,Ekart,160,4,Delivered
+791,5,Delhivery,42,3,Delivered
+792,4,Ekart,242,6,Delivered
+793,5,Delhivery,131,3,Delivered
+794,4,Ekart,279,2,Delivered
+795,5,DTDC,112,3,Delivered
+796,1,Blue Dart,295,7,Delivered
+797,3,DTDC,184,3,Delivered
+798,5,Ekart,263,2,Delivered
+799,2,DTDC,67,2,Delivered
+800,2,Blue Dart,58,4,Delivered
+801,4,DTDC,99,4,Delivered
+802,3,DTDC,274,4,Delivered
+803,1,Ekart,87,2,Delivered
+804,2,Blue Dart,300,7,Delivered
+805,5,Blue Dart,42,5,Delivered
+806,2,DTDC,79,2,Delivered
+807,1,Ekart,53,3,Delivered
+808,4,Ekart,94,7,Delivered
+809,1,Delhivery,275,7,Delivered
+810,4,Ekart,42,3,Delivered
+811,5,DTDC,206,6,Delivered
+812,2,Blue Dart,64,7,Delivered
+813,3,Delhivery,76,5,Delivered
+814,4,Delhivery,244,3,Delivered
+815,4,Delhivery,50,7,Delivered
+816,4,DTDC,185,6,Delivered
+817,1,Ekart,291,7,Delivered
+818,5,Blue Dart,223,6,Delivered
+819,5,Blue Dart,290,4,Delivered
+820,4,Ekart,256,1,Delivered
+821,3,Blue Dart,262,6,Delivered
+822,1,Ekart,277,6,Delivered
+823,4,Delhivery,188,4,Delivered
+824,4,Ekart,116,2,Delivered
+825,2,DTDC,191,5,Delivered
+826,1,Delhivery,95,5,Delivered
+827,1,DTDC,169,3,Delivered
+828,1,Delhivery,98,6,Delivered
+829,2,Blue Dart,241,1,Delivered
+830,3,Ekart,272,7,Delivered
+831,5,Ekart,214,7,Delivered
+832,2,Blue Dart,80,6,Delivered
+833,1,DTDC,49,1,Delivered
+834,1,Blue Dart,284,4,Delivered
+835,5,DTDC,195,5,Delivered
+836,3,DTDC,194,1,Delivered
+837,1,Blue Dart,97,7,Delivered
+838,1,Blue Dart,286,6,Delivered
+839,4,Blue Dart,84,3,Delivered
+840,2,DTDC,256,1,Delivered
+841,2,DTDC,288,4,Delivered
+842,5,Blue Dart,143,3,Delivered
+843,1,Ekart,44,1,Delivered
+844,4,DTDC,188,1,Delivered
+845,4,DTDC,158,6,Delivered
+846,1,DTDC,201,5,Delivered
+847,4,DTDC,99,4,Delivered
+848,4,DTDC,50,2,Delivered
+849,4,Ekart,264,2,Delivered
+850,5,Ekart,279,2,Delivered
+851,4,DTDC,224,7,Delivered
+852,5,Blue Dart,184,6,Delivered
+853,4,Blue Dart,128,2,Delivered
+854,4,Delhivery,252,4,Delivered
+855,2,Delhivery,49,3,Delivered
+856,3,Blue Dart,129,7,Delivered
+857,1,Delhivery,212,4,Delivered
+858,2,Delhivery,154,4,Delivered
+859,3,Delhivery,176,2,Delivered
+860,5,Delhivery,65,4,Delivered
+861,1,Delhivery,92,7,Delivered
+862,5,Delhivery,125,6,Delivered
+863,3,Blue Dart,189,6,Delivered
+864,4,Delhivery,118,6,Delivered
+865,2,Delhivery,143,4,Delivered
+866,1,Blue Dart,282,3,Delivered
+867,2,Delhivery,176,3,Delivered
+868,3,Blue Dart,117,7,Delivered
+869,4,Blue Dart,110,7,Delivered
+870,4,DTDC,225,1,Delivered
+871,1,Delhivery,83,3,Delivered
+872,2,DTDC,71,4,Delivered
+873,2,Delhivery,191,4,Delivered
+874,3,Ekart,216,1,Delivered
+875,5,Blue Dart,246,4,Delivered
+876,5,DTDC,216,7,Delivered
+877,2,Ekart,83,1,Delivered
+878,4,Blue Dart,185,2,Delivered
+879,5,Ekart,214,7,Delivered
+880,1,Delhivery,172,2,Delivered
+881,4,Delhivery,70,7,Delivered
+882,5,Ekart,103,1,Delivered
+883,4,Ekart,42,4,Delivered
+884,5,Blue Dart,219,3,Delivered
+885,2,DTDC,166,1,Delivered
+886,5,Blue Dart,224,4,Delivered
+887,4,DTDC,81,1,Delivered
+888,2,DTDC,149,4,Delivered
+889,5,DTDC,242,7,Delivered
+890,4,DTDC,265,6,Delivered
+891,4,Blue Dart,113,5,Delivered
+892,4,Blue Dart,100,6,Delivered
+893,4,Delhivery,120,5,Delivered
+894,5,DTDC,96,1,Delivered
+895,3,Delhivery,118,1,Delivered
+896,3,Ekart,190,4,Delivered
+897,2,DTDC,64,3,Delivered
+898,2,Blue Dart,290,1,Delivered
+899,3,Delhivery,62,4,Delivered
+900,3,DTDC,212,7,Delivered
+901,5,Blue Dart,110,5,Delivered
+902,4,DTDC,116,7,Delivered
+903,1,DTDC,238,2,Delivered
+904,3,Delhivery,266,6,Delivered
+905,2,Delhivery,198,5,Delivered
+906,5,Delhivery,138,5,Delivered
+907,1,Blue Dart,283,5,Delivered
+908,1,Blue Dart,49,3,Delivered
+909,2,DTDC,83,7,Delivered
+910,3,DTDC,63,4,Delivered
+911,3,DTDC,132,4,Delivered
+912,3,DTDC,171,1,Delivered
+913,5,Blue Dart,186,2,Delivered
+914,1,Blue Dart,197,4,Delivered
+915,1,Ekart,132,1,Delivered
+916,3,DTDC,90,3,Delivered
+917,3,Ekart,232,7,Delivered
+918,1,Blue Dart,162,7,Delivered
+919,2,DTDC,300,7,Delivered
+920,1,Ekart,71,3,Delivered
+921,4,Delhivery,287,1,Delivered
+922,1,Ekart,91,2,Delivered
+923,2,Ekart,248,4,Delivered
+924,2,Blue Dart,231,5,Delivered
+925,5,DTDC,271,1,Delivered
+926,5,Ekart,125,1,Delivered
+927,3,Ekart,234,3,Delivered
+928,5,Ekart,63,2,Delivered
+929,5,Delhivery,193,1,Delivered
+930,2,Ekart,261,2,Delivered
+931,3,Ekart,173,7,Delivered
+932,3,Blue Dart,204,3,Delivered
+933,5,Ekart,48,6,Delivered
+934,5,DTDC,42,1,Delivered
+935,4,DTDC,241,5,Delivered
+936,5,Delhivery,267,6,Delivered
+937,4,Ekart,238,2,Delivered
+938,1,DTDC,229,2,Delivered
+939,2,Delhivery,183,6,Delivered
+940,2,Delhivery,195,7,Delivered
+941,2,DTDC,225,1,Delivered
+942,5,Blue Dart,43,2,Delivered
+943,1,Ekart,296,4,Delivered
+944,2,Blue Dart,73,5,Delivered
+945,2,Ekart,156,5,Delivered
+946,2,Delhivery,169,6,Delivered
+947,1,DTDC,66,7,Delivered
+948,4,DTDC,180,1,Delivered
+949,4,DTDC,225,5,Delivered
+950,2,Delhivery,182,4,Delivered
+951,3,Delhivery,240,2,Delivered
+952,5,Delhivery,155,6,Delivered
+953,2,Blue Dart,124,3,Delivered
+954,1,Delhivery,285,4,Delivered
+955,5,Ekart,168,2,Delivered
+956,2,Ekart,67,7,Delivered
+957,2,Delhivery,264,7,Delivered
+958,5,Delhivery,83,1,Delivered
+959,4,Ekart,73,7,Delivered
+960,4,Delhivery,194,5,Delivered
+961,1,Delhivery,68,5,Delivered
+962,4,DTDC,89,5,Delivered
+963,2,Delhivery,272,4,Delivered
+964,5,Delhivery,213,6,Delivered
+965,4,Ekart,138,1,Delivered
+966,5,Delhivery,139,5,Delivered
+967,3,Ekart,255,4,Delivered
+968,4,Blue Dart,164,2,Delivered
+969,1,Blue Dart,199,5,Delivered
+970,3,Ekart,114,2,Delivered
+971,5,Ekart,189,3,Delivered
+972,5,Blue Dart,69,2,Delivered
+973,1,DTDC,216,2,Delivered
+974,2,Delhivery,214,2,Delivered
+975,4,Ekart,211,5,Delivered
+976,3,Blue Dart,93,4,Delivered
+977,4,Blue Dart,41,6,Delivered
+978,4,Blue Dart,162,4,Delivered
+979,4,Blue Dart,244,2,Delivered
+980,3,Delhivery,77,3,Delivered
+981,1,Blue Dart,188,4,Delivered
+982,3,Delhivery,55,2,Delivered
+983,2,Blue Dart,174,6,Delivered
+984,5,Blue Dart,131,2,Delivered
+985,3,Delhivery,50,7,Delivered
+986,4,Delhivery,213,2,Delivered
+987,2,Ekart,230,6,Delivered
+988,5,DTDC,73,1,Delivered
+989,2,Blue Dart,233,6,Delivered
+990,5,DTDC,165,1,Delivered
+991,5,Blue Dart,190,7,Delivered
+992,2,Delhivery,183,7,Delivered
+993,5,DTDC,147,6,Delivered
+994,5,Delhivery,125,5,Delivered
+995,3,DTDC,277,2,Delivered
+996,5,DTDC,293,4,Delivered
+997,4,Delhivery,146,2,Delivered
+998,4,Blue Dart,242,2,Delivered
+999,4,Blue Dart,231,3,Delivered
+1000,2,Delhivery,191,4,Delivered
+1001,2,Delhivery,278,5,Delivered
+1002,4,DTDC,279,4,Delivered
+1003,4,Ekart,179,4,Delivered
+1004,4,Blue Dart,175,6,Delivered
+1005,1,Ekart,296,5,Delivered
+1006,3,Blue Dart,90,1,Delivered
+1007,1,Blue Dart,210,2,Delivered
+1008,3,Ekart,180,2,Delivered
+1009,2,Ekart,44,7,Delivered
+1010,3,DTDC,247,7,Delivered
+1011,4,Blue Dart,243,2,Delivered
+1012,4,Blue Dart,279,6,Delivered
+1013,3,Delhivery,200,7,Delivered
+1014,4,Blue Dart,264,4,Delivered
+1015,1,Ekart,111,5,Delivered
+1016,3,Delhivery,295,7,Delivered
+1017,3,Blue Dart,254,4,Delivered
+1018,5,Ekart,206,5,Delivered
+1019,1,Blue Dart,118,3,Delivered
+1020,5,DTDC,235,2,Delivered
+1021,1,DTDC,136,4,Delivered
+1022,5,DTDC,195,1,Delivered
+1023,5,Blue Dart,56,7,Delivered
+1024,4,Delhivery,135,2,Delivered
+1025,3,Blue Dart,159,3,Delivered
+1026,1,DTDC,69,3,Delivered
+1027,2,Ekart,250,4,Delivered
+1028,2,DTDC,284,6,Delivered
+1029,2,Blue Dart,145,3,Delivered
+1030,2,Ekart,143,5,Delivered
+1031,3,Blue Dart,43,2,Delivered
+1032,4,Blue Dart,208,5,Delivered
+1033,4,DTDC,60,6,Delivered
+1034,4,Ekart,192,4,Delivered
+1035,4,Blue Dart,131,5,Delivered
+1036,4,DTDC,133,6,Delivered
+1037,4,Delhivery,162,7,Delivered
+1038,5,Ekart,74,6,Delivered
+1039,4,DTDC,102,3,Delivered
+1040,5,Ekart,249,4,Delivered
+1041,2,Delhivery,276,1,Delivered
+1042,4,Ekart,244,7,Delivered
+1043,1,Delhivery,168,1,Delivered
+1044,3,DTDC,288,4,Delivered
+1045,5,Blue Dart,264,2,Delivered
+1046,2,Blue Dart,49,5,Delivered
+1047,3,Delhivery,240,2,Delivered
+1048,3,Blue Dart,265,3,Delivered
+1049,1,Blue Dart,266,6,Delivered
+1050,1,DTDC,197,4,Delivered
+1051,1,Delhivery,233,7,Delivered
+1052,3,Blue Dart,142,1,Delivered
+1053,1,Delhivery,212,7,Delivered
+1054,2,Delhivery,125,6,Delivered
+1055,4,Delhivery,207,3,Delivered
+1056,5,Blue Dart,242,4,Delivered
+1057,2,Delhivery,222,3,Delivered
+1058,4,Ekart,46,4,Delivered
+1059,2,Delhivery,182,6,Delivered
+1060,1,Delhivery,151,4,Delivered
+1061,4,Delhivery,127,3,Delivered
+1062,5,Ekart,238,6,Delivered
+1063,3,Blue Dart,202,7,Delivered
+1064,1,Ekart,49,5,Delivered
+1065,4,DTDC,159,5,Delivered
+1066,2,Delhivery,103,3,Delivered
+1067,2,Delhivery,70,2,Delivered
+1068,3,Blue Dart,117,4,Delivered
+1069,2,DTDC,208,2,Delivered
+1070,1,DTDC,187,7,Delivered
+1071,3,Ekart,164,2,Delivered
+1072,2,Blue Dart,235,5,Delivered
+1073,4,Delhivery,73,7,Delivered
+1074,2,Delhivery,112,2,Delivered
+1075,2,Blue Dart,160,5,Delivered
+1076,4,Ekart,124,6,Delivered
+1077,4,Blue Dart,167,3,Delivered
+1078,4,Blue Dart,179,7,Delivered
+1079,1,Ekart,243,4,Delivered
+1080,4,DTDC,298,5,Delivered
+1081,2,DTDC,50,7,Delivered
+1082,1,Ekart,118,5,Delivered
+1083,3,DTDC,277,3,Delivered
+1084,4,DTDC,76,3,Delivered
+1085,2,Blue Dart,137,1,Delivered
+1086,3,DTDC,247,4,Delivered
+1087,3,DTDC,290,3,Delivered
+1088,1,DTDC,59,1,Delivered
+1089,2,Blue Dart,263,3,Delivered
+1090,5,DTDC,228,6,Delivered
+1091,4,Blue Dart,164,4,Delivered
+1092,1,Blue Dart,173,5,Delivered
+1093,3,Blue Dart,122,1,Delivered
+1094,4,DTDC,81,5,Delivered
+1095,4,Blue Dart,258,3,Delivered
+1096,5,DTDC,197,6,Delivered
+1097,1,Ekart,113,3,Delivered
+1098,4,Ekart,43,2,Delivered
+1099,1,Delhivery,75,7,Delivered
+1100,5,DTDC,187,6,Delivered
+1101,2,Ekart,135,6,Delivered
+1102,4,Blue Dart,297,1,Delivered
+1103,2,Blue Dart,142,1,Delivered
+1104,2,Ekart,249,4,Delivered
+1105,1,Blue Dart,80,3,Delivered
+1106,1,Ekart,72,3,Delivered
+1107,2,DTDC,288,6,Delivered
+1108,1,Delhivery,176,7,Delivered
+1109,5,Delhivery,89,2,Delivered
+1110,4,Ekart,288,4,Delivered
+1111,5,DTDC,212,3,Delivered
+1112,3,Blue Dart,224,6,Delivered
+1113,5,Delhivery,222,7,Delivered
+1114,1,DTDC,245,6,Delivered
+1115,1,Delhivery,183,6,Delivered
+1116,3,DTDC,283,5,Delivered
+1117,1,Ekart,48,6,Delivered
+1118,3,DTDC,159,5,Delivered
+1119,5,Delhivery,218,4,Delivered
+1120,1,DTDC,190,5,Delivered
+1121,5,Delhivery,105,4,Delivered
+1122,3,DTDC,126,4,Delivered
+1123,4,Blue Dart,164,2,Delivered
+1124,1,DTDC,54,2,Delivered
+1125,4,Ekart,152,6,Delivered
+1126,1,Blue Dart,291,1,Delivered
+1127,2,Delhivery,215,4,Delivered
+1128,5,DTDC,159,2,Delivered
+1129,3,Delhivery,97,1,Delivered
+1130,2,Delhivery,228,2,Delivered
+1131,4,Delhivery,199,1,Delivered
+1132,2,DTDC,256,3,Delivered
+1133,2,Blue Dart,94,4,Delivered
+1134,4,Ekart,114,7,Delivered
+1135,2,DTDC,273,2,Delivered
+1136,2,Delhivery,203,3,Delivered
+1137,3,DTDC,150,4,Delivered
+1138,1,Ekart,118,7,Delivered
+1139,2,Delhivery,131,7,Delivered
+1140,3,Blue Dart,51,5,Delivered
+1141,4,DTDC,218,7,Delivered
+1142,1,Ekart,184,6,Delivered
+1143,5,DTDC,89,2,Delivered
+1144,1,Ekart,274,6,Delivered
+1145,2,DTDC,287,3,Delivered
+1146,2,Blue Dart,140,6,Delivered
+1147,3,Delhivery,115,4,Delivered
+1148,2,Delhivery,89,3,Delivered
+1149,2,Delhivery,100,5,Delivered
+1150,5,DTDC,116,6,Delivered
+1151,2,Delhivery,100,2,Delivered
+1152,3,Blue Dart,232,7,Delivered
+1153,4,DTDC,180,6,Delivered
+1154,3,Delhivery,101,1,Delivered
+1155,4,Blue Dart,51,5,Delivered
+1156,4,Ekart,88,7,Delivered
+1157,4,DTDC,262,3,Delivered
+1158,1,Ekart,72,6,Delivered
+1159,2,DTDC,50,4,Delivered
+1160,5,DTDC,72,5,Delivered
+1161,5,Delhivery,146,6,Delivered
+1162,2,Blue Dart,42,5,Delivered
+1163,1,Delhivery,105,5,Delivered
+1164,1,Ekart,57,1,Delivered
+1165,3,Ekart,127,4,Delivered
+1166,2,Ekart,63,5,Delivered
+1167,5,DTDC,111,5,Delivered
+1168,5,Ekart,147,6,Delivered
+1169,2,Delhivery,136,2,Delivered
+1170,2,Blue Dart,223,3,Delivered
+1171,4,Delhivery,170,3,Delivered
+1172,4,DTDC,82,3,Delivered
+1173,2,Blue Dart,76,6,Delivered
+1174,2,Ekart,123,4,Delivered
+1175,3,DTDC,234,1,Delivered
+1176,2,Delhivery,178,1,Delivered
+1177,5,DTDC,73,3,Delivered
+1178,3,Ekart,179,2,Delivered
+1179,3,Delhivery,90,4,Delivered
+1180,4,Delhivery,103,2,Delivered
+1181,5,DTDC,88,5,Delivered
+1182,3,Ekart,90,1,Delivered
+1183,4,Blue Dart,216,7,Delivered
+1184,5,DTDC,284,5,Delivered
+1185,1,Blue Dart,104,2,Delivered
+1186,3,Delhivery,229,6,Delivered
+1187,5,DTDC,274,2,Delivered
+1188,4,Ekart,181,4,Delivered
+1189,3,Delhivery,196,4,Delivered
+1190,1,Delhivery,79,6,Delivered
+1191,2,Delhivery,83,6,Delivered
+1192,4,Delhivery,257,6,Delivered
+1193,4,DTDC,103,4,Delivered
+1194,2,Delhivery,257,6,Delivered
+1195,2,Delhivery,269,2,Delivered
+1196,2,Blue Dart,78,3,Delivered
+1197,5,Ekart,66,4,Delivered
+1198,2,Ekart,97,3,Delivered
+1199,5,Delhivery,188,3,Delivered
+1200,3,Blue Dart,41,6,Delivered
+1201,4,Blue Dart,196,6,Delivered
+1202,4,DTDC,69,3,Delivered
+1203,4,Ekart,192,3,Delivered
+1204,3,Blue Dart,245,3,Delivered
+1205,4,DTDC,141,1,Delivered
+1206,2,DTDC,103,4,Delivered
+1207,3,Blue Dart,280,4,Delivered
+1208,3,DTDC,133,5,Delivered
+1209,1,DTDC,264,2,Delivered
+1210,4,Delhivery,223,7,Delivered
+1211,1,Blue Dart,185,1,Delivered
+1212,4,Ekart,56,2,Delivered
+1213,4,Ekart,100,4,Delivered
+1214,4,Blue Dart,206,7,Delivered
+1215,5,DTDC,107,1,Delivered
+1216,1,Blue Dart,119,3,Delivered
+1217,2,Delhivery,215,4,Delivered
+1218,1,DTDC,285,3,Delivered
+1219,1,DTDC,166,5,Delivered
+1220,2,Blue Dart,183,7,Delivered
+1221,2,DTDC,141,4,Delivered
+1222,5,Blue Dart,136,7,Delivered
+1223,2,Delhivery,107,4,Delivered
+1224,2,Blue Dart,258,1,Delivered
+1225,1,Delhivery,234,4,Delivered
+1226,2,Blue Dart,212,4,Delivered
+1227,5,DTDC,66,3,Delivered
+1228,3,Ekart,219,6,Delivered
+1229,3,Delhivery,133,1,Delivered
+1230,3,Blue Dart,186,4,Delivered
+1231,1,DTDC,134,3,Delivered
+1232,3,Ekart,195,1,Delivered
+1233,5,Blue Dart,209,3,Delivered
+1234,5,Ekart,161,6,Delivered
+1235,5,DTDC,84,1,Delivered
+1236,1,Delhivery,137,2,Delivered
+1237,1,Delhivery,215,3,Delivered
+1238,2,Blue Dart,62,2,Delivered
+1239,5,Ekart,217,3,Delivered
+1240,4,Delhivery,287,4,Delivered
+1241,1,Blue Dart,180,6,Delivered
+1242,3,Delhivery,71,7,Delivered
+1243,4,DTDC,78,2,Delivered
+1244,4,DTDC,245,5,Delivered
+1245,2,Delhivery,121,5,Delivered
+1246,1,DTDC,297,6,Delivered
+1247,3,Ekart,152,3,Delivered
+1248,5,Delhivery,127,2,Delivered
+1249,2,Ekart,60,6,Delivered
+1250,2,Ekart,66,6,Delivered
+1251,5,Delhivery,40,6,Delivered
+1252,3,Ekart,82,6,Delivered
+1253,3,Blue Dart,249,5,Delivered
+1254,1,Delhivery,222,2,Delivered
+1255,2,Ekart,48,5,Delivered
+1256,1,DTDC,171,7,Delivered
+1257,5,Blue Dart,266,2,Delivered
+1258,2,DTDC,119,4,Delivered
+1259,3,Blue Dart,285,1,Delivered
+1260,4,Blue Dart,130,2,Delivered
+1261,2,Ekart,50,3,Delivered
+1262,4,Blue Dart,75,2,Delivered
+1263,2,DTDC,246,1,Delivered
+1264,2,Delhivery,91,4,Delivered
+1265,1,Delhivery,62,2,Delivered
+1266,3,Blue Dart,46,7,Delivered
+1267,1,Ekart,83,2,Delivered
+1268,5,DTDC,123,3,Delivered
+1269,2,Blue Dart,68,5,Delivered
+1270,5,Delhivery,50,7,Delivered
+1271,5,Ekart,92,5,Delivered
+1272,2,Delhivery,154,1,Delivered
+1273,4,Blue Dart,220,6,Delivered
+1274,4,Delhivery,291,2,Delivered
+1275,1,Ekart,222,1,Delivered
+1276,1,Ekart,83,1,Delivered
+1277,2,DTDC,211,5,Delivered
+1278,2,Ekart,186,3,Delivered
+1279,3,DTDC,228,3,Delivered
+1280,1,Blue Dart,115,3,Delivered
+1281,4,DTDC,74,1,Delivered
+1282,3,Blue Dart,86,3,Delivered
+1283,4,Ekart,203,4,Delivered
+1284,4,Ekart,110,7,Delivered
+1285,4,DTDC,294,5,Delivered
+1286,5,Blue Dart,236,1,Delivered
+1287,5,Blue Dart,84,2,Delivered
+1288,2,Delhivery,225,5,Delivered
+1289,1,Delhivery,218,3,Delivered
+1290,3,DTDC,113,7,Delivered
+1291,4,Blue Dart,147,7,Delivered
+1292,2,Delhivery,113,4,Delivered
+1293,4,Ekart,67,6,Delivered
+1294,1,DTDC,120,1,Delivered
+1295,2,Delhivery,165,1,Delivered
+1296,4,Blue Dart,133,4,Delivered
+1297,5,Ekart,280,4,Delivered
+1298,4,Delhivery,186,1,Delivered
+1299,1,Blue Dart,297,2,Delivered
+1300,4,DTDC,172,5,Delivered
+1301,2,DTDC,120,3,Delivered
+1302,5,DTDC,104,6,Delivered
+1303,5,Delhivery,152,4,Delivered
+1304,5,Delhivery,279,4,Delivered
+1305,4,Blue Dart,67,7,Delivered
+1306,2,Ekart,95,1,Delivered
+1307,5,Ekart,54,2,Delivered
+1308,5,Delhivery,73,2,Delivered
+1309,3,Blue Dart,143,6,Delivered
+1310,2,Ekart,83,5,Delivered
+1311,5,DTDC,63,1,Delivered
+1312,3,Delhivery,222,7,Delivered
+1313,5,Blue Dart,201,7,Delivered
+1314,2,Delhivery,209,4,Delivered
+1315,1,Blue Dart,52,5,Delivered
+1316,4,Delhivery,188,2,Delivered
+1317,1,Delhivery,158,2,Delivered
+1318,2,Ekart,269,7,Delivered
+1319,3,Ekart,260,1,Delivered
+1320,2,Blue Dart,78,2,Delivered
+1321,1,Delhivery,113,7,Delivered
+1322,5,Delhivery,295,1,Delivered
+1323,2,Ekart,122,1,Delivered
+1324,3,Ekart,85,1,Delivered
+1325,3,DTDC,171,7,Delivered
+1326,2,Delhivery,289,1,Delivered
+1327,4,DTDC,106,4,Delivered
+1328,5,Ekart,231,1,Delivered
+1329,5,DTDC,174,6,Delivered
+1330,1,Blue Dart,44,2,Delivered
+1331,3,DTDC,121,5,Delivered
+1332,2,DTDC,276,6,Delivered
+1333,4,DTDC,278,1,Delivered
+1334,1,DTDC,261,2,Delivered
+1335,1,Ekart,215,5,Delivered
+1336,4,Delhivery,182,4,Delivered
+1337,2,DTDC,114,6,Delivered
+1338,5,Delhivery,234,1,Delivered
+1339,4,DTDC,149,1,Delivered
+1340,4,Ekart,169,6,Delivered
+1341,2,Delhivery,180,4,Delivered
+1342,4,DTDC,149,6,Delivered
+1343,2,Delhivery,87,4,Delivered
+1344,2,Blue Dart,218,4,Delivered
+1345,5,Blue Dart,263,3,Delivered
+1346,4,Delhivery,141,1,Delivered
+1347,5,Blue Dart,205,6,Delivered
+1348,1,Blue Dart,274,2,Delivered
+1349,1,DTDC,174,5,Delivered
+1350,4,Blue Dart,270,6,Delivered
+1351,1,Delhivery,151,6,Delivered
+1352,5,Blue Dart,233,2,Delivered
+1353,2,Delhivery,229,7,Delivered
+1354,3,Ekart,297,7,Delivered
+1355,4,DTDC,251,4,Delivered
+1356,5,DTDC,211,1,Delivered
+1357,4,DTDC,231,2,Delivered
+1358,2,DTDC,235,3,Delivered
+1359,3,Delhivery,84,7,Delivered
+1360,1,Delhivery,250,1,Delivered
+1361,5,Delhivery,267,5,Delivered
+1362,3,DTDC,148,2,Delivered
+1363,5,DTDC,98,2,Delivered
+1364,1,Ekart,277,4,Delivered
+1365,1,Ekart,154,5,Delivered
+1366,3,Ekart,252,6,Delivered
+1367,4,Delhivery,47,1,Delivered
+1368,5,Ekart,211,2,Delivered
+1369,4,Blue Dart,240,2,Delivered
+1370,1,DTDC,105,6,Delivered
+1371,4,Ekart,121,4,Delivered
+1372,2,Delhivery,240,7,Delivered
+1373,5,Blue Dart,205,2,Delivered
+1374,1,DTDC,45,6,Delivered
+1375,2,Delhivery,80,5,Delivered
+1376,2,DTDC,223,2,Delivered
+1377,3,Blue Dart,165,6,Delivered
+1378,3,Delhivery,180,1,Delivered
+1379,1,Delhivery,96,4,Delivered
+1380,1,Delhivery,112,3,Delivered
+1381,1,Delhivery,293,7,Delivered
+1382,4,Delhivery,291,7,Delivered
+1383,1,DTDC,79,2,Delivered
+1384,4,Ekart,270,7,Delivered
+1385,3,Delhivery,131,6,Delivered
+1386,1,Delhivery,215,3,Delivered
+1387,5,Delhivery,121,5,Delivered
+1388,1,Blue Dart,55,5,Delivered
+1389,5,Blue Dart,150,7,Delivered
+1390,2,Delhivery,207,2,Delivered
+1391,2,Ekart,180,4,Delivered
+1392,3,Ekart,279,6,Delivered
+1393,4,DTDC,138,3,Delivered
+1394,3,DTDC,92,5,Delivered
+1395,3,Blue Dart,145,6,Delivered
+1396,4,DTDC,179,7,Delivered
+1397,1,DTDC,259,2,Delivered
+1398,3,Delhivery,270,2,Delivered
+1399,5,Ekart,249,3,Delivered
+1400,3,DTDC,55,1,Delivered
+1401,4,Blue Dart,223,2,Delivered
+1402,3,Ekart,114,7,Delivered
+1403,1,Ekart,45,6,Delivered
+1404,4,Ekart,159,5,Delivered
+1405,3,Blue Dart,151,1,Delivered
+1406,5,Delhivery,255,6,Delivered
+1407,3,Ekart,141,2,Delivered
+1408,4,Delhivery,180,4,Delivered
+1409,4,Blue Dart,207,5,Delivered
+1410,5,Delhivery,185,1,Delivered
+1411,1,DTDC,185,2,Delivered
+1412,1,Delhivery,212,6,Delivered
+1413,4,Delhivery,252,6,Delivered
+1414,3,Ekart,244,1,Delivered
+1415,4,Delhivery,241,3,Delivered
+1416,4,Delhivery,231,5,Delivered
+1417,2,Delhivery,45,2,Delivered
+1418,4,Blue Dart,127,1,Delivered
+1419,5,Delhivery,66,3,Delivered
+1420,1,Delhivery,195,1,Delivered
+1421,5,DTDC,178,6,Delivered
+1422,5,DTDC,101,2,Delivered
+1423,5,DTDC,268,6,Delivered
+1424,5,Blue Dart,284,6,Delivered
+1425,3,DTDC,155,1,Delivered
+1426,1,Ekart,164,6,Delivered
+1427,1,Delhivery,293,1,Delivered
+1428,2,DTDC,237,2,Delivered
+1429,3,Blue Dart,200,7,Delivered
+1430,4,Blue Dart,298,1,Delivered
+1431,2,Ekart,237,4,Delivered
+1432,5,Blue Dart,244,2,Delivered
+1433,4,Blue Dart,197,7,Delivered
+1434,2,DTDC,94,6,Delivered
+1435,1,DTDC,135,3,Delivered
+1436,5,DTDC,220,3,Delivered
+1437,1,Ekart,260,2,Delivered
+1438,5,DTDC,300,3,Delivered
+1439,3,Ekart,90,1,Delivered
+1440,4,Blue Dart,190,2,Delivered
+1441,5,Ekart,292,5,Delivered
+1442,1,Blue Dart,96,2,Delivered
+1443,1,Ekart,162,1,Delivered
+1444,3,Blue Dart,247,4,Delivered
+1445,2,Ekart,293,2,Delivered
+1446,3,Ekart,187,6,Delivered
+1447,2,DTDC,196,7,Delivered
+1448,2,Ekart,75,2,Delivered
+1449,4,Blue Dart,46,6,Delivered
+1450,3,Delhivery,130,3,Delivered
+1451,2,Delhivery,220,4,Delivered
+1452,4,Blue Dart,281,1,Delivered
+1453,5,Ekart,156,5,Delivered
+1454,2,Delhivery,91,3,Delivered
+1455,4,DTDC,219,5,Delivered
+1456,3,Ekart,274,1,Delivered
+1457,3,Ekart,287,1,Delivered
+1458,1,Blue Dart,250,7,Delivered
+1459,3,DTDC,55,2,Delivered
+1460,3,Blue Dart,85,2,Delivered
+1461,1,Ekart,270,5,Delivered
+1462,3,Ekart,240,5,Delivered
+1463,3,Blue Dart,61,5,Delivered
+1464,5,Delhivery,261,7,Delivered
+1465,3,Ekart,96,1,Delivered
+1466,4,Blue Dart,188,5,Delivered
+1467,3,DTDC,187,1,Delivered
+1468,1,DTDC,60,2,Delivered
+1469,1,Delhivery,290,3,Delivered
+1470,3,Delhivery,65,3,Delivered
+1471,3,Blue Dart,84,6,Delivered
+1472,2,DTDC,81,3,Delivered
+1473,4,Ekart,167,7,Delivered
+1474,4,DTDC,90,3,Delivered
+1475,5,Ekart,128,5,Delivered
+1476,5,Blue Dart,142,3,Delivered
+1477,5,Blue Dart,194,3,Delivered
+1478,5,DTDC,133,4,Delivered
+1479,1,Blue Dart,266,6,Delivered
+1480,3,DTDC,221,4,Delivered
+1481,4,DTDC,54,5,Delivered
+1482,1,Blue Dart,194,7,Delivered
+1483,5,Ekart,105,5,Delivered
+1484,3,Delhivery,241,2,Delivered
+1485,4,DTDC,67,1,Delivered
+1486,1,Ekart,89,7,Delivered
+1487,4,Ekart,71,1,Delivered
+1488,5,Delhivery,144,5,Delivered
+1489,4,Blue Dart,154,6,Delivered
+1490,3,Ekart,43,7,Delivered
+1491,2,Delhivery,74,1,Delivered
+1492,1,Delhivery,166,2,Delivered
+1493,1,DTDC,240,1,Delivered
+1494,3,DTDC,287,2,Delivered
+1495,5,Ekart,264,7,Delivered
+1496,1,DTDC,114,6,Delivered
+1497,2,Blue Dart,127,5,Delivered
+1498,2,DTDC,285,3,Delivered
+1499,5,DTDC,228,6,Delivered
+1500,4,Delhivery,277,4,Delivered
+1501,2,Delhivery,185,4,Delivered
+1502,4,Delhivery,195,1,Delivered
+1503,4,Delhivery,221,2,Delivered
+1504,3,Delhivery,121,3,Delivered
+1505,2,Ekart,239,5,Delivered
+1506,2,Ekart,213,4,Delivered
+1507,3,Ekart,241,1,Delivered
+1508,4,DTDC,132,5,Delivered
+1509,5,Ekart,106,6,Delivered
+1510,5,Ekart,246,1,Delivered
+1511,2,Blue Dart,89,6,Delivered
+1512,4,Ekart,158,7,Delivered
+1513,1,Blue Dart,236,7,Delivered
+1514,1,Delhivery,168,1,Delivered
+1515,4,Ekart,55,2,Delivered
+1516,4,DTDC,108,6,Delivered
+1517,2,Blue Dart,169,4,Delivered
+1518,2,Blue Dart,122,4,Delivered
+1519,2,Delhivery,52,6,Delivered
+1520,2,Delhivery,111,1,Delivered
+1521,5,Delhivery,214,2,Delivered
+1522,4,Blue Dart,146,5,Delivered
+1523,5,Ekart,222,5,Delivered
+1524,2,Delhivery,264,4,Delivered
+1525,1,Delhivery,105,7,Delivered
+1526,1,Delhivery,295,2,Delivered
+1527,5,Ekart,51,2,Delivered
+1528,3,DTDC,223,1,Delivered
+1529,3,Delhivery,163,7,Delivered
+1530,5,Ekart,244,5,Delivered
+1531,1,DTDC,174,6,Delivered
+1532,3,DTDC,173,2,Delivered
+1533,2,Blue Dart,208,7,Delivered
+1534,2,DTDC,77,7,Delivered
+1535,5,Delhivery,217,1,Delivered
+1536,5,Delhivery,285,2,Delivered
+1537,1,Delhivery,294,5,Delivered
+1538,4,DTDC,195,7,Delivered
+1539,1,Delhivery,53,7,Delivered
+1540,5,DTDC,49,5,Delivered
+1541,4,DTDC,104,4,Delivered
+1542,5,Blue Dart,99,4,Delivered
+1543,3,Ekart,139,3,Delivered
+1544,2,Blue Dart,87,5,Delivered
+1545,4,Delhivery,47,7,Delivered
+1546,1,Delhivery,69,2,Delivered
+1547,3,Delhivery,200,3,Delivered
+1548,3,Blue Dart,243,4,Delivered
+1549,1,Delhivery,168,5,Delivered
+1550,3,Blue Dart,267,6,Delivered
+1551,5,Ekart,165,5,Delivered
+1552,3,Delhivery,67,3,Delivered
+1553,5,DTDC,183,1,Delivered
+1554,5,Blue Dart,196,6,Delivered
+1555,1,Ekart,112,1,Delivered
+1556,4,Delhivery,50,4,Delivered
+1557,3,Ekart,236,3,Delivered
+1558,1,Ekart,236,4,Delivered
+1559,4,DTDC,62,2,Delivered
+1560,2,DTDC,66,6,Delivered
+1561,5,Ekart,53,5,Delivered
+1562,3,Blue Dart,54,3,Delivered
+1563,4,DTDC,69,7,Delivered
+1564,4,Ekart,277,4,Delivered
+1565,5,Ekart,123,4,Delivered
+1566,2,Delhivery,183,7,Delivered
+1567,1,Blue Dart,191,3,Delivered
+1568,1,Ekart,225,3,Delivered
+1569,5,Delhivery,103,3,Delivered
+1570,3,Blue Dart,267,4,Delivered
+1571,1,DTDC,58,3,Delivered
+1572,2,DTDC,69,5,Delivered
+1573,3,Ekart,72,4,Delivered
+1574,3,Ekart,293,2,Delivered
+1575,2,Delhivery,159,1,Delivered
+1576,2,DTDC,202,1,Delivered
+1577,1,Ekart,171,1,Delivered
+1578,5,Delhivery,160,3,Delivered
+1579,5,DTDC,97,5,Delivered
+1580,2,Ekart,230,7,Delivered
+1581,1,DTDC,184,2,Delivered
+1582,5,Ekart,211,4,Delivered
+1583,4,Ekart,55,2,Delivered
+1584,3,Blue Dart,53,1,Delivered
+1585,3,Ekart,150,4,Delivered
+1586,1,Blue Dart,235,7,Delivered
+1587,1,Blue Dart,297,5,Delivered
+1588,4,Delhivery,66,5,Delivered
+1589,5,DTDC,202,3,Delivered
+1590,3,Blue Dart,208,2,Delivered
+1591,2,DTDC,201,6,Delivered
+1592,2,DTDC,249,3,Delivered
+1593,5,Delhivery,225,6,Delivered
+1594,2,DTDC,254,2,Delivered
+1595,5,Blue Dart,248,6,Delivered
+1596,5,Ekart,186,3,Delivered
+1597,1,DTDC,255,5,Delivered
+1598,4,Blue Dart,132,4,Delivered
+1599,1,DTDC,174,7,Delivered
+1600,1,Blue Dart,57,7,Delivered
+1601,2,Delhivery,107,5,Delivered
+1602,4,DTDC,221,2,Delivered
+1603,2,Ekart,100,3,Delivered
+1604,5,Delhivery,63,1,Delivered
+1605,4,DTDC,270,6,Delivered
+1606,3,DTDC,108,6,Delivered
+1607,5,Delhivery,117,1,Delivered
+1608,3,DTDC,234,3,Delivered
+1609,5,Ekart,89,2,Delivered
+1610,3,Delhivery,300,7,Delivered
+1611,3,Ekart,236,3,Delivered
+1612,2,Delhivery,147,4,Delivered
+1613,5,Ekart,90,3,Delivered
+1614,1,Ekart,180,4,Delivered
+1615,2,Ekart,172,5,Delivered
+1616,2,Ekart,112,1,Delivered
+1617,5,Blue Dart,54,5,Delivered
+1618,5,Blue Dart,43,4,Delivered
+1619,3,Blue Dart,184,5,Delivered
+1620,5,Blue Dart,272,3,Delivered
+1621,1,DTDC,261,4,Delivered
+1622,2,Ekart,99,3,Delivered
+1623,2,Delhivery,207,2,Delivered
+1624,3,DTDC,77,6,Delivered
+1625,1,DTDC,91,6,Delivered
+1626,3,Blue Dart,58,6,Delivered
+1627,2,Blue Dart,232,7,Delivered
+1628,2,Ekart,280,2,Delivered
+1629,4,Ekart,107,2,Delivered
+1630,5,Blue Dart,41,4,Delivered
+1631,5,Blue Dart,131,1,Delivered
+1632,5,DTDC,160,6,Delivered
+1633,5,Blue Dart,193,7,Delivered
+1634,4,DTDC,240,5,Delivered
+1635,4,Ekart,89,2,Delivered
+1636,4,DTDC,206,2,Delivered
+1637,1,Blue Dart,277,3,Delivered
+1638,3,DTDC,105,7,Delivered
+1639,4,DTDC,160,1,Delivered
+1640,5,Blue Dart,249,1,Delivered
+1641,3,Ekart,250,4,Delivered
+1642,4,DTDC,173,1,Delivered
+1643,2,Ekart,63,3,Delivered
+1644,2,Blue Dart,145,7,Delivered
+1645,5,Ekart,106,5,Delivered
+1646,1,DTDC,86,7,Delivered
+1647,3,Delhivery,65,5,Delivered
+1648,5,Blue Dart,120,7,Delivered
+1649,2,Ekart,122,3,Delivered
+1650,2,Blue Dart,46,1,Delivered
+1651,5,Delhivery,296,4,Delivered
+1652,1,Blue Dart,184,3,Delivered
+1653,2,Delhivery,179,6,Delivered
+1654,4,Blue Dart,178,7,Delivered
+1655,1,DTDC,50,1,Delivered
+1656,5,Blue Dart,88,6,Delivered
+1657,2,Ekart,205,4,Delivered
+1658,3,Ekart,274,2,Delivered
+1659,5,DTDC,232,3,Delivered
+1660,2,DTDC,182,4,Delivered
+1661,5,Blue Dart,235,1,Delivered
+1662,3,Delhivery,271,2,Delivered
+1663,4,Blue Dart,268,3,Delivered
+1664,1,Ekart,210,2,Delivered
+1665,1,Blue Dart,146,7,Delivered
+1666,5,Blue Dart,82,2,Delivered
+1667,4,Blue Dart,70,7,Delivered
+1668,4,Ekart,212,7,Delivered
+1669,3,DTDC,42,3,Delivered
+1670,5,DTDC,295,3,Delivered
+1671,3,DTDC,287,5,Delivered
+1672,1,DTDC,79,4,Delivered
+1673,2,Delhivery,125,2,Delivered
+1674,1,DTDC,293,2,Delivered
+1675,4,Blue Dart,254,4,Delivered
+1676,1,DTDC,190,6,Delivered
+1677,5,Ekart,230,5,Delivered
+1678,2,Ekart,144,7,Delivered
+1679,5,Ekart,281,4,Delivered
+1680,2,Blue Dart,282,1,Delivered
+1681,2,Blue Dart,280,1,Delivered
+1682,2,Blue Dart,88,5,Delivered
+1683,1,Delhivery,279,5,Delivered
+1684,3,Blue Dart,216,6,Delivered
+1685,3,Ekart,258,5,Delivered
+1686,3,DTDC,170,5,Delivered
+1687,1,Blue Dart,92,6,Delivered
+1688,2,Ekart,92,2,Delivered
+1689,5,DTDC,209,5,Delivered
+1690,5,Ekart,282,2,Delivered
+1691,2,Blue Dart,86,7,Delivered
+1692,2,Blue Dart,283,7,Delivered
+1693,1,Delhivery,110,5,Delivered
+1694,4,DTDC,207,3,Delivered
+1695,2,DTDC,233,7,Delivered
+1696,3,Ekart,202,5,Delivered
+1697,2,Blue Dart,182,6,Delivered
+1698,5,DTDC,290,6,Delivered
+1699,1,DTDC,218,2,Delivered
+1700,4,Ekart,257,2,Delivered
+1701,2,DTDC,231,2,Delivered
+1702,2,DTDC,224,5,Delivered
+1703,5,Ekart,208,1,Delivered
+1704,3,Delhivery,179,1,Delivered
+1705,4,DTDC,62,6,Delivered
+1706,3,Delhivery,55,7,Delivered
+1707,5,DTDC,291,2,Delivered
+1708,1,Delhivery,229,1,Delivered
+1709,2,Blue Dart,82,4,Delivered
+1710,1,DTDC,71,3,Delivered
+1711,3,Blue Dart,48,3,Delivered
+1712,2,Ekart,47,6,Delivered
+1713,1,Delhivery,138,7,Delivered
+1714,2,Ekart,82,2,Delivered
+1715,3,Blue Dart,298,4,Delivered
+1716,3,Ekart,219,1,Delivered
+1717,5,Delhivery,277,1,Delivered
+1718,2,Delhivery,135,3,Delivered
+1719,2,Delhivery,151,6,Delivered
+1720,1,Blue Dart,197,7,Delivered
+1721,2,Ekart,67,4,Delivered
+1722,2,Ekart,111,5,Delivered
+1723,2,Blue Dart,179,2,Delivered
+1724,3,DTDC,175,1,Delivered
+1725,5,Ekart,218,7,Delivered
+1726,4,Blue Dart,58,7,Delivered
+1727,2,Blue Dart,262,3,Delivered
+1728,2,Ekart,297,5,Delivered
+1729,1,Blue Dart,172,2,Delivered
+1730,1,Delhivery,135,4,Delivered
+1731,5,Ekart,230,5,Delivered
+1732,1,Ekart,93,6,Delivered
+1733,2,DTDC,283,3,Delivered
+1734,2,Ekart,196,2,Delivered
+1735,2,Delhivery,264,7,Delivered
+1736,5,DTDC,244,4,Delivered
+1737,3,Ekart,212,4,Delivered
+1738,3,Delhivery,159,7,Delivered
+1739,1,DTDC,258,7,Delivered
+1740,4,Delhivery,123,5,Delivered
+1741,5,Blue Dart,111,2,Delivered
+1742,1,Delhivery,198,7,Delivered
+1743,3,DTDC,242,2,Delivered
+1744,2,Blue Dart,128,3,Delivered
+1745,2,Blue Dart,144,4,Delivered
+1746,2,Ekart,42,4,Delivered
+1747,1,DTDC,241,6,Delivered
+1748,4,DTDC,164,7,Delivered
+1749,4,Blue Dart,202,7,Delivered
+1750,4,Ekart,184,7,Delivered
+1751,5,DTDC,76,3,Delivered
+1752,1,Blue Dart,131,7,Delivered
+1753,3,Ekart,296,7,Delivered
+1754,5,DTDC,79,6,Delivered
+1755,4,Blue Dart,62,2,Delivered
+1756,1,Ekart,236,6,Delivered
+1757,2,Ekart,199,4,Delivered
+1758,1,Ekart,255,2,Delivered
+1759,5,Delhivery,278,7,Delivered
+1760,1,DTDC,46,2,Delivered
+1761,5,DTDC,272,1,Delivered
+1762,4,Delhivery,195,4,Delivered
+1763,5,DTDC,297,3,Delivered
+1764,3,Ekart,97,7,Delivered
+1765,5,DTDC,80,2,Delivered
+1766,5,Ekart,141,5,Delivered
+1767,4,DTDC,64,4,Delivered
+1768,1,DTDC,275,3,Delivered
+1769,3,Ekart,257,3,Delivered
+1770,1,Ekart,131,3,Delivered
+1771,1,DTDC,206,3,Delivered
+1772,5,Delhivery,222,6,Delivered
+1773,4,Blue Dart,129,1,Delivered
+1774,2,Blue Dart,292,4,Delivered
+1775,3,DTDC,164,7,Delivered
+1776,5,DTDC,60,1,Delivered
+1777,1,Blue Dart,91,4,Delivered
+1778,3,Ekart,256,4,Delivered
+1779,3,Delhivery,261,1,Delivered
+1780,5,Ekart,195,5,Delivered
+1781,2,Delhivery,231,5,Delivered
+1782,4,Ekart,135,3,Delivered
+1783,5,DTDC,132,6,Delivered
+1784,1,DTDC,146,1,Delivered
+1785,2,Ekart,176,4,Delivered
+1786,1,Blue Dart,155,1,Delivered
+1787,2,Delhivery,187,6,Delivered
+1788,4,DTDC,208,5,Delivered
+1789,5,Delhivery,215,3,Delivered
+1790,4,Blue Dart,276,7,Delivered
+1791,2,Blue Dart,239,3,Delivered
+1792,5,Delhivery,289,5,Delivered
+1793,2,Ekart,195,3,Delivered
+1794,4,DTDC,55,2,Delivered
+1795,2,Ekart,260,4,Delivered
+1796,3,DTDC,160,4,Delivered
+1797,2,DTDC,103,1,Delivered
+1798,2,Delhivery,188,2,Delivered
+1799,4,DTDC,220,7,Delivered
+1800,5,Ekart,203,7,Delivered
+1801,3,DTDC,155,7,Delivered
+1802,4,Ekart,270,2,Delivered
+1803,4,Ekart,41,5,Delivered
+1804,4,Blue Dart,90,4,Delivered
+1805,4,DTDC,136,6,Delivered
+1806,2,Blue Dart,297,1,Delivered
+1807,4,Delhivery,206,5,Delivered
+1808,5,DTDC,86,3,Delivered
+1809,4,Blue Dart,122,4,Delivered
+1810,2,DTDC,142,3,Delivered
+1811,1,Delhivery,145,5,Delivered
+1812,2,DTDC,163,7,Delivered
+1813,5,Delhivery,209,7,Delivered
+1814,2,DTDC,75,1,Delivered
+1815,4,DTDC,237,1,Delivered
+1816,3,Delhivery,52,4,Delivered
+1817,3,DTDC,60,3,Delivered
+1818,4,DTDC,103,1,Delivered
+1819,5,Delhivery,126,3,Delivered
+1820,2,Blue Dart,287,2,Delivered
+1821,3,Delhivery,274,6,Delivered
+1822,3,Ekart,191,6,Delivered
+1823,4,Ekart,180,5,Delivered
+1824,2,Ekart,53,2,Delivered
+1825,5,Ekart,189,3,Delivered
+1826,5,Ekart,283,6,Delivered
+1827,2,Blue Dart,115,5,Delivered
+1828,3,Blue Dart,54,7,Delivered
+1829,3,Blue Dart,46,3,Delivered
+1830,5,DTDC,284,5,Delivered
+1831,3,Blue Dart,296,3,Delivered
+1832,4,DTDC,126,7,Delivered
+1833,2,DTDC,234,1,Delivered
+1834,3,Blue Dart,198,2,Delivered
+1835,3,Delhivery,140,3,Delivered
+1836,5,Delhivery,156,6,Delivered
+1837,1,DTDC,90,3,Delivered
+1838,3,Delhivery,68,4,Delivered
+1839,2,Blue Dart,171,7,Delivered
+1840,2,Blue Dart,273,2,Delivered
+1841,3,Ekart,86,6,Delivered
+1842,2,Ekart,71,2,Delivered
+1843,5,DTDC,277,1,Delivered
+1844,3,Delhivery,140,4,Delivered
+1845,1,DTDC,141,1,Delivered
+1846,2,DTDC,193,5,Delivered
+1847,4,Delhivery,266,7,Delivered
+1848,5,DTDC,40,3,Delivered
+1849,5,Ekart,292,6,Delivered
+1850,5,DTDC,185,6,Delivered
+1851,5,Blue Dart,214,3,Delivered
+1852,5,Ekart,265,1,Delivered
+1853,4,Delhivery,203,5,Delivered
+1854,2,Blue Dart,73,7,Delivered
+1855,1,DTDC,215,6,Delivered
+1856,2,Blue Dart,95,7,Delivered
+1857,3,Ekart,203,7,Delivered
+1858,1,Ekart,147,5,Delivered
+1859,3,Blue Dart,138,7,Delivered
+1860,2,Blue Dart,206,5,Delivered
+1861,4,Ekart,157,3,Delivered
+1862,3,Blue Dart,196,3,Delivered
+1863,3,DTDC,197,4,Delivered
+1864,4,Delhivery,246,1,Delivered
+1865,3,Blue Dart,273,7,Delivered
+1866,2,Blue Dart,171,3,Delivered
+1867,1,Ekart,258,7,Delivered
+1868,5,Blue Dart,150,5,Delivered
+1869,3,Delhivery,78,2,Delivered
+1870,4,DTDC,63,7,Delivered
+1871,4,Blue Dart,183,5,Delivered
+1872,1,Delhivery,68,6,Delivered
+1873,5,Ekart,264,3,Delivered
+1874,2,Delhivery,206,7,Delivered
+1875,2,Blue Dart,193,5,Delivered
+1876,1,DTDC,165,3,Delivered
+1877,3,Ekart,51,2,Delivered
+1878,3,Ekart,268,6,Delivered
+1879,2,Ekart,279,2,Delivered
+1880,3,Blue Dart,172,3,Delivered
+1881,2,Delhivery,250,4,Delivered
+1882,1,Delhivery,231,1,Delivered
+1883,1,Ekart,291,3,Delivered
+1884,1,Delhivery,87,5,Delivered
+1885,5,Blue Dart,84,5,Delivered
+1886,5,Blue Dart,77,7,Delivered
+1887,3,DTDC,271,6,Delivered
+1888,1,Blue Dart,213,4,Delivered
+1889,1,DTDC,190,1,Delivered
+1890,1,Delhivery,155,3,Delivered
+1891,3,Blue Dart,207,5,Delivered
+1892,5,Ekart,118,2,Delivered
+1893,2,Ekart,132,1,Delivered
+1894,5,Delhivery,105,5,Delivered
+1895,3,Ekart,157,6,Delivered
+1896,3,Blue Dart,257,3,Delivered
+1897,3,Delhivery,110,4,Delivered
+1898,1,DTDC,146,4,Delivered
+1899,4,DTDC,141,2,Delivered
+1900,5,Delhivery,87,2,Delivered
+1901,5,Delhivery,123,7,Delivered
+1902,4,Ekart,202,4,Delivered
+1903,1,Ekart,284,3,Delivered
+1904,4,Delhivery,43,4,Delivered
+1905,4,Delhivery,221,3,Delivered
+1906,1,DTDC,193,2,Delivered
+1907,4,DTDC,48,3,Delivered
+1908,1,Blue Dart,167,2,Delivered
+1909,2,Blue Dart,111,6,Delivered
+1910,1,Blue Dart,190,3,Delivered
+1911,2,DTDC,128,2,Delivered
+1912,2,Blue Dart,226,1,Delivered
+1913,1,DTDC,144,3,Delivered
+1914,3,Ekart,54,7,Delivered
+1915,1,DTDC,57,6,Delivered
+1916,4,Delhivery,233,7,Delivered
+1917,2,Blue Dart,91,1,Delivered
+1918,1,DTDC,73,1,Delivered
+1919,4,DTDC,265,2,Delivered
+1920,1,Ekart,283,4,Delivered
+1921,2,Ekart,227,5,Delivered
+1922,4,DTDC,140,2,Delivered
+1923,2,Blue Dart,155,6,Delivered
+1924,4,Ekart,93,2,Delivered
+1925,2,Ekart,208,6,Delivered
+1926,5,Ekart,107,3,Delivered
+1927,2,Delhivery,237,6,Delivered
+1928,2,Delhivery,113,6,Delivered
+1929,2,DTDC,205,1,Delivered
+1930,4,Ekart,136,6,Delivered
+1931,4,DTDC,149,4,Delivered
+1932,5,DTDC,100,6,Delivered
+1933,3,Ekart,135,3,Delivered
+1934,5,DTDC,89,6,Delivered
+1935,5,Ekart,72,7,Delivered
+1936,1,Blue Dart,88,2,Delivered
+1937,1,Delhivery,191,2,Delivered
+1938,3,DTDC,263,5,Delivered
+1939,5,Blue Dart,243,7,Delivered
+1940,2,Blue Dart,153,7,Delivered
+1941,3,Blue Dart,64,7,Delivered
+1942,5,Blue Dart,125,3,Delivered
+1943,2,Blue Dart,117,5,Delivered
+1944,4,Blue Dart,182,1,Delivered
+1945,3,DTDC,255,4,Delivered
+1946,2,Ekart,40,1,Delivered
+1947,3,Blue Dart,74,1,Delivered
+1948,2,Blue Dart,286,7,Delivered
+1949,4,Blue Dart,254,4,Delivered
+1950,2,Ekart,76,2,Delivered
+1951,2,DTDC,103,6,Delivered
+1952,2,Blue Dart,267,2,Delivered
+1953,3,Delhivery,100,5,Delivered
+1954,1,DTDC,158,6,Delivered
+1955,1,DTDC,118,1,Delivered
+1956,3,Delhivery,235,7,Delivered
+1957,1,DTDC,258,5,Delivered
+1958,3,Blue Dart,92,1,Delivered
+1959,5,Ekart,163,7,Delivered
+1960,4,DTDC,69,6,Delivered
+1961,3,Ekart,300,3,Delivered
+1962,3,Delhivery,46,1,Delivered
+1963,2,DTDC,153,5,Delivered
+1964,1,DTDC,232,5,Delivered
+1965,1,Delhivery,90,5,Delivered
+1966,2,Ekart,255,7,Delivered
+1967,3,DTDC,275,5,Delivered
+1968,1,DTDC,261,6,Delivered
+1969,2,Blue Dart,52,6,Delivered
+1970,1,Ekart,251,7,Delivered
+1971,3,Ekart,216,3,Delivered
+1972,3,DTDC,64,3,Delivered
+1973,2,Blue Dart,204,6,Delivered
+1974,2,DTDC,85,3,Delivered
+1975,5,Blue Dart,202,7,Delivered
+1976,1,DTDC,200,5,Delivered
+1977,4,Blue Dart,175,7,Delivered
+1978,3,Ekart,264,3,Delivered
+1979,2,Ekart,48,1,Delivered
+1980,3,Ekart,131,4,Delivered
+1981,2,Delhivery,86,6,Delivered
+1982,3,Blue Dart,214,5,Delivered
+1983,2,DTDC,93,7,Delivered
+1984,5,Delhivery,205,2,Delivered
+1985,2,Blue Dart,180,1,Delivered
+1986,2,Blue Dart,155,4,Delivered
+1987,2,Delhivery,191,2,Delivered
+1988,5,DTDC,264,4,Delivered
+1989,5,Blue Dart,251,2,Delivered
+1990,5,DTDC,238,6,Delivered
+1991,3,DTDC,229,3,Delivered
+1992,3,Ekart,79,6,Delivered
+1993,2,Blue Dart,89,7,Delivered
+1994,5,Ekart,93,7,Delivered
+1995,2,Ekart,154,4,Delivered
+1996,1,DTDC,264,4,Delivered
+1997,1,Blue Dart,51,5,Delivered
+1998,1,Ekart,284,7,Delivered
+1999,1,Ekart,73,6,Delivered
+2000,3,Delhivery,291,4,Delivered
+2001,4,Blue Dart,271,3,Delivered
+2002,3,Blue Dart,300,4,Delivered
+2003,5,Ekart,43,5,Delivered
+2004,5,Delhivery,76,5,Delivered
+2005,4,Blue Dart,139,2,Delivered
+2006,2,Delhivery,293,6,Delivered
+2007,1,Delhivery,246,5,Delivered
+2008,4,DTDC,282,2,Delivered
+2009,2,Delhivery,199,3,Delivered
+2010,3,DTDC,86,2,Delivered
+2011,2,Blue Dart,219,6,Delivered
+2012,3,DTDC,88,5,Delivered
+2013,5,Delhivery,70,6,Delivered
+2014,2,Delhivery,46,1,Delivered
+2015,3,Delhivery,231,7,Delivered
+2016,2,DTDC,133,5,Delivered
+2017,1,Blue Dart,231,5,Delivered
+2018,2,Blue Dart,267,1,Delivered
+2019,5,Delhivery,199,3,Delivered
+2020,2,Blue Dart,91,4,Delivered
+2021,2,Ekart,272,6,Delivered
+2022,4,Delhivery,73,3,Delivered
+2023,2,Blue Dart,291,2,Delivered
+2024,1,Ekart,70,4,Delivered
+2025,1,Delhivery,204,5,Delivered
+2026,5,DTDC,142,3,Delivered
+2027,4,Blue Dart,189,6,Delivered
+2028,4,DTDC,82,4,Delivered
+2029,1,Ekart,287,5,Delivered
+2030,4,Ekart,68,5,Delivered
+2031,2,Delhivery,197,5,Delivered
+2032,5,Blue Dart,200,6,Delivered
+2033,1,Delhivery,195,4,Delivered
+2034,5,Delhivery,262,6,Delivered
+2035,2,Ekart,62,2,Delivered
+2036,2,Blue Dart,203,1,Delivered
+2037,4,Blue Dart,47,1,Delivered
+2038,2,Delhivery,188,1,Delivered
+2039,3,Blue Dart,239,7,Delivered
+2040,4,Delhivery,119,2,Delivered
+2041,5,Ekart,256,6,Delivered
+2042,2,Ekart,249,6,Delivered
+2043,4,DTDC,182,7,Delivered
+2044,4,Ekart,45,6,Delivered
+2045,1,DTDC,105,6,Delivered
+2046,1,Delhivery,99,2,Delivered
+2047,1,Blue Dart,207,2,Delivered
+2048,4,Ekart,186,3,Delivered
+2049,3,Delhivery,101,4,Delivered
+2050,1,DTDC,142,2,Delivered
+2051,4,DTDC,95,1,Delivered
+2052,4,Blue Dart,82,7,Delivered
+2053,2,DTDC,229,4,Delivered
+2054,4,Delhivery,297,7,Delivered
+2055,2,Ekart,62,5,Delivered
+2056,3,Ekart,129,3,Delivered
+2057,1,DTDC,234,2,Delivered
+2058,5,Delhivery,155,2,Delivered
+2059,3,DTDC,52,7,Delivered
+2060,2,Ekart,122,2,Delivered
+2061,1,Delhivery,73,4,Delivered
+2062,1,Blue Dart,204,3,Delivered
+2063,1,Blue Dart,43,4,Delivered
+2064,1,DTDC,101,7,Delivered
+2065,5,Delhivery,50,6,Delivered
+2066,5,DTDC,184,6,Delivered
+2067,4,Blue Dart,291,5,Delivered
+2068,4,DTDC,118,4,Delivered
+2069,2,Blue Dart,186,6,Delivered
+2070,4,Ekart,122,3,Delivered
+2071,4,Ekart,113,1,Delivered
+2072,5,Blue Dart,245,2,Delivered
+2073,2,DTDC,255,4,Delivered
+2074,4,DTDC,277,3,Delivered
+2075,4,Blue Dart,145,2,Delivered
+2076,5,Blue Dart,226,4,Delivered
+2077,3,Ekart,149,4,Delivered
+2078,1,DTDC,193,7,Delivered
+2079,4,Delhivery,142,2,Delivered
+2080,2,DTDC,261,2,Delivered
+2081,1,Blue Dart,237,5,Delivered
+2082,3,Blue Dart,245,5,Delivered
+2083,2,DTDC,202,4,Delivered
+2084,4,Ekart,58,6,Delivered
+2085,1,Delhivery,44,7,Delivered
+2086,3,Delhivery,200,3,Delivered
+2087,2,Ekart,73,3,Delivered
+2088,5,DTDC,283,3,Delivered
+2089,3,Ekart,91,7,Delivered
+2090,2,Blue Dart,252,1,Delivered
+2091,4,Blue Dart,280,6,Delivered
+2092,1,Blue Dart,267,1,Delivered
+2093,2,DTDC,282,4,Delivered
+2094,1,Ekart,265,5,Delivered
+2095,4,Delhivery,291,6,Delivered
+2096,3,Delhivery,229,1,Delivered
+2097,5,Ekart,241,2,Delivered
+2098,3,Ekart,82,3,Delivered
+2099,1,DTDC,126,3,Delivered
+2100,2,Ekart,52,4,Delivered
+2101,1,Blue Dart,196,3,Delivered
+2102,3,Delhivery,179,6,Delivered
+2103,1,Ekart,56,2,Delivered
+2104,1,Delhivery,194,4,Delivered
+2105,4,DTDC,58,6,Delivered
+2106,4,Ekart,227,7,Delivered
+2107,4,Ekart,107,3,Delivered
+2108,5,Blue Dart,290,3,Delivered
+2109,4,Delhivery,203,7,Delivered
+2110,1,Blue Dart,94,2,Delivered
+2111,3,Delhivery,118,5,Delivered
+2112,1,Delhivery,44,6,Delivered
+2113,5,Delhivery,119,5,Delivered
+2114,3,Delhivery,102,1,Delivered
+2115,2,Delhivery,135,1,Delivered
+2116,1,DTDC,159,2,Delivered
+2117,4,Ekart,138,4,Delivered
+2118,4,Blue Dart,280,3,Delivered
+2119,1,DTDC,134,5,Delivered
+2120,2,Blue Dart,174,2,Delivered
+2121,5,Blue Dart,103,6,Delivered
+2122,2,Blue Dart,204,7,Delivered
+2123,4,Ekart,251,5,Delivered
+2124,2,DTDC,168,7,Delivered
+2125,5,Delhivery,168,3,Delivered
+2126,1,Delhivery,72,4,Delivered
+2127,5,DTDC,80,6,Delivered
+2128,1,Delhivery,203,5,Delivered
+2129,5,Delhivery,174,6,Delivered
+2130,4,Ekart,285,3,Delivered
+2131,4,Ekart,137,2,Delivered
+2132,1,Ekart,249,4,Delivered
+2133,3,DTDC,277,7,Delivered
+2134,4,Blue Dart,112,6,Delivered
+2135,4,Delhivery,111,7,Delivered
+2136,2,DTDC,227,1,Delivered
+2137,2,Blue Dart,151,1,Delivered
+2138,4,Blue Dart,178,3,Delivered
+2139,4,DTDC,121,3,Delivered
+2140,3,Blue Dart,137,4,Delivered
+2141,4,DTDC,121,4,Delivered
+2142,3,Delhivery,74,3,Delivered
+2143,5,Ekart,112,2,Delivered
+2144,2,DTDC,291,1,Delivered
+2145,2,Ekart,199,6,Delivered
+2146,5,Delhivery,106,5,Delivered
+2147,3,Blue Dart,229,5,Delivered
+2148,1,Delhivery,268,3,Delivered
+2149,2,Ekart,159,7,Delivered
+2150,4,Ekart,214,5,Delivered
+2151,2,Blue Dart,204,7,Delivered
+2152,2,Blue Dart,167,4,Delivered
+2153,1,Ekart,88,4,Delivered
+2154,5,Ekart,81,5,Delivered
+2155,5,Ekart,74,4,Delivered
+2156,3,Blue Dart,226,7,Delivered
+2157,4,Blue Dart,154,6,Delivered
+2158,3,DTDC,114,7,Delivered
+2159,4,Ekart,142,7,Delivered
+2160,5,Delhivery,191,6,Delivered
+2161,5,Ekart,167,7,Delivered
+2162,1,Ekart,173,2,Delivered
+2163,1,Delhivery,255,1,Delivered
+2164,2,DTDC,235,5,Delivered
+2165,4,Ekart,95,3,Delivered
+2166,2,DTDC,185,2,Delivered
+2167,3,Delhivery,103,1,Delivered
+2168,5,DTDC,228,2,Delivered
+2169,5,Delhivery,262,6,Delivered
+2170,2,Ekart,57,6,Delivered
+2171,5,Delhivery,68,6,Delivered
+2172,4,Delhivery,74,2,Delivered
+2173,5,Blue Dart,160,1,Delivered
+2174,3,Ekart,81,4,Delivered
+2175,4,DTDC,71,5,Delivered
+2176,2,Delhivery,146,4,Delivered
+2177,3,Blue Dart,162,1,Delivered
+2178,1,Delhivery,155,4,Delivered
+2179,2,Blue Dart,118,7,Delivered
+2180,3,Ekart,238,7,Delivered
+2181,1,Ekart,292,1,Delivered
+2182,5,Delhivery,60,2,Delivered
+2183,2,Blue Dart,291,1,Delivered
+2184,5,Ekart,300,7,Delivered
+2185,2,Blue Dart,43,6,Delivered
+2186,3,Ekart,231,5,Delivered
+2187,2,Ekart,211,2,Delivered
+2188,4,Delhivery,186,4,Delivered
+2189,5,DTDC,144,2,Delivered
+2190,4,Delhivery,145,2,Delivered
+2191,3,Blue Dart,195,3,Delivered
+2192,2,Ekart,151,5,Delivered
+2193,1,Blue Dart,132,7,Delivered
+2194,4,DTDC,207,4,Delivered
+2195,2,DTDC,285,5,Delivered
+2196,2,Delhivery,94,1,Delivered
+2197,5,Delhivery,45,3,Delivered
+2198,3,DTDC,235,6,Delivered
+2199,1,Delhivery,228,2,Delivered
+2200,4,Ekart,78,3,Delivered
+2201,3,Delhivery,101,3,Delivered
+2202,4,Blue Dart,101,6,Delivered
+2203,4,Blue Dart,47,1,Delivered
+2204,4,Ekart,178,1,Delivered
+2205,4,Delhivery,118,2,Delivered
+2206,4,Delhivery,59,4,Delivered
+2207,4,Blue Dart,46,5,Delivered
+2208,1,Ekart,184,6,Delivered
+2209,3,Delhivery,179,7,Delivered
+2210,4,Delhivery,62,7,Delivered
+2211,5,DTDC,158,6,Delivered
+2212,3,Ekart,85,5,Delivered
+2213,4,Blue Dart,231,6,Delivered
+2214,5,Blue Dart,204,6,Delivered
+2215,4,Blue Dart,245,3,Delivered
+2216,3,Blue Dart,293,6,Delivered
+2217,3,DTDC,84,5,Delivered
+2218,3,Ekart,278,4,Delivered
+2219,2,Delhivery,215,5,Delivered
+2220,5,Ekart,121,7,Delivered
+2221,2,Blue Dart,242,1,Delivered
+2222,1,Delhivery,93,5,Delivered
+2223,5,Blue Dart,156,6,Delivered
+2224,4,Delhivery,206,6,Delivered
+2225,5,DTDC,241,2,Delivered
+2226,4,Delhivery,155,6,Delivered
+2227,2,Blue Dart,40,7,Delivered
+2228,1,DTDC,113,1,Delivered
+2229,2,DTDC,195,7,Delivered
+2230,1,Blue Dart,52,1,Delivered
+2231,1,Blue Dart,135,7,Delivered
+2232,1,Ekart,271,1,Delivered
+2233,4,Delhivery,193,3,Delivered
+2234,2,Ekart,259,5,Delivered
+2235,5,Delhivery,291,1,Delivered
+2236,3,Delhivery,170,6,Delivered
+2237,5,Delhivery,256,6,Delivered
+2238,3,DTDC,53,4,Delivered
+2239,1,DTDC,169,5,Delivered
+2240,2,Delhivery,272,4,Delivered
+2241,2,DTDC,57,3,Delivered
+2242,4,Blue Dart,250,1,Delivered
+2243,5,Delhivery,299,4,Delivered
+2244,2,DTDC,180,6,Delivered
+2245,5,Delhivery,169,5,Delivered
+2246,4,Blue Dart,271,3,Delivered
+2247,1,Ekart,209,4,Delivered
+2248,1,Blue Dart,286,4,Delivered
+2249,4,Blue Dart,232,1,Delivered
+2250,2,Ekart,292,2,Delivered
+2251,1,Delhivery,124,2,Delivered
+2252,5,Delhivery,264,4,Delivered
+2253,1,Ekart,94,4,Delivered
+2254,3,DTDC,256,1,Delivered
+2255,3,Ekart,283,4,Delivered
+2256,2,Delhivery,52,2,Delivered
+2257,2,Blue Dart,268,6,Delivered
+2258,5,Ekart,284,1,Delivered
+2259,5,DTDC,99,5,Delivered
+2260,2,Blue Dart,193,2,Delivered
+2261,1,Ekart,70,5,Delivered
+2262,1,Ekart,44,3,Delivered
+2263,3,Blue Dart,285,7,Delivered
+2264,4,DTDC,285,2,Delivered
+2265,4,Delhivery,114,6,Delivered
+2266,2,Delhivery,284,5,Delivered
+2267,2,Blue Dart,251,7,Delivered
+2268,2,Ekart,248,1,Delivered
+2269,1,Ekart,242,1,Delivered
+2270,4,DTDC,155,6,Delivered
+2271,4,DTDC,120,2,Delivered
+2272,3,DTDC,78,4,Delivered
+2273,4,Delhivery,83,6,Delivered
+2274,1,Ekart,182,4,Delivered
+2275,3,Ekart,207,3,Delivered
+2276,5,DTDC,237,7,Delivered
+2277,5,Blue Dart,280,3,Delivered
+2278,3,Delhivery,168,6,Delivered
+2279,3,Blue Dart,200,3,Delivered
+2280,5,Blue Dart,218,3,Delivered
+2281,5,DTDC,182,3,Delivered
+2282,2,Blue Dart,191,2,Delivered
+2283,5,Ekart,144,7,Delivered
+2284,5,Blue Dart,100,6,Delivered
+2285,2,Blue Dart,212,2,Delivered
+2286,3,Blue Dart,240,4,Delivered
+2287,5,DTDC,214,2,Delivered
+2288,1,Ekart,103,4,Delivered
+2289,4,Delhivery,74,2,Delivered
+2290,4,DTDC,181,5,Delivered
+2291,2,Ekart,66,4,Delivered
+2292,5,Delhivery,283,4,Delivered
+2293,1,Blue Dart,132,1,Delivered
+2294,1,Delhivery,182,1,Delivered
+2295,3,Blue Dart,89,6,Delivered
+2296,2,Delhivery,70,1,Delivered
+2297,5,Ekart,185,4,Delivered
+2298,2,Ekart,221,7,Delivered
+2299,1,Ekart,152,2,Delivered
+2300,2,Delhivery,122,1,Delivered
+2301,3,DTDC,103,1,Delivered
+2302,2,Blue Dart,275,5,Delivered
+2303,2,Ekart,94,1,Delivered
+2304,4,DTDC,268,2,Delivered
+2305,1,DTDC,267,4,Delivered
+2306,5,DTDC,51,5,Delivered
+2307,2,DTDC,263,7,Delivered
+2308,3,Ekart,50,4,Delivered
+2309,4,DTDC,145,3,Delivered
+2310,5,DTDC,126,7,Delivered
+2311,2,Ekart,220,4,Delivered
+2312,3,Blue Dart,234,5,Delivered
+2313,1,Blue Dart,73,4,Delivered
+2314,4,Ekart,224,4,Delivered
+2315,4,DTDC,257,1,Delivered
+2316,3,Blue Dart,177,3,Delivered
+2317,4,Blue Dart,126,2,Delivered
+2318,5,Blue Dart,58,4,Delivered
+2319,2,Delhivery,121,1,Delivered
+2320,1,Ekart,80,5,Delivered
+2321,4,Blue Dart,190,2,Delivered
+2322,3,Blue Dart,157,4,Delivered
+2323,5,Delhivery,158,7,Delivered
+2324,1,Blue Dart,187,5,Delivered
+2325,2,Blue Dart,48,7,Delivered
+2326,5,Delhivery,74,7,Delivered
+2327,2,Delhivery,276,5,Delivered
+2328,2,Blue Dart,135,2,Delivered
+2329,3,Blue Dart,179,5,Delivered
+2330,5,Delhivery,241,2,Delivered
+2331,4,Blue Dart,107,2,Delivered
+2332,3,Ekart,276,2,Delivered
+2333,1,Blue Dart,122,6,Delivered
+2334,1,DTDC,109,1,Delivered
+2335,5,DTDC,242,5,Delivered
+2336,5,DTDC,221,7,Delivered
+2337,4,Ekart,248,2,Delivered
+2338,2,Delhivery,145,1,Delivered
+2339,3,Delhivery,251,4,Delivered
+2340,3,Delhivery,201,4,Delivered
+2341,2,DTDC,115,4,Delivered
+2342,2,Ekart,242,2,Delivered
+2343,2,DTDC,169,4,Delivered
+2344,4,Ekart,144,4,Delivered
+2345,1,Blue Dart,114,6,Delivered
+2346,3,Ekart,67,3,Delivered
+2347,4,Delhivery,190,3,Delivered
+2348,5,DTDC,60,7,Delivered
+2349,1,Ekart,209,2,Delivered
+2350,2,Delhivery,91,2,Delivered
+2351,3,Delhivery,52,5,Delivered
+2352,3,Delhivery,269,4,Delivered
+2353,4,Ekart,207,3,Delivered
+2354,5,Delhivery,264,7,Delivered
+2355,5,Delhivery,299,1,Delivered
+2356,4,Ekart,265,6,Delivered
+2357,2,Blue Dart,140,1,Delivered
+2358,3,DTDC,152,1,Delivered
+2359,1,Blue Dart,139,4,Delivered
+2360,4,Blue Dart,258,5,Delivered
+2361,2,Delhivery,73,2,Delivered
+2362,3,DTDC,73,2,Delivered
+2363,4,Delhivery,80,6,Delivered
+2364,5,Ekart,280,3,Delivered
+2365,5,Ekart,207,5,Delivered
+2366,5,Ekart,165,2,Delivered
+2367,4,DTDC,179,3,Delivered
+2368,3,DTDC,247,1,Delivered
+2369,3,Ekart,94,7,Delivered
+2370,2,Blue Dart,167,4,Delivered
+2371,1,Ekart,251,6,Delivered
+2372,5,Ekart,193,1,Delivered
+2373,5,DTDC,73,7,Delivered
+2374,4,DTDC,261,2,Delivered
+2375,1,Ekart,229,1,Delivered
+2376,4,DTDC,242,5,Delivered
+2377,4,Blue Dart,186,2,Delivered
+2378,3,Blue Dart,207,5,Delivered
+2379,1,Delhivery,82,7,Delivered
+2380,2,DTDC,292,1,Delivered
+2381,1,Delhivery,281,2,Delivered
+2382,3,Ekart,222,6,Delivered
+2383,1,Blue Dart,198,3,Delivered
+2384,5,Delhivery,60,5,Delivered
+2385,2,DTDC,291,1,Delivered
+2386,3,Delhivery,185,2,Delivered
+2387,5,Ekart,120,6,Delivered
+2388,1,DTDC,154,6,Delivered
+2389,4,Ekart,123,6,Delivered
+2390,3,Ekart,190,6,Delivered
+2391,4,Blue Dart,198,6,Delivered
+2392,2,DTDC,116,6,Delivered
+2393,1,Delhivery,100,2,Delivered
+2394,2,Blue Dart,77,3,Delivered
+2395,3,Blue Dart,286,4,Delivered
+2396,5,Ekart,147,4,Delivered
+2397,3,Blue Dart,240,2,Delivered
+2398,1,Delhivery,169,4,Delivered
+2399,4,DTDC,205,4,Delivered
+2400,4,Ekart,134,1,Delivered
+2401,3,DTDC,87,4,Delivered
+2402,2,Delhivery,111,2,Delivered
+2403,4,Ekart,143,6,Delivered
+2404,1,Delhivery,224,6,Delivered
+2405,3,Ekart,41,1,Delivered
+2406,2,Blue Dart,115,3,Delivered
+2407,3,DTDC,140,4,Delivered
+2408,4,Ekart,273,1,Delivered
+2409,1,DTDC,72,4,Delivered
+2410,4,Blue Dart,201,7,Delivered
+2411,4,Ekart,193,6,Delivered
+2412,2,Ekart,242,3,Delivered
+2413,2,Delhivery,153,7,Delivered
+2414,4,Delhivery,260,1,Delivered
+2415,3,DTDC,48,5,Delivered
+2416,5,Delhivery,294,5,Delivered
+2417,5,Ekart,99,7,Delivered
+2418,5,Ekart,130,5,Delivered
+2419,1,DTDC,80,3,Delivered
+2420,4,Delhivery,90,2,Delivered
+2421,2,Ekart,171,4,Delivered
+2422,2,Blue Dart,225,1,Delivered
+2423,3,Delhivery,79,2,Delivered
+2424,1,Blue Dart,73,7,Delivered
+2425,2,Delhivery,271,3,Delivered
+2426,5,DTDC,102,4,Delivered
+2427,3,Delhivery,222,7,Delivered
+2428,2,DTDC,136,5,Delivered
+2429,1,Delhivery,72,2,Delivered
+2430,2,Blue Dart,285,7,Delivered
+2431,1,Ekart,239,7,Delivered
+2432,1,DTDC,148,2,Delivered
+2433,4,Delhivery,156,7,Delivered
+2434,5,DTDC,238,3,Delivered
+2435,2,Delhivery,58,4,Delivered
+2436,5,Ekart,48,6,Delivered
+2437,3,DTDC,43,3,Delivered
+2438,1,Blue Dart,89,5,Delivered
+2439,1,Blue Dart,282,4,Delivered
+2440,3,Delhivery,56,7,Delivered
+2441,2,Ekart,257,3,Delivered
+2442,1,Ekart,110,6,Delivered
+2443,2,Ekart,214,7,Delivered
+2444,5,Ekart,78,4,Delivered
+2445,4,Delhivery,53,3,Delivered
+2446,1,Blue Dart,91,3,Delivered
+2447,3,Ekart,202,1,Delivered
+2448,2,Delhivery,158,1,Delivered
+2449,5,Delhivery,192,5,Delivered
+2450,1,DTDC,60,3,Delivered
+2451,1,Ekart,177,6,Delivered
+2452,1,Delhivery,42,1,Delivered
+2453,1,DTDC,224,4,Delivered
+2454,3,Blue Dart,166,1,Delivered
+2455,2,Delhivery,48,4,Delivered
+2456,2,Blue Dart,248,1,Delivered
+2457,3,Blue Dart,292,5,Delivered
+2458,4,Blue Dart,238,2,Delivered
+2459,3,Ekart,109,4,Delivered
+2460,4,Ekart,177,2,Delivered
+2461,4,Ekart,294,1,Delivered
+2462,5,Blue Dart,169,6,Delivered
+2463,2,Delhivery,167,2,Delivered
+2464,2,Blue Dart,63,6,Delivered
+2465,2,Blue Dart,181,1,Delivered
+2466,2,Delhivery,47,4,Delivered
+2467,2,DTDC,113,2,Delivered
+2468,3,Ekart,250,4,Delivered
+2469,3,DTDC,143,7,Delivered
+2470,2,DTDC,220,2,Delivered
+2471,4,DTDC,180,4,Delivered
+2472,1,DTDC,277,2,Delivered
+2473,4,Ekart,144,4,Delivered
+2474,2,Ekart,183,2,Delivered
+2475,4,Delhivery,272,3,Delivered
+2476,4,Blue Dart,181,7,Delivered
+2477,3,Blue Dart,285,2,Delivered
+2478,1,Blue Dart,288,4,Delivered
+2479,5,Blue Dart,96,3,Delivered
+2480,5,Ekart,90,3,Delivered
+2481,3,DTDC,50,1,Delivered
+2482,2,Ekart,169,7,Delivered
+2483,5,Blue Dart,294,5,Delivered
+2484,1,Ekart,254,5,Delivered
+2485,4,Blue Dart,135,1,Delivered
+2486,4,Ekart,179,5,Delivered
+2487,5,Ekart,89,4,Delivered
+2488,2,Blue Dart,206,1,Delivered
+2489,3,DTDC,163,5,Delivered
+2490,2,DTDC,48,6,Delivered
+2491,5,Blue Dart,158,4,Delivered
+2492,2,DTDC,251,5,Delivered
+2493,1,DTDC,109,2,Delivered
+2494,2,Ekart,89,1,Delivered
+2495,5,DTDC,101,3,Delivered
+2496,4,Blue Dart,87,3,Delivered
+2497,5,Delhivery,87,7,Delivered
+2498,5,Blue Dart,62,4,Delivered
+2499,5,Blue Dart,43,7,Delivered
+2500,4,Ekart,91,1,Delivered
+2501,2,Ekart,40,4,Delivered
+2502,3,DTDC,124,1,Delivered
+2503,5,Delhivery,180,2,Delivered
+2504,2,Delhivery,131,2,Delivered
+2505,2,Blue Dart,191,4,Delivered
+2506,2,Blue Dart,56,1,Delivered
+2507,3,Ekart,261,2,Delivered
+2508,2,DTDC,233,1,Delivered
+2509,1,Blue Dart,255,1,Delivered
+2510,2,Delhivery,118,4,Delivered
+2511,2,Blue Dart,176,6,Delivered
+2512,5,Ekart,271,2,Delivered
+2513,5,Blue Dart,269,4,Delivered
+2514,4,Ekart,201,3,Delivered
+2515,1,Blue Dart,247,3,Delivered
+2516,4,Delhivery,99,7,Delivered
+2517,1,Blue Dart,97,5,Delivered
+2518,5,Blue Dart,67,5,Delivered
+2519,2,Blue Dart,163,1,Delivered
+2520,5,Delhivery,163,5,Delivered
+2521,3,Delhivery,172,3,Delivered
+2522,2,Blue Dart,62,4,Delivered
+2523,2,Blue Dart,85,5,Delivered
+2524,4,Delhivery,256,6,Delivered
+2525,1,Ekart,275,2,Delivered
+2526,3,Delhivery,56,7,Delivered
+2527,1,Delhivery,82,3,Delivered
+2528,1,Delhivery,137,4,Delivered
+2529,4,Ekart,69,7,Delivered
+2530,1,Blue Dart,220,3,Delivered
+2531,5,Ekart,189,3,Delivered
+2532,5,Blue Dart,284,3,Delivered
+2533,1,Blue Dart,129,7,Delivered
+2534,5,Delhivery,200,4,Delivered
+2535,5,DTDC,279,1,Delivered
+2536,1,Delhivery,173,2,Delivered
+2537,3,Delhivery,225,6,Delivered
+2538,5,Blue Dart,247,4,Delivered
+2539,2,DTDC,116,7,Delivered
+2540,2,Ekart,229,6,Delivered
+2541,3,Blue Dart,232,6,Delivered
+2542,1,DTDC,67,4,Delivered
+2543,4,DTDC,221,7,Delivered
+2544,5,Blue Dart,104,1,Delivered
+2545,1,Delhivery,240,3,Delivered
+2546,1,Delhivery,173,6,Delivered
+2547,2,DTDC,295,2,Delivered
+2548,4,Blue Dart,72,4,Delivered
+2549,2,Delhivery,112,6,Delivered
+2550,3,Blue Dart,197,4,Delivered
+2551,1,Blue Dart,254,7,Delivered
+2552,3,DTDC,149,1,Delivered
+2553,1,DTDC,60,7,Delivered
+2554,4,Blue Dart,221,7,Delivered
+2555,1,Blue Dart,246,7,Delivered
+2556,3,Blue Dart,190,2,Delivered
+2557,1,DTDC,233,3,Delivered
+2558,3,Delhivery,155,6,Delivered
+2559,2,Blue Dart,181,3,Delivered
+2560,4,Delhivery,214,1,Delivered
+2561,3,Blue Dart,144,2,Delivered
+2562,2,Ekart,201,6,Delivered
+2563,2,Blue Dart,92,1,Delivered
+2564,4,DTDC,103,5,Delivered
+2565,2,Blue Dart,86,6,Delivered
+2566,4,Blue Dart,108,4,Delivered
+2567,2,Delhivery,248,7,Delivered
+2568,1,DTDC,207,4,Delivered
+2569,5,DTDC,44,1,Delivered
+2570,2,Delhivery,55,5,Delivered
+2571,4,Delhivery,105,7,Delivered
+2572,1,Blue Dart,233,3,Delivered
+2573,3,Ekart,101,6,Delivered
+2574,1,Blue Dart,240,3,Delivered
+2575,2,Delhivery,79,3,Delivered
+2576,1,Ekart,95,5,Delivered
+2577,2,DTDC,284,3,Delivered
+2578,5,Blue Dart,248,2,Delivered
+2579,2,Blue Dart,77,2,Delivered
+2580,3,Ekart,254,1,Delivered
+2581,1,Ekart,106,5,Delivered
+2582,1,Ekart,50,7,Delivered
+2583,2,DTDC,242,4,Delivered
+2584,5,Delhivery,99,6,Delivered
+2585,1,Delhivery,138,7,Delivered
+2586,2,Ekart,239,4,Delivered
+2587,1,Delhivery,237,2,Delivered
+2588,1,Ekart,148,1,Delivered
+2589,2,Ekart,214,3,Delivered
+2590,5,Blue Dart,263,5,Delivered
+2591,4,DTDC,113,5,Delivered
+2592,3,Ekart,60,1,Delivered
+2593,5,Delhivery,269,7,Delivered
+2594,3,Blue Dart,284,7,Delivered
+2595,5,Blue Dart,248,1,Delivered
+2596,3,Delhivery,67,1,Delivered
+2597,4,Delhivery,64,5,Delivered
+2598,5,Delhivery,188,3,Delivered
+2599,1,DTDC,170,5,Delivered
+2600,4,DTDC,232,7,Delivered
+2601,5,DTDC,85,5,Delivered
+2602,5,Ekart,236,6,Delivered
+2603,2,Blue Dart,209,5,Delivered
+2604,1,Ekart,139,2,Delivered
+2605,1,Blue Dart,154,3,Delivered
+2606,4,DTDC,68,4,Delivered
+2607,5,DTDC,119,4,Delivered
+2608,4,DTDC,55,6,Delivered
+2609,2,Ekart,156,5,Delivered
+2610,3,Ekart,164,5,Delivered
+2611,1,Ekart,41,3,Delivered
+2612,1,Blue Dart,262,3,Delivered
+2613,2,DTDC,223,5,Delivered
+2614,4,Ekart,87,7,Delivered
+2615,5,DTDC,216,4,Delivered
+2616,2,Delhivery,286,7,Delivered
+2617,2,Blue Dart,200,5,Delivered
+2618,3,Blue Dart,176,4,Delivered
+2619,2,Ekart,300,3,Delivered
+2620,1,Blue Dart,284,7,Delivered
+2621,1,DTDC,240,4,Delivered
+2622,1,DTDC,297,2,Delivered
+2623,2,Ekart,53,1,Delivered
+2624,4,Delhivery,182,1,Delivered
+2625,1,Ekart,67,4,Delivered
+2626,5,Blue Dart,266,6,Delivered
+2627,1,Ekart,152,6,Delivered
+2628,1,DTDC,265,4,Delivered
+2629,4,Blue Dart,69,6,Delivered
+2630,2,DTDC,250,6,Delivered
+2631,2,Ekart,49,5,Delivered
+2632,4,DTDC,236,1,Delivered
+2633,5,Delhivery,174,1,Delivered
+2634,5,Ekart,74,2,Delivered
+2635,4,Blue Dart,85,2,Delivered
+2636,3,Blue Dart,143,3,Delivered
+2637,1,DTDC,80,4,Delivered
+2638,2,Delhivery,80,5,Delivered
+2639,4,Delhivery,152,7,Delivered
+2640,5,Ekart,107,4,Delivered
+2641,5,Ekart,232,1,Delivered
+2642,4,Delhivery,191,3,Delivered
+2643,1,Blue Dart,205,1,Delivered
+2644,3,Delhivery,88,4,Delivered
+2645,1,Blue Dart,271,2,Delivered
+2646,1,DTDC,280,5,Delivered
+2647,4,DTDC,127,2,Delivered
+2648,2,Delhivery,291,7,Delivered
+2649,2,Delhivery,139,3,Delivered
+2650,2,Ekart,291,7,Delivered
+2651,4,Blue Dart,258,7,Delivered
+2652,5,Blue Dart,98,7,Delivered
+2653,5,Ekart,249,1,Delivered
+2654,5,DTDC,51,4,Delivered
+2655,5,DTDC,246,6,Delivered
+2656,4,DTDC,71,4,Delivered
+2657,2,DTDC,115,7,Delivered
+2658,3,Delhivery,232,5,Delivered
+2659,2,Blue Dart,154,6,Delivered
+2660,2,Delhivery,241,6,Delivered
+2661,1,Ekart,269,1,Delivered
+2662,4,Blue Dart,77,5,Delivered
+2663,1,Blue Dart,207,5,Delivered
+2664,5,Delhivery,177,2,Delivered
+2665,5,Ekart,48,2,Delivered
+2666,3,Delhivery,157,6,Delivered
+2667,4,Ekart,299,3,Delivered
+2668,3,Ekart,73,6,Delivered
+2669,3,DTDC,299,4,Delivered
+2670,4,Delhivery,222,2,Delivered
+2671,4,DTDC,239,4,Delivered
+2672,2,Delhivery,271,3,Delivered
+2673,5,Delhivery,276,4,Delivered
+2674,4,DTDC,116,7,Delivered
+2675,4,DTDC,118,7,Delivered
+2676,3,Blue Dart,292,6,Delivered
+2677,3,Delhivery,244,6,Delivered
+2678,3,Delhivery,177,1,Delivered
+2679,4,DTDC,209,6,Delivered
+2680,1,Delhivery,103,2,Delivered
+2681,2,Ekart,231,3,Delivered
+2682,5,DTDC,275,5,Delivered
+2683,2,Ekart,190,2,Delivered
+2684,2,Ekart,240,7,Delivered
+2685,2,Delhivery,214,4,Delivered
+2686,1,Ekart,135,5,Delivered
+2687,4,Blue Dart,215,4,Delivered
+2688,2,DTDC,153,7,Delivered
+2689,3,Ekart,92,2,Delivered
+2690,1,DTDC,229,3,Delivered
+2691,5,Ekart,237,7,Delivered
+2692,1,Ekart,289,7,Delivered
+2693,3,Blue Dart,43,2,Delivered
+2694,1,Delhivery,97,4,Delivered
+2695,2,Delhivery,141,5,Delivered
+2696,5,Blue Dart,177,7,Delivered
+2697,3,Blue Dart,241,3,Delivered
+2698,3,DTDC,95,3,Delivered
+2699,2,Delhivery,150,6,Delivered
+2700,5,Blue Dart,254,4,Delivered
+2701,1,Blue Dart,258,4,Delivered
+2702,1,Delhivery,176,7,Delivered
+2703,3,Delhivery,58,7,Delivered
+2704,4,DTDC,102,6,Delivered
+2705,4,Delhivery,107,7,Delivered
+2706,3,Ekart,106,2,Delivered
+2707,5,Ekart,245,2,Delivered
+2708,3,DTDC,253,1,Delivered
+2709,5,DTDC,270,5,Delivered
+2710,3,Blue Dart,110,4,Delivered
+2711,5,Ekart,183,5,Delivered
+2712,5,DTDC,226,7,Delivered
+2713,5,Ekart,131,5,Delivered
+2714,5,Delhivery,82,7,Delivered
+2715,3,Delhivery,109,7,Delivered
+2716,1,Blue Dart,197,3,Delivered
+2717,5,Blue Dart,77,2,Delivered
+2718,3,Ekart,75,2,Delivered
+2719,3,DTDC,57,5,Delivered
+2720,5,Blue Dart,91,3,Delivered
+2721,5,DTDC,237,5,Delivered
+2722,2,DTDC,153,4,Delivered
+2723,3,DTDC,116,6,Delivered
+2724,3,Blue Dart,228,3,Delivered
+2725,5,Blue Dart,128,6,Delivered
+2726,2,Blue Dart,72,2,Delivered
+2727,2,Delhivery,196,5,Delivered
+2728,4,Delhivery,86,5,Delivered
+2729,3,DTDC,121,2,Delivered
+2730,4,Ekart,52,5,Delivered
+2731,4,Delhivery,273,2,Delivered
+2732,3,DTDC,277,3,Delivered
+2733,5,Ekart,287,2,Delivered
+2734,5,Delhivery,206,2,Delivered
+2735,5,DTDC,235,6,Delivered
+2736,1,DTDC,67,5,Delivered
+2737,4,Delhivery,280,2,Delivered
+2738,2,Blue Dart,266,7,Delivered
+2739,5,Blue Dart,54,3,Delivered
+2740,2,Blue Dart,250,2,Delivered
+2741,4,Ekart,78,6,Delivered
+2742,5,Blue Dart,161,2,Delivered
+2743,2,Blue Dart,203,5,Delivered
+2744,3,DTDC,102,4,Delivered
+2745,4,Blue Dart,122,7,Delivered
+2746,2,Delhivery,210,3,Delivered
+2747,5,DTDC,99,2,Delivered
+2748,5,DTDC,41,2,Delivered
+2749,4,Delhivery,122,1,Delivered
+2750,5,DTDC,294,6,Delivered
+2751,4,Ekart,110,5,Delivered
+2752,5,Blue Dart,106,2,Delivered
+2753,2,Ekart,243,6,Delivered
+2754,5,Blue Dart,128,1,Delivered
+2755,3,DTDC,278,5,Delivered
+2756,5,DTDC,218,6,Delivered
+2757,5,Ekart,134,2,Delivered
+2758,4,Delhivery,60,2,Delivered
+2759,3,Blue Dart,238,6,Delivered
+2760,5,Ekart,96,4,Delivered
+2761,2,Blue Dart,87,1,Delivered
+2762,5,Blue Dart,218,6,Delivered
+2763,3,Blue Dart,284,3,Delivered
+2764,2,Delhivery,140,1,Delivered
+2765,4,Delhivery,147,6,Delivered
+2766,1,Delhivery,114,4,Delivered
+2767,2,Delhivery,146,2,Delivered
+2768,4,DTDC,111,1,Delivered
+2769,1,Delhivery,97,4,Delivered
+2770,2,Blue Dart,61,1,Delivered
+2771,4,Blue Dart,215,6,Delivered
+2772,4,Blue Dart,141,5,Delivered
+2773,1,Ekart,138,4,Delivered
+2774,2,Delhivery,131,4,Delivered
+2775,5,Delhivery,116,7,Delivered
+2776,2,Delhivery,86,3,Delivered
+2777,4,Blue Dart,212,7,Delivered
+2778,3,Blue Dart,116,5,Delivered
+2779,2,Delhivery,139,6,Delivered
+2780,3,DTDC,73,7,Delivered
+2781,2,Ekart,105,7,Delivered
+2782,4,Delhivery,89,2,Delivered
+2783,1,Blue Dart,181,2,Delivered
+2784,5,Ekart,227,4,Delivered
+2785,2,Delhivery,172,1,Delivered
+2786,1,Blue Dart,286,1,Delivered
+2787,3,Blue Dart,285,2,Delivered
+2788,3,Delhivery,125,5,Delivered
+2789,4,Delhivery,260,4,Delivered
+2790,1,DTDC,156,2,Delivered
+2791,5,Delhivery,215,3,Delivered
+2792,1,Blue Dart,186,1,Delivered
+2793,1,Delhivery,225,4,Delivered
+2794,5,DTDC,228,4,Delivered
+2795,5,Delhivery,229,4,Delivered
+2796,3,Ekart,257,7,Delivered
+2797,3,DTDC,94,2,Delivered
+2798,4,DTDC,41,1,Delivered
+2799,1,Delhivery,102,1,Delivered
+2800,4,Blue Dart,91,4,Delivered
+2801,1,DTDC,122,4,Delivered
+2802,5,Delhivery,89,7,Delivered
+2803,4,Delhivery,115,5,Delivered
+2804,3,Delhivery,277,1,Delivered
+2805,1,DTDC,271,1,Delivered
+2806,4,Blue Dart,210,1,Delivered
+2807,3,Ekart,181,4,Delivered
+2808,4,Blue Dart,98,6,Delivered
+2809,1,DTDC,133,3,Delivered
+2810,3,DTDC,258,6,Delivered
+2811,3,DTDC,55,2,Delivered
+2812,1,Ekart,141,6,Delivered
+2813,5,DTDC,120,7,Delivered
+2814,3,DTDC,241,4,Delivered
+2815,1,Ekart,72,5,Delivered
+2816,4,Delhivery,56,1,Delivered
+2817,4,DTDC,91,3,Delivered
+2818,5,Delhivery,74,7,Delivered
+2819,4,DTDC,279,1,Delivered
+2820,1,Delhivery,174,5,Delivered
+2821,5,Delhivery,178,5,Delivered
+2822,2,Delhivery,202,7,Delivered
+2823,3,Delhivery,192,6,Delivered
+2824,4,DTDC,292,6,Delivered
+2825,2,DTDC,264,6,Delivered
+2826,4,Ekart,92,4,Delivered
+2827,1,Blue Dart,150,4,Delivered
+2828,4,DTDC,176,2,Delivered
+2829,3,DTDC,133,2,Delivered
+2830,5,Ekart,98,5,Delivered
+2831,1,Ekart,124,4,Delivered
+2832,1,Blue Dart,279,1,Delivered
+2833,5,Blue Dart,94,1,Delivered
+2834,2,Delhivery,172,1,Delivered
+2835,1,Blue Dart,229,6,Delivered
+2836,5,DTDC,115,1,Delivered
+2837,1,Ekart,300,1,Delivered
+2838,5,DTDC,173,3,Delivered
+2839,2,Delhivery,271,3,Delivered
+2840,2,DTDC,299,3,Delivered
+2841,5,Blue Dart,71,7,Delivered
+2842,5,Delhivery,254,4,Delivered
+2843,1,Blue Dart,136,4,Delivered
+2844,3,DTDC,86,7,Delivered
+2845,2,DTDC,178,7,Delivered
+2846,4,Blue Dart,277,6,Delivered
+2847,5,DTDC,65,3,Delivered
+2848,3,Blue Dart,100,3,Delivered
+2849,5,DTDC,97,3,Delivered
+2850,4,Blue Dart,130,4,Delivered
+2851,5,Blue Dart,210,6,Delivered
+2852,1,DTDC,243,2,Delivered
+2853,5,DTDC,184,7,Delivered
+2854,4,Blue Dart,175,5,Delivered
+2855,3,DTDC,199,2,Delivered
+2856,1,Blue Dart,213,1,Delivered
+2857,2,Ekart,164,7,Delivered
+2858,3,Blue Dart,40,5,Delivered
+2859,2,Ekart,244,5,Delivered
+2860,2,Delhivery,263,2,Delivered
+2861,4,Blue Dart,267,5,Delivered
+2862,4,Delhivery,72,1,Delivered
+2863,2,Delhivery,167,3,Delivered
+2864,2,Blue Dart,248,1,Delivered
+2865,4,DTDC,40,3,Delivered
+2866,1,Ekart,204,5,Delivered
+2867,4,Ekart,51,2,Delivered
+2868,3,DTDC,114,3,Delivered
+2869,1,DTDC,202,6,Delivered
+2870,3,Ekart,54,7,Delivered
+2871,4,Delhivery,280,7,Delivered
+2872,1,Blue Dart,172,5,Delivered
+2873,5,Delhivery,41,7,Delivered
+2874,5,Blue Dart,89,3,Delivered
+2875,3,DTDC,93,7,Delivered
+2876,5,Blue Dart,241,6,Delivered
+2877,5,DTDC,167,6,Delivered
+2878,4,DTDC,199,5,Delivered
+2879,3,Delhivery,207,3,Delivered
+2880,3,Delhivery,96,1,Delivered
+2881,5,Blue Dart,69,7,Delivered
+2882,3,Blue Dart,235,6,Delivered
+2883,1,Delhivery,282,1,Delivered
+2884,2,DTDC,146,4,Delivered
+2885,4,Blue Dart,91,5,Delivered
+2886,3,Ekart,68,4,Delivered
+2887,1,Delhivery,194,7,Delivered
+2888,5,Ekart,131,1,Delivered
+2889,4,Ekart,262,4,Delivered
+2890,1,Ekart,263,3,Delivered
+2891,3,Ekart,256,7,Delivered
+2892,4,Ekart,54,5,Delivered
+2893,3,Blue Dart,138,7,Delivered
+2894,1,DTDC,106,2,Delivered
+2895,3,DTDC,235,7,Delivered
+2896,4,Ekart,188,1,Delivered
+2897,3,Ekart,157,1,Delivered
+2898,2,Blue Dart,100,2,Delivered
+2899,2,DTDC,259,4,Delivered
+2900,3,DTDC,108,7,Delivered
+2901,1,DTDC,54,1,Delivered
+2902,3,Delhivery,87,3,Delivered
+2903,3,DTDC,70,1,Delivered
+2904,1,Delhivery,282,5,Delivered
+2905,4,DTDC,105,2,Delivered
+2906,2,Ekart,267,7,Delivered
+2907,3,DTDC,109,6,Delivered
+2908,2,DTDC,78,2,Delivered
+2909,2,Delhivery,144,5,Delivered
+2910,4,Ekart,156,4,Delivered
+2911,4,Delhivery,276,5,Delivered
+2912,3,Ekart,129,3,Delivered
+2913,5,Blue Dart,297,3,Delivered
+2914,3,Ekart,64,1,Delivered
+2915,3,Ekart,228,3,Delivered
+2916,3,Blue Dart,140,7,Delivered
+2917,1,Blue Dart,139,2,Delivered
+2918,3,DTDC,83,4,Delivered
+2919,2,Blue Dart,190,6,Delivered
+2920,4,Blue Dart,55,2,Delivered
+2921,5,DTDC,126,7,Delivered
+2922,3,Delhivery,71,7,Delivered
+2923,5,DTDC,166,7,Delivered
+2924,3,Blue Dart,56,4,Delivered
+2925,3,Blue Dart,176,5,Delivered
+2926,3,Blue Dart,196,1,Delivered
+2927,5,Delhivery,242,4,Delivered
+2928,3,Delhivery,257,3,Delivered
+2929,3,Ekart,224,3,Delivered
+2930,1,Blue Dart,225,6,Delivered
+2931,5,Blue Dart,270,6,Delivered
+2932,1,Delhivery,204,2,Delivered
+2933,1,Blue Dart,273,5,Delivered
+2934,5,DTDC,257,5,Delivered
+2935,2,Delhivery,196,3,Delivered
+2936,2,DTDC,93,3,Delivered
+2937,2,Ekart,232,2,Delivered
+2938,5,DTDC,169,2,Delivered
+2939,2,Blue Dart,270,2,Delivered
+2940,2,Delhivery,117,1,Delivered
+2941,4,Delhivery,240,7,Delivered
+2942,2,Blue Dart,65,6,Delivered
+2943,2,Blue Dart,114,1,Delivered
+2944,1,Blue Dart,157,2,Delivered
+2945,1,Delhivery,237,4,Delivered
+2946,1,Delhivery,55,5,Delivered
+2947,5,DTDC,237,1,Delivered
+2948,1,Ekart,136,3,Delivered
+2949,3,Delhivery,160,5,Delivered
+2950,2,Delhivery,64,7,Delivered
+2951,4,Blue Dart,139,3,Delivered
+2952,5,Ekart,90,1,Delivered
+2953,1,DTDC,246,2,Delivered
+2954,3,Ekart,234,4,Delivered
+2955,3,Delhivery,63,4,Delivered
+2956,4,Ekart,87,1,Delivered
+2957,3,Ekart,84,6,Delivered
+2958,3,Delhivery,268,5,Delivered
+2959,4,Ekart,280,1,Delivered
+2960,1,Ekart,139,4,Delivered
+2961,2,Ekart,112,4,Delivered
+2962,5,DTDC,121,4,Delivered
+2963,1,Blue Dart,261,5,Delivered
+2964,5,Delhivery,281,5,Delivered
+2965,5,Delhivery,226,1,Delivered
+2966,4,Blue Dart,225,4,Delivered
+2967,5,DTDC,233,1,Delivered
+2968,2,Blue Dart,51,1,Delivered
+2969,3,DTDC,135,4,Delivered
+2970,1,Delhivery,228,2,Delivered
+2971,4,Ekart,211,5,Delivered
+2972,4,DTDC,273,3,Delivered
+2973,2,DTDC,191,4,Delivered
+2974,1,Delhivery,114,3,Delivered
+2975,5,DTDC,110,4,Delivered
+2976,2,Blue Dart,284,3,Delivered
+2977,1,DTDC,67,7,Delivered
+2978,3,Ekart,107,1,Delivered
+2979,3,Ekart,230,4,Delivered
+2980,3,DTDC,298,2,Delivered
+2981,2,Blue Dart,227,4,Delivered
+2982,5,Delhivery,65,1,Delivered
+2983,2,Ekart,249,3,Delivered
+2984,4,Blue Dart,148,7,Delivered
+2985,4,Blue Dart,297,2,Delivered
+2986,5,Ekart,183,1,Delivered
+2987,4,Blue Dart,122,6,Delivered
+2988,2,Delhivery,109,4,Delivered
+2989,5,Ekart,43,4,Delivered
+2990,3,Delhivery,86,1,Delivered
+2991,1,Blue Dart,277,7,Delivered
+2992,3,Blue Dart,258,1,Delivered
+2993,3,Blue Dart,265,1,Delivered
+2994,2,Blue Dart,62,1,Delivered
+2995,4,Ekart,47,1,Delivered
+2996,3,Delhivery,298,5,Delivered
+2997,5,Ekart,190,2,Delivered
+2998,5,DTDC,251,5,Delivered
+2999,2,DTDC,216,2,Delivered
+3000,3,DTDC,99,4,Delivered
+3001,5,Blue Dart,282,2,Delivered
+3002,5,Delhivery,149,7,Delivered
+3003,1,Ekart,210,1,Delivered
+3004,5,DTDC,153,6,Delivered
+3005,4,Ekart,149,7,Delivered
+3006,4,Ekart,163,3,Delivered
+3007,4,Delhivery,247,7,Delivered
+3008,4,Delhivery,259,4,Delivered
+3009,5,Blue Dart,168,3,Delivered
+3010,5,Blue Dart,195,2,Delivered
+3011,4,Ekart,247,2,Delivered
+3012,3,Ekart,67,4,Delivered
+3013,3,Delhivery,241,3,Delivered
+3014,3,Ekart,80,3,Delivered
+3015,2,Blue Dart,133,6,Delivered
+3016,5,Delhivery,210,7,Delivered
+3017,1,DTDC,198,6,Delivered
+3018,1,Blue Dart,91,1,Delivered
+3019,5,DTDC,88,5,Delivered
+3020,2,Ekart,191,6,Delivered
+3021,4,Delhivery,130,2,Delivered
+3022,4,Ekart,159,3,Delivered
+3023,1,Blue Dart,40,1,Delivered
+3024,2,DTDC,200,7,Delivered
+3025,3,Delhivery,45,2,Delivered
+3026,1,Delhivery,203,1,Delivered
+3027,2,Ekart,172,4,Delivered
+3028,3,Delhivery,264,3,Delivered
+3029,1,DTDC,137,7,Delivered
+3030,5,Delhivery,221,6,Delivered
+3031,3,Delhivery,158,6,Delivered
+3032,1,Delhivery,241,3,Delivered
+3033,2,Ekart,46,2,Delivered
+3034,1,Delhivery,182,3,Delivered
+3035,2,DTDC,63,5,Delivered
+3036,1,Delhivery,193,6,Delivered
+3037,2,Ekart,129,5,Delivered
+3038,2,Ekart,214,2,Delivered
+3039,4,Delhivery,57,1,Delivered
+3040,5,Delhivery,49,4,Delivered
+3041,5,Delhivery,77,5,Delivered
+3042,4,Ekart,62,7,Delivered
+3043,4,Ekart,104,6,Delivered
+3044,2,Ekart,197,5,Delivered
+3045,2,Delhivery,41,4,Delivered
+3046,4,Blue Dart,211,3,Delivered
+3047,2,Ekart,45,1,Delivered
+3048,4,Ekart,170,2,Delivered
+3049,2,Ekart,94,4,Delivered
+3050,2,Delhivery,135,6,Delivered
+3051,2,Blue Dart,153,3,Delivered
+3052,1,Delhivery,56,5,Delivered
+3053,1,Ekart,165,1,Delivered
+3054,5,DTDC,169,2,Delivered
+3055,1,Delhivery,236,4,Delivered
+3056,2,Delhivery,184,6,Delivered
+3057,3,DTDC,205,7,Delivered
+3058,1,Blue Dart,256,3,Delivered
+3059,1,Blue Dart,163,4,Delivered
+3060,1,Blue Dart,274,3,Delivered
+3061,2,Delhivery,170,4,Delivered
+3062,5,Blue Dart,40,4,Delivered
+3063,3,Blue Dart,155,6,Delivered
+3064,1,Blue Dart,136,4,Delivered
+3065,1,Blue Dart,74,3,Delivered
+3066,1,DTDC,42,6,Delivered
+3067,1,DTDC,94,7,Delivered
+3068,4,Blue Dart,230,3,Delivered
+3069,1,Ekart,277,6,Delivered
+3070,2,Delhivery,235,5,Delivered
+3071,1,Ekart,161,4,Delivered
+3072,2,Delhivery,232,5,Delivered
+3073,5,DTDC,128,7,Delivered
+3074,3,Ekart,67,6,Delivered
+3075,2,Blue Dart,284,2,Delivered
+3076,2,Blue Dart,190,5,Delivered
+3077,2,Blue Dart,70,3,Delivered
+3078,3,DTDC,182,6,Delivered
+3079,5,Delhivery,73,4,Delivered
+3080,5,Blue Dart,45,6,Delivered
+3081,2,Delhivery,146,1,Delivered
+3082,2,Blue Dart,106,6,Delivered
+3083,3,Blue Dart,92,2,Delivered
+3084,1,Blue Dart,297,1,Delivered
+3085,1,DTDC,169,4,Delivered
+3086,1,Ekart,158,7,Delivered
+3087,4,Ekart,243,5,Delivered
+3088,5,Blue Dart,107,7,Delivered
+3089,2,Delhivery,252,6,Delivered
+3090,4,Ekart,233,7,Delivered
+3091,2,Blue Dart,101,7,Delivered
+3092,2,Ekart,74,5,Delivered
+3093,2,Blue Dart,81,7,Delivered
+3094,1,DTDC,289,1,Delivered
+3095,3,DTDC,228,7,Delivered
+3096,4,Delhivery,236,2,Delivered
+3097,2,Delhivery,241,3,Delivered
+3098,3,Ekart,170,3,Delivered
+3099,4,DTDC,240,2,Delivered
+3100,5,Blue Dart,155,5,Delivered
+3101,1,Ekart,232,2,Delivered
+3102,2,Blue Dart,237,2,Delivered
+3103,1,Ekart,115,3,Delivered
+3104,2,Ekart,204,3,Delivered
+3105,1,Delhivery,292,5,Delivered
+3106,1,DTDC,115,6,Delivered
+3107,1,DTDC,174,2,Delivered
+3108,3,Blue Dart,108,6,Delivered
+3109,4,Blue Dart,227,6,Delivered
+3110,5,Blue Dart,155,2,Delivered
+3111,1,Blue Dart,79,1,Delivered
+3112,5,DTDC,247,1,Delivered
+3113,3,DTDC,239,6,Delivered
+3114,4,Ekart,272,4,Delivered
+3115,3,Blue Dart,224,2,Delivered
+3116,5,DTDC,178,4,Delivered
+3117,5,DTDC,72,4,Delivered
+3118,2,Delhivery,130,3,Delivered
+3119,1,Delhivery,210,7,Delivered
+3120,3,Delhivery,214,2,Delivered
+3121,5,Blue Dart,205,7,Delivered
+3122,5,DTDC,243,3,Delivered
+3123,2,Delhivery,162,1,Delivered
+3124,2,Blue Dart,228,7,Delivered
+3125,1,Ekart,132,4,Delivered
+3126,1,Ekart,140,2,Delivered
+3127,4,Delhivery,194,7,Delivered
+3128,2,Delhivery,271,5,Delivered
+3129,4,Blue Dart,93,6,Delivered
+3130,1,Delhivery,293,5,Delivered
+3131,2,Blue Dart,101,1,Delivered
+3132,4,Delhivery,183,3,Delivered
+3133,3,Ekart,130,4,Delivered
+3134,4,Ekart,176,7,Delivered
+3135,1,Delhivery,294,2,Delivered
+3136,1,DTDC,214,6,Delivered
+3137,2,DTDC,276,4,Delivered
+3138,4,DTDC,205,4,Delivered
+3139,4,Delhivery,97,3,Delivered
+3140,1,Ekart,118,7,Delivered
+3141,1,Delhivery,228,3,Delivered
+3142,1,Delhivery,52,2,Delivered
+3143,2,Delhivery,198,2,Delivered
+3144,2,Delhivery,257,1,Delivered
+3145,2,Delhivery,151,7,Delivered
+3146,1,DTDC,124,1,Delivered
+3147,2,DTDC,217,3,Delivered
+3148,5,DTDC,130,6,Delivered
+3149,2,DTDC,166,3,Delivered
+3150,5,Ekart,149,2,Delivered
+3151,2,DTDC,156,6,Delivered
+3152,5,Blue Dart,40,3,Delivered
+3153,2,Ekart,155,2,Delivered
+3154,4,Delhivery,299,3,Delivered
+3155,4,DTDC,86,1,Delivered
+3156,1,Blue Dart,239,5,Delivered
+3157,5,Blue Dart,142,4,Delivered
+3158,1,DTDC,103,2,Delivered
+3159,3,Blue Dart,133,6,Delivered
+3160,4,Ekart,172,7,Delivered
+3161,2,Ekart,266,7,Delivered
+3162,2,Blue Dart,150,6,Delivered
+3163,2,Delhivery,94,7,Delivered
+3164,3,Blue Dart,217,5,Delivered
+3165,2,Blue Dart,131,6,Delivered
+3166,4,Delhivery,233,2,Delivered
+3167,3,Blue Dart,230,6,Delivered
+3168,2,DTDC,165,1,Delivered
+3169,5,Delhivery,179,4,Delivered
+3170,3,Delhivery,160,1,Delivered
+3171,2,Ekart,102,6,Delivered
+3172,2,Delhivery,76,2,Delivered
+3173,2,DTDC,69,5,Delivered
+3174,4,Blue Dart,282,6,Delivered
+3175,1,Ekart,181,7,Delivered
+3176,3,Ekart,168,5,Delivered
+3177,1,Ekart,84,4,Delivered
+3178,1,Delhivery,215,3,Delivered
+3179,1,Delhivery,232,5,Delivered
+3180,3,DTDC,294,3,Delivered
+3181,1,DTDC,40,7,Delivered
+3182,3,Blue Dart,262,2,Delivered
+3183,1,DTDC,89,2,Delivered
+3184,2,Ekart,77,2,Delivered
+3185,4,DTDC,276,5,Delivered
+3186,4,Delhivery,282,2,Delivered
+3187,4,DTDC,287,2,Delivered
+3188,2,Blue Dart,264,6,Delivered
+3189,4,Ekart,283,6,Delivered
+3190,3,Blue Dart,146,6,Delivered
+3191,3,Blue Dart,99,5,Delivered
+3192,3,Ekart,136,1,Delivered
+3193,5,Ekart,133,2,Delivered
+3194,1,Blue Dart,101,5,Delivered
+3195,1,Ekart,288,7,Delivered
+3196,3,DTDC,185,4,Delivered
+3197,1,Blue Dart,255,5,Delivered
+3198,3,Ekart,262,4,Delivered
+3199,5,DTDC,270,3,Delivered
+3200,4,Blue Dart,237,3,Delivered
+3201,3,Ekart,56,1,Delivered
+3202,3,Ekart,152,4,Delivered
+3203,5,DTDC,179,5,Delivered
+3204,2,DTDC,265,1,Delivered
+3205,3,Blue Dart,234,2,Delivered
+3206,1,Ekart,278,6,Delivered
+3207,3,Ekart,96,2,Delivered
+3208,4,DTDC,145,4,Delivered
+3209,1,Ekart,188,5,Delivered
+3210,5,Ekart,241,3,Delivered
+3211,4,DTDC,166,3,Delivered
+3212,3,Ekart,153,3,Delivered
+3213,1,Ekart,102,4,Delivered
+3214,5,Blue Dart,164,7,Delivered
+3215,3,DTDC,185,2,Delivered
+3216,4,Ekart,48,5,Delivered
+3217,2,Blue Dart,154,1,Delivered
+3218,5,DTDC,105,5,Delivered
+3219,2,Ekart,91,2,Delivered
+3220,1,DTDC,106,1,Delivered
+3221,1,DTDC,62,4,Delivered
+3222,5,Ekart,138,3,Delivered
+3223,3,Ekart,281,7,Delivered
+3224,2,Delhivery,165,1,Delivered
+3225,3,DTDC,195,4,Delivered
+3226,2,Blue Dart,67,7,Delivered
+3227,3,Delhivery,109,7,Delivered
+3228,4,Ekart,241,7,Delivered
+3229,5,DTDC,137,3,Delivered
+3230,4,Delhivery,260,7,Delivered
+3231,5,Blue Dart,75,3,Delivered
+3232,5,Ekart,136,3,Delivered
+3233,4,DTDC,153,1,Delivered
+3234,5,Ekart,64,2,Delivered
+3235,2,DTDC,120,6,Delivered
+3236,1,Blue Dart,139,3,Delivered
+3237,2,Ekart,248,2,Delivered
+3238,1,Ekart,158,6,Delivered
+3239,4,DTDC,54,1,Delivered
+3240,2,Ekart,235,7,Delivered
+3241,2,Delhivery,289,4,Delivered
+3242,1,DTDC,174,2,Delivered
+3243,2,Ekart,69,2,Delivered
+3244,3,Delhivery,123,2,Delivered
+3245,5,Ekart,256,4,Delivered
+3246,4,Ekart,121,2,Delivered
+3247,5,Blue Dart,159,1,Delivered
+3248,2,Ekart,245,5,Delivered
+3249,2,Delhivery,157,1,Delivered
+3250,3,DTDC,279,4,Delivered
+3251,4,DTDC,226,7,Delivered
+3252,4,Blue Dart,284,5,Delivered
+3253,3,Blue Dart,69,2,Delivered
+3254,2,Delhivery,80,2,Delivered
+3255,5,Ekart,289,2,Delivered
+3256,2,Ekart,107,1,Delivered
+3257,3,DTDC,74,7,Delivered
+3258,1,DTDC,123,2,Delivered
+3259,3,Delhivery,231,1,Delivered
+3260,3,DTDC,92,7,Delivered
+3261,4,Ekart,173,4,Delivered
+3262,5,Blue Dart,175,1,Delivered
+3263,5,Blue Dart,265,2,Delivered
+3264,2,Ekart,298,7,Delivered
+3265,2,Blue Dart,202,5,Delivered
+3266,3,DTDC,241,7,Delivered
+3267,3,Blue Dart,166,4,Delivered
+3268,4,Delhivery,135,1,Delivered
+3269,1,Delhivery,101,5,Delivered
+3270,1,Blue Dart,217,6,Delivered
+3271,5,Delhivery,77,4,Delivered
+3272,4,Ekart,58,7,Delivered
+3273,5,Blue Dart,220,1,Delivered
+3274,5,Ekart,221,2,Delivered
+3275,1,DTDC,92,2,Delivered
+3276,4,DTDC,170,2,Delivered
+3277,4,Blue Dart,123,1,Delivered
+3278,2,Blue Dart,97,4,Delivered
+3279,3,Ekart,235,7,Delivered
+3280,2,Delhivery,140,2,Delivered
+3281,3,Ekart,266,7,Delivered
+3282,5,DTDC,300,5,Delivered
+3283,1,Ekart,277,1,Delivered
+3284,1,Ekart,233,7,Delivered
+3285,1,Ekart,137,7,Delivered
+3286,4,Ekart,133,4,Delivered
+3287,2,Ekart,252,2,Delivered
+3288,4,DTDC,282,3,Delivered
+3289,2,Ekart,118,1,Delivered
+3290,4,Ekart,82,2,Delivered
+3291,2,Delhivery,228,5,Delivered
+3292,2,Ekart,99,1,Delivered
+3293,2,Delhivery,117,5,Delivered
+3294,5,DTDC,159,4,Delivered
+3295,2,DTDC,128,7,Delivered
+3296,2,Delhivery,260,4,Delivered
+3297,3,Delhivery,213,1,Delivered
+3298,1,Blue Dart,60,1,Delivered
+3299,5,Blue Dart,120,1,Delivered
+3300,2,Blue Dart,88,7,Delivered
+3301,3,Ekart,97,6,Delivered
+3302,2,DTDC,253,5,Delivered
+3303,3,Delhivery,93,7,Delivered
+3304,5,Ekart,174,5,Delivered
+3305,4,Ekart,196,7,Delivered
+3306,1,DTDC,130,5,Delivered
+3307,4,DTDC,285,2,Delivered
+3308,5,Ekart,238,6,Delivered
+3309,4,Ekart,100,5,Delivered
+3310,2,Ekart,132,1,Delivered
+3311,4,Blue Dart,131,1,Delivered
+3312,1,Ekart,72,1,Delivered
+3313,5,Ekart,151,7,Delivered
+3314,3,DTDC,97,1,Delivered
+3315,4,Blue Dart,248,5,Delivered
+3316,5,Ekart,89,6,Delivered
+3317,2,Delhivery,50,1,Delivered
+3318,4,DTDC,50,6,Delivered
+3319,1,Delhivery,42,3,Delivered
+3320,2,Ekart,139,5,Delivered
+3321,1,Delhivery,204,6,Delivered
+3322,2,Ekart,165,5,Delivered
+3323,5,Delhivery,221,5,Delivered
+3324,4,Blue Dart,71,1,Delivered
+3325,5,DTDC,123,7,Delivered
+3326,2,Blue Dart,130,7,Delivered
+3327,5,DTDC,144,2,Delivered
+3328,4,Delhivery,298,3,Delivered
+3329,5,DTDC,130,4,Delivered
+3330,2,DTDC,196,7,Delivered
+3331,1,Blue Dart,119,6,Delivered
+3332,2,Blue Dart,118,1,Delivered
+3333,5,Blue Dart,218,2,Delivered
+3334,1,DTDC,206,6,Delivered
+3335,4,DTDC,292,4,Delivered
+3336,4,Ekart,125,1,Delivered
+3337,5,Delhivery,176,2,Delivered
+3338,5,Blue Dart,279,5,Delivered
+3339,1,DTDC,297,6,Delivered
+3340,5,DTDC,166,5,Delivered
+3341,3,DTDC,131,6,Delivered
+3342,2,DTDC,232,3,Delivered
+3343,5,DTDC,127,5,Delivered
+3344,5,Delhivery,110,3,Delivered
+3345,3,Blue Dart,215,3,Delivered
+3346,3,DTDC,44,7,Delivered
+3347,2,Delhivery,267,3,Delivered
+3348,2,DTDC,256,5,Delivered
+3349,4,DTDC,288,1,Delivered
+3350,5,DTDC,197,6,Delivered
+3351,3,Ekart,185,4,Delivered
+3352,5,Blue Dart,298,7,Delivered
+3353,4,DTDC,164,3,Delivered
+3354,5,Ekart,145,4,Delivered
+3355,5,Delhivery,234,3,Delivered
+3356,5,Delhivery,175,3,Delivered
+3357,5,Blue Dart,241,1,Delivered
+3358,1,Delhivery,123,4,Delivered
+3359,1,DTDC,244,3,Delivered
+3360,1,Delhivery,131,3,Delivered
+3361,3,Delhivery,153,1,Delivered
+3362,5,Blue Dart,61,3,Delivered
+3363,5,Blue Dart,282,3,Delivered
+3364,5,Ekart,252,7,Delivered
+3365,2,DTDC,229,1,Delivered
+3366,2,Delhivery,216,6,Delivered
+3367,1,Ekart,144,1,Delivered
+3368,4,Ekart,89,5,Delivered
+3369,2,DTDC,190,4,Delivered
+3370,1,DTDC,49,6,Delivered
+3371,4,Blue Dart,252,6,Delivered
+3372,1,Delhivery,144,4,Delivered
+3373,1,Blue Dart,178,3,Delivered
+3374,2,Delhivery,241,4,Delivered
+3375,4,DTDC,231,2,Delivered
+3376,4,Blue Dart,104,1,Delivered
+3377,5,DTDC,284,2,Delivered
+3378,2,Blue Dart,132,1,Delivered
+3379,3,Blue Dart,150,6,Delivered
+3380,4,Delhivery,172,4,Delivered
+3381,4,Ekart,187,6,Delivered
+3382,3,Blue Dart,263,3,Delivered
+3383,2,Blue Dart,200,1,Delivered
+3384,2,Ekart,210,6,Delivered
+3385,1,Blue Dart,68,1,Delivered
+3386,4,Blue Dart,134,1,Delivered
+3387,4,Blue Dart,113,6,Delivered
+3388,4,Blue Dart,257,7,Delivered
+3389,5,Blue Dart,217,5,Delivered
+3390,5,Ekart,127,2,Delivered
+3391,2,Ekart,111,6,Delivered
+3392,1,DTDC,99,5,Delivered
+3393,3,Delhivery,269,1,Delivered
+3394,1,Delhivery,225,3,Delivered
+3395,3,DTDC,272,3,Delivered
+3396,2,Ekart,149,3,Delivered
+3397,3,DTDC,191,1,Delivered
+3398,1,Ekart,193,6,Delivered
+3399,4,Blue Dart,173,3,Delivered
+3400,2,Delhivery,210,2,Delivered
+3401,5,Delhivery,153,2,Delivered
+3402,2,DTDC,82,7,Delivered
+3403,2,Blue Dart,133,4,Delivered
+3404,5,DTDC,299,5,Delivered
+3405,5,Delhivery,220,7,Delivered
+3406,5,DTDC,140,1,Delivered
+3407,4,Blue Dart,201,6,Delivered
+3408,2,Delhivery,267,6,Delivered
+3409,3,Blue Dart,207,6,Delivered
+3410,5,Delhivery,91,5,Delivered
+3411,3,DTDC,284,2,Delivered
+3412,4,DTDC,84,6,Delivered
+3413,4,Blue Dart,243,5,Delivered
+3414,3,Blue Dart,147,7,Delivered
+3415,5,Ekart,232,6,Delivered
+3416,3,Ekart,66,5,Delivered
+3417,5,Delhivery,58,1,Delivered
+3418,5,Ekart,285,2,Delivered
+3419,5,Blue Dart,214,2,Delivered
+3420,5,DTDC,188,3,Delivered
+3421,4,Ekart,192,5,Delivered
+3422,4,Ekart,264,2,Delivered
+3423,4,Ekart,218,7,Delivered
+3424,5,Delhivery,66,2,Delivered
+3425,4,DTDC,77,7,Delivered
+3426,5,Blue Dart,271,1,Delivered
+3427,3,Ekart,174,3,Delivered
+3428,3,Blue Dart,257,4,Delivered
+3429,5,DTDC,93,1,Delivered
+3430,1,Blue Dart,297,3,Delivered
+3431,5,Delhivery,81,5,Delivered
+3432,4,Delhivery,180,3,Delivered
+3433,1,Blue Dart,93,4,Delivered
+3434,1,Ekart,201,2,Delivered
+3435,4,Blue Dart,153,7,Delivered
+3436,1,Ekart,298,5,Delivered
+3437,4,Delhivery,203,2,Delivered
+3438,1,Delhivery,102,5,Delivered
+3439,1,Delhivery,167,7,Delivered
+3440,5,DTDC,197,2,Delivered
+3441,3,Delhivery,164,6,Delivered
+3442,5,Delhivery,207,7,Delivered
+3443,5,Delhivery,61,3,Delivered
+3444,2,Ekart,148,6,Delivered
+3445,4,Delhivery,215,6,Delivered
+3446,4,Blue Dart,234,7,Delivered
+3447,4,Delhivery,151,6,Delivered
+3448,5,DTDC,165,2,Delivered
+3449,5,Delhivery,43,6,Delivered
+3450,3,DTDC,86,3,Delivered
+3451,4,Blue Dart,84,6,Delivered
+3452,4,Blue Dart,289,5,Delivered
+3453,3,Delhivery,91,4,Delivered
+3454,4,Delhivery,108,7,Delivered
+3455,4,DTDC,133,4,Delivered
+3456,5,DTDC,233,4,Delivered
+3457,2,Ekart,130,5,Delivered
+3458,3,Ekart,75,7,Delivered
+3459,1,Delhivery,93,5,Delivered
+3460,3,Blue Dart,211,5,Delivered
+3461,4,Ekart,61,3,Delivered
+3462,1,Blue Dart,40,2,Delivered
+3463,1,Ekart,113,4,Delivered
+3464,4,Blue Dart,300,7,Delivered
+3465,3,Ekart,272,1,Delivered
+3466,2,Ekart,148,1,Delivered
+3467,5,Delhivery,254,4,Delivered
+3468,5,Delhivery,128,2,Delivered
+3469,3,DTDC,178,7,Delivered
+3470,1,Blue Dart,208,5,Delivered
+3471,2,DTDC,103,4,Delivered
+3472,1,DTDC,101,7,Delivered
+3473,3,Delhivery,143,3,Delivered
+3474,5,Delhivery,299,4,Delivered
+3475,4,DTDC,223,5,Delivered
+3476,2,DTDC,185,7,Delivered
+3477,1,Ekart,88,2,Delivered
+3478,5,Delhivery,97,3,Delivered
+3479,4,Delhivery,135,5,Delivered
+3480,2,Ekart,175,7,Delivered
+3481,3,Delhivery,127,7,Delivered
+3482,1,Delhivery,222,4,Delivered
+3483,1,Ekart,183,1,Delivered
+3484,4,Ekart,91,5,Delivered
+3485,3,Ekart,162,7,Delivered
+3486,1,DTDC,198,1,Delivered
+3487,2,Ekart,278,1,Delivered
+3488,4,Blue Dart,239,3,Delivered
+3489,4,Blue Dart,133,2,Delivered
+3490,4,Ekart,113,2,Delivered
+3491,3,Blue Dart,128,4,Delivered
+3492,5,Delhivery,58,2,Delivered
+3493,5,DTDC,90,6,Delivered
+3494,1,DTDC,46,2,Delivered
+3495,4,Blue Dart,68,2,Delivered
+3496,1,Ekart,161,4,Delivered
+3497,2,Delhivery,224,2,Delivered
+3498,5,Delhivery,45,3,Delivered
+3499,5,Ekart,55,1,Delivered
+3500,2,Blue Dart,210,7,Delivered
+3501,1,DTDC,150,5,Delivered
+3502,2,Delhivery,271,2,Delivered
+3503,1,Blue Dart,234,5,Delivered
+3504,4,Delhivery,239,4,Delivered
+3505,1,Delhivery,169,3,Delivered
+3506,4,Delhivery,293,1,Delivered
+3507,5,Delhivery,282,7,Delivered
+3508,3,Ekart,165,4,Delivered
+3509,2,Ekart,190,7,Delivered
+3510,2,Ekart,113,1,Delivered
+3511,1,Blue Dart,215,2,Delivered
+3512,3,Delhivery,112,6,Delivered
+3513,5,Ekart,196,6,Delivered
+3514,4,Blue Dart,232,5,Delivered
+3515,2,DTDC,220,3,Delivered
+3516,2,DTDC,249,1,Delivered
+3517,5,Ekart,52,6,Delivered
+3518,3,Ekart,219,1,Delivered
+3519,2,Delhivery,94,5,Delivered
+3520,3,Delhivery,127,7,Delivered
+3521,4,Ekart,251,3,Delivered
+3522,4,DTDC,104,2,Delivered
+3523,1,Delhivery,296,5,Delivered
+3524,4,Ekart,52,5,Delivered
+3525,4,Delhivery,96,5,Delivered
+3526,3,Blue Dart,83,4,Delivered
+3527,1,DTDC,143,4,Delivered
+3528,2,Ekart,157,3,Delivered
+3529,5,DTDC,178,4,Delivered
+3530,5,Blue Dart,100,2,Delivered
+3531,4,Ekart,180,4,Delivered
+3532,1,Blue Dart,73,2,Delivered
+3533,2,Delhivery,223,3,Delivered
+3534,2,Delhivery,71,1,Delivered
+3535,5,DTDC,167,7,Delivered
+3536,4,Blue Dart,96,5,Delivered
+3537,5,Delhivery,102,3,Delivered
+3538,1,Delhivery,87,4,Delivered
+3539,2,Blue Dart,293,2,Delivered
+3540,5,DTDC,62,4,Delivered
+3541,3,Ekart,82,7,Delivered
+3542,4,DTDC,172,4,Delivered
+3543,1,Delhivery,181,6,Delivered
+3544,4,Delhivery,89,6,Delivered
+3545,4,Delhivery,89,5,Delivered
+3546,3,Delhivery,229,6,Delivered
+3547,5,Blue Dart,198,2,Delivered
+3548,2,Ekart,46,1,Delivered
+3549,3,Blue Dart,182,4,Delivered
+3550,4,Ekart,232,5,Delivered
+3551,3,Ekart,179,7,Delivered
+3552,4,Blue Dart,67,1,Delivered
+3553,2,Ekart,48,7,Delivered
+3554,1,Blue Dart,110,6,Delivered
+3555,4,Ekart,40,2,Delivered
+3556,2,Delhivery,217,5,Delivered
+3557,4,Ekart,206,2,Delivered
+3558,3,Blue Dart,250,3,Delivered
+3559,3,DTDC,48,1,Delivered
+3560,2,Delhivery,111,5,Delivered
+3561,1,Delhivery,254,1,Delivered
+3562,3,Ekart,49,3,Delivered
+3563,1,Delhivery,71,4,Delivered
+3564,2,Delhivery,175,4,Delivered
+3565,1,Delhivery,105,5,Delivered
+3566,2,DTDC,84,1,Delivered
+3567,2,Blue Dart,258,1,Delivered
+3568,2,Delhivery,175,5,Delivered
+3569,1,DTDC,259,4,Delivered
+3570,2,Ekart,199,4,Delivered
+3571,3,Blue Dart,113,4,Delivered
+3572,3,DTDC,52,1,Delivered
+3573,3,Blue Dart,43,3,Delivered
+3574,3,DTDC,116,3,Delivered
+3575,5,DTDC,82,4,Delivered
+3576,2,Blue Dart,202,7,Delivered
+3577,4,Blue Dart,241,4,Delivered
+3578,4,DTDC,238,3,Delivered
+3579,2,Blue Dart,181,1,Delivered
+3580,4,DTDC,266,5,Delivered
+3581,5,Ekart,282,4,Delivered
+3582,2,Delhivery,146,3,Delivered
+3583,4,Delhivery,195,5,Delivered
+3584,3,Blue Dart,104,2,Delivered
+3585,2,Ekart,67,3,Delivered
+3586,4,Blue Dart,96,2,Delivered
+3587,4,Ekart,222,2,Delivered
+3588,5,Blue Dart,48,4,Delivered
+3589,3,Delhivery,103,1,Delivered
+3590,4,Blue Dart,81,5,Delivered
+3591,2,Delhivery,259,2,Delivered
+3592,3,Ekart,296,7,Delivered
+3593,2,Delhivery,181,5,Delivered
+3594,5,Delhivery,247,4,Delivered
+3595,3,Delhivery,91,1,Delivered
+3596,2,Ekart,199,2,Delivered
+3597,1,Blue Dart,166,7,Delivered
+3598,4,Delhivery,199,5,Delivered
+3599,4,Delhivery,162,4,Delivered
+3600,5,DTDC,67,1,Delivered
+3601,1,Blue Dart,93,5,Delivered
+3602,5,Delhivery,81,1,Delivered
+3603,1,Delhivery,147,3,Delivered
+3604,1,Blue Dart,94,7,Delivered
+3605,1,DTDC,252,1,Delivered
+3606,4,Blue Dart,221,6,Delivered
+3607,1,Ekart,90,5,Delivered
+3608,4,Ekart,226,1,Delivered
+3609,1,Blue Dart,264,3,Delivered
+3610,5,Blue Dart,101,1,Delivered
+3611,5,DTDC,41,4,Delivered
+3612,5,Delhivery,156,4,Delivered
+3613,1,DTDC,54,5,Delivered
+3614,1,DTDC,119,2,Delivered
+3615,5,DTDC,168,4,Delivered
+3616,5,Blue Dart,288,3,Delivered
+3617,1,DTDC,254,5,Delivered
+3618,1,Blue Dart,186,5,Delivered
+3619,3,Ekart,278,7,Delivered
+3620,1,Delhivery,126,6,Delivered
+3621,2,Blue Dart,149,4,Delivered
+3622,2,Delhivery,240,5,Delivered
+3623,5,DTDC,220,7,Delivered
+3624,4,DTDC,50,4,Delivered
+3625,3,Delhivery,263,5,Delivered
+3626,2,Ekart,112,1,Delivered
+3627,1,DTDC,192,7,Delivered
+3628,1,Delhivery,285,1,Delivered
+3629,3,Delhivery,172,7,Delivered
+3630,2,Delhivery,153,5,Delivered
+3631,5,Ekart,297,1,Delivered
+3632,1,Ekart,94,6,Delivered
+3633,1,Delhivery,201,7,Delivered
+3634,2,Delhivery,228,1,Delivered
+3635,3,DTDC,188,4,Delivered
+3636,2,Ekart,159,3,Delivered
+3637,1,Delhivery,206,1,Delivered
+3638,3,DTDC,255,3,Delivered
+3639,4,DTDC,102,3,Delivered
+3640,5,Ekart,204,6,Delivered
+3641,2,Delhivery,269,4,Delivered
+3642,2,Blue Dart,230,7,Delivered
+3643,5,Delhivery,214,3,Delivered
+3644,4,Delhivery,276,2,Delivered
+3645,1,Blue Dart,191,7,Delivered
+3646,3,Ekart,256,7,Delivered
+3647,2,Delhivery,223,1,Delivered
+3648,1,DTDC,144,1,Delivered
+3649,4,Delhivery,225,4,Delivered
+3650,4,Blue Dart,286,6,Delivered
+3651,2,Delhivery,289,3,Delivered
+3652,5,Delhivery,135,4,Delivered
+3653,3,Ekart,275,6,Delivered
+3654,1,Blue Dart,128,3,Delivered
+3655,5,DTDC,115,4,Delivered
+3656,5,Ekart,63,4,Delivered
+3657,3,Blue Dart,45,4,Delivered
+3658,2,Blue Dart,284,1,Delivered
+3659,3,Blue Dart,245,4,Delivered
+3660,3,Blue Dart,151,5,Delivered
+3661,4,Delhivery,248,6,Delivered
+3662,3,DTDC,159,2,Delivered
+3663,3,Blue Dart,172,1,Delivered
+3664,5,Blue Dart,282,2,Delivered
+3665,1,Ekart,270,4,Delivered
+3666,1,Ekart,138,6,Delivered
+3667,4,DTDC,69,6,Delivered
+3668,5,DTDC,295,6,Delivered
+3669,3,Blue Dart,263,7,Delivered
+3670,1,Blue Dart,172,2,Delivered
+3671,4,Blue Dart,246,6,Delivered
+3672,4,Blue Dart,132,1,Delivered
+3673,2,Blue Dart,286,1,Delivered
+3674,4,Ekart,290,4,Delivered
+3675,4,Delhivery,256,2,Delivered
+3676,2,Ekart,98,3,Delivered
+3677,4,Blue Dart,56,3,Delivered
+3678,4,Delhivery,146,5,Delivered
+3679,2,Delhivery,132,6,Delivered
+3680,5,Delhivery,88,3,Delivered
+3681,3,DTDC,79,1,Delivered
+3682,1,Delhivery,270,4,Delivered
+3683,2,Delhivery,244,2,Delivered
+3684,3,Delhivery,56,3,Delivered
+3685,2,Blue Dart,251,7,Delivered
+3686,3,Ekart,232,5,Delivered
+3687,4,Blue Dart,182,7,Delivered
+3688,2,Delhivery,153,5,Delivered
+3689,3,Ekart,71,2,Delivered
+3690,5,Ekart,95,6,Delivered
+3691,5,Blue Dart,105,4,Delivered
+3692,4,Blue Dart,84,2,Delivered
+3693,1,DTDC,153,3,Delivered
+3694,3,DTDC,70,2,Delivered
+3695,4,DTDC,242,6,Delivered
+3696,4,Blue Dart,195,3,Delivered
+3697,4,Ekart,231,1,Delivered
+3698,5,DTDC,194,7,Delivered
+3699,4,Ekart,251,7,Delivered
+3700,2,Delhivery,45,6,Delivered
+3701,5,Blue Dart,63,2,Delivered
+3702,3,Ekart,161,5,Delivered
+3703,3,Delhivery,155,2,Delivered
+3704,3,Blue Dart,166,2,Delivered
+3705,2,Blue Dart,223,1,Delivered
+3706,3,Ekart,216,7,Delivered
+3707,1,Blue Dart,212,3,Delivered
+3708,2,DTDC,298,7,Delivered
+3709,3,Blue Dart,139,7,Delivered
+3710,2,Blue Dart,190,7,Delivered
+3711,2,DTDC,107,1,Delivered
+3712,1,Ekart,158,1,Delivered
+3713,3,Delhivery,122,5,Delivered
+3714,3,DTDC,200,7,Delivered
+3715,5,Blue Dart,68,1,Delivered
+3716,4,DTDC,141,1,Delivered
+3717,3,Ekart,182,2,Delivered
+3718,4,Blue Dart,177,6,Delivered
+3719,2,DTDC,215,5,Delivered
+3720,5,Blue Dart,132,4,Delivered
+3721,2,Delhivery,286,3,Delivered
+3722,2,DTDC,180,4,Delivered
+3723,5,DTDC,168,4,Delivered
+3724,1,DTDC,101,4,Delivered
+3725,1,Delhivery,121,6,Delivered
+3726,3,Ekart,110,3,Delivered
+3727,2,Delhivery,72,3,Delivered
+3728,3,Ekart,45,3,Delivered
+3729,2,Blue Dart,91,5,Delivered
+3730,3,Blue Dart,65,5,Delivered
+3731,4,DTDC,111,3,Delivered
+3732,2,Ekart,168,7,Delivered
+3733,1,Blue Dart,170,6,Delivered
+3734,5,Delhivery,132,6,Delivered
+3735,3,DTDC,292,1,Delivered
+3736,4,Blue Dart,146,2,Delivered
+3737,5,DTDC,221,1,Delivered
+3738,1,Blue Dart,214,4,Delivered
+3739,3,DTDC,180,1,Delivered
+3740,3,Ekart,138,7,Delivered
+3741,2,Ekart,263,6,Delivered
+3742,2,DTDC,128,1,Delivered
+3743,3,DTDC,286,2,Delivered
+3744,2,Ekart,196,2,Delivered
+3745,3,Delhivery,240,2,Delivered
+3746,2,Blue Dart,219,1,Delivered
+3747,5,Blue Dart,220,6,Delivered
+3748,2,Ekart,268,2,Delivered
+3749,2,Ekart,132,6,Delivered
+3750,2,Blue Dart,165,3,Delivered
+3751,5,Blue Dart,45,7,Delivered
+3752,4,DTDC,127,7,Delivered
+3753,1,Blue Dart,249,4,Delivered
+3754,3,Delhivery,224,4,Delivered
+3755,1,DTDC,185,6,Delivered
+3756,2,Delhivery,65,6,Delivered
+3757,5,Blue Dart,165,3,Delivered
+3758,5,Blue Dart,108,2,Delivered
+3759,1,Delhivery,153,4,Delivered
+3760,1,DTDC,50,5,Delivered
+3761,4,Delhivery,204,4,Delivered
+3762,1,DTDC,68,4,Delivered
+3763,2,DTDC,184,2,Delivered
+3764,3,Delhivery,47,5,Delivered
+3765,4,Blue Dart,142,3,Delivered
+3766,4,DTDC,115,7,Delivered
+3767,2,Blue Dart,250,1,Delivered
+3768,3,Ekart,87,4,Delivered
+3769,2,Delhivery,239,3,Delivered
+3770,1,Blue Dart,275,2,Delivered
+3771,4,Ekart,284,4,Delivered
+3772,4,Blue Dart,168,5,Delivered
+3773,5,Delhivery,182,4,Delivered
+3774,4,Ekart,214,1,Delivered
+3775,4,Delhivery,84,7,Delivered
+3776,5,Blue Dart,128,3,Delivered
+3777,1,Blue Dart,186,5,Delivered
+3778,3,Ekart,176,1,Delivered
+3779,2,Blue Dart,177,3,Delivered
+3780,2,DTDC,170,4,Delivered
+3781,2,Ekart,190,7,Delivered
+3782,2,DTDC,110,4,Delivered
+3783,1,Ekart,279,2,Delivered
+3784,4,Ekart,72,6,Delivered
+3785,5,Ekart,156,5,Delivered
+3786,3,DTDC,177,2,Delivered
+3787,3,Blue Dart,204,7,Delivered
+3788,1,Delhivery,152,4,Delivered
+3789,3,DTDC,65,3,Delivered
+3790,1,Ekart,153,4,Delivered
+3791,3,Ekart,148,4,Delivered
+3792,4,Delhivery,271,7,Delivered
+3793,4,Ekart,252,7,Delivered
+3794,4,Blue Dart,246,5,Delivered
+3795,3,Ekart,84,5,Delivered
+3796,5,Delhivery,70,2,Delivered
+3797,2,Delhivery,45,7,Delivered
+3798,3,Delhivery,272,6,Delivered
+3799,4,Delhivery,188,2,Delivered
+3800,4,Delhivery,212,1,Delivered
+3801,4,Ekart,257,5,Delivered
+3802,2,Delhivery,242,4,Delivered
+3803,2,Delhivery,247,4,Delivered
+3804,5,Blue Dart,133,6,Delivered
+3805,4,DTDC,183,7,Delivered
+3806,1,DTDC,300,6,Delivered
+3807,3,Blue Dart,297,7,Delivered
+3808,1,DTDC,281,7,Delivered
+3809,4,Blue Dart,195,6,Delivered
+3810,5,DTDC,244,1,Delivered
+3811,3,Delhivery,194,5,Delivered
+3812,1,DTDC,70,3,Delivered
+3813,4,Delhivery,245,6,Delivered
+3814,1,DTDC,240,2,Delivered
+3815,1,DTDC,123,5,Delivered
+3816,4,Blue Dart,130,7,Delivered
+3817,5,Delhivery,121,4,Delivered
+3818,2,DTDC,205,7,Delivered
+3819,4,Delhivery,274,6,Delivered
+3820,5,DTDC,197,5,Delivered
+3821,4,Ekart,120,1,Delivered
+3822,5,Blue Dart,84,6,Delivered
+3823,3,Ekart,49,1,Delivered
+3824,5,DTDC,270,1,Delivered
+3825,2,Delhivery,214,7,Delivered
+3826,2,Delhivery,228,3,Delivered
+3827,2,Ekart,158,5,Delivered
+3828,3,Blue Dart,67,6,Delivered
+3829,4,Delhivery,252,4,Delivered
+3830,4,DTDC,178,6,Delivered
+3831,3,Delhivery,92,4,Delivered
+3832,5,Blue Dart,87,3,Delivered
+3833,4,Delhivery,98,4,Delivered
+3834,2,DTDC,192,1,Delivered
+3835,2,Delhivery,56,5,Delivered
+3836,4,Blue Dart,245,2,Delivered
+3837,5,DTDC,129,6,Delivered
+3838,3,Ekart,55,6,Delivered
+3839,4,Blue Dart,299,6,Delivered
+3840,5,Blue Dart,279,6,Delivered
+3841,1,DTDC,41,4,Delivered
+3842,1,DTDC,96,2,Delivered
+3843,4,DTDC,107,1,Delivered
+3844,5,Blue Dart,48,2,Delivered
+3845,4,Delhivery,129,4,Delivered
+3846,3,Ekart,151,3,Delivered
+3847,4,Blue Dart,169,3,Delivered
+3848,1,Delhivery,131,1,Delivered
+3849,2,Ekart,123,6,Delivered
+3850,2,DTDC,49,5,Delivered
+3851,2,DTDC,226,2,Delivered
+3852,5,Ekart,271,4,Delivered
+3853,2,DTDC,269,1,Delivered
+3854,2,DTDC,202,2,Delivered
+3855,1,Ekart,221,2,Delivered
+3856,3,Delhivery,265,7,Delivered
+3857,1,Blue Dart,244,7,Delivered
+3858,5,Blue Dart,100,3,Delivered
+3859,4,DTDC,167,5,Delivered
+3860,4,DTDC,117,2,Delivered
+3861,2,DTDC,59,4,Delivered
+3862,5,DTDC,185,5,Delivered
+3863,3,Ekart,288,7,Delivered
+3864,2,Delhivery,171,2,Delivered
+3865,4,Blue Dart,124,4,Delivered
+3866,2,Delhivery,236,4,Delivered
+3867,4,DTDC,130,2,Delivered
+3868,4,Blue Dart,166,2,Delivered
+3869,4,DTDC,277,6,Delivered
+3870,5,Blue Dart,230,7,Delivered
+3871,3,Delhivery,166,3,Delivered
+3872,1,Ekart,166,1,Delivered
+3873,5,Blue Dart,83,2,Delivered
+3874,1,Delhivery,42,1,Delivered
+3875,1,DTDC,244,2,Delivered
+3876,1,Ekart,156,7,Delivered
+3877,5,Delhivery,151,3,Delivered
+3878,2,DTDC,204,2,Delivered
+3879,4,Blue Dart,56,5,Delivered
+3880,4,Ekart,236,3,Delivered
+3881,3,Delhivery,208,5,Delivered
+3882,1,Blue Dart,159,3,Delivered
+3883,1,DTDC,258,4,Delivered
+3884,5,Ekart,245,2,Delivered
+3885,5,Delhivery,229,4,Delivered
+3886,1,Delhivery,282,6,Delivered
+3887,1,DTDC,249,4,Delivered
+3888,4,Ekart,285,2,Delivered
+3889,1,Ekart,166,7,Delivered
+3890,4,Ekart,101,6,Delivered
+3891,2,Delhivery,139,4,Delivered
+3892,3,DTDC,89,1,Delivered
+3893,4,DTDC,140,6,Delivered
+3894,4,Ekart,71,2,Delivered
+3895,5,Blue Dart,63,2,Delivered
+3896,5,Delhivery,141,5,Delivered
+3897,2,DTDC,60,2,Delivered
+3898,3,Ekart,180,7,Delivered
+3899,5,Delhivery,178,4,Delivered
+3900,4,DTDC,105,7,Delivered
+3901,1,Delhivery,280,4,Delivered
+3902,5,Delhivery,281,6,Delivered
+3903,3,Delhivery,287,6,Delivered
+3904,5,Ekart,80,3,Delivered
+3905,2,Ekart,58,5,Delivered
+3906,5,Ekart,300,1,Delivered
+3907,5,Delhivery,88,3,Delivered
+3908,3,Ekart,240,6,Delivered
+3909,5,Delhivery,243,1,Delivered
+3910,4,Delhivery,65,3,Delivered
+3911,2,Delhivery,199,3,Delivered
+3912,1,Ekart,49,7,Delivered
+3913,5,Blue Dart,131,1,Delivered
+3914,1,Blue Dart,235,4,Delivered
+3915,1,Blue Dart,230,7,Delivered
+3916,4,Ekart,50,6,Delivered
+3917,5,Delhivery,117,4,Delivered
+3918,5,Ekart,86,4,Delivered
+3919,5,Blue Dart,144,6,Delivered
+3920,4,Blue Dart,142,1,Delivered
+3921,5,DTDC,193,3,Delivered
+3922,5,Delhivery,261,4,Delivered
+3923,5,DTDC,61,5,Delivered
+3924,1,Delhivery,184,7,Delivered
+3925,1,Blue Dart,114,7,Delivered
+3926,1,Delhivery,211,5,Delivered
+3927,3,Delhivery,215,2,Delivered
+3928,2,Blue Dart,101,1,Delivered
+3929,1,Ekart,272,7,Delivered
+3930,2,Delhivery,200,2,Delivered
+3931,1,DTDC,284,3,Delivered
+3932,3,DTDC,69,7,Delivered
+3933,2,Delhivery,267,7,Delivered
+3934,4,Delhivery,213,6,Delivered
+3935,3,DTDC,288,7,Delivered
+3936,2,DTDC,132,2,Delivered
+3937,4,Delhivery,226,2,Delivered
+3938,2,DTDC,77,6,Delivered
+3939,1,Blue Dart,231,4,Delivered
+3940,4,Delhivery,150,4,Delivered
+3941,1,Ekart,66,4,Delivered
+3942,4,DTDC,162,4,Delivered
+3943,3,Delhivery,106,6,Delivered
+3944,4,Ekart,44,5,Delivered
+3945,1,Delhivery,150,5,Delivered
+3946,1,Blue Dart,70,7,Delivered
+3947,1,Blue Dart,226,2,Delivered
+3948,3,Ekart,120,6,Delivered
+3949,3,DTDC,227,2,Delivered
+3950,5,Blue Dart,240,1,Delivered
+3951,5,DTDC,62,2,Delivered
+3952,3,DTDC,191,6,Delivered
+3953,3,Blue Dart,62,3,Delivered
+3954,5,Ekart,186,3,Delivered
+3955,1,Delhivery,48,6,Delivered
+3956,5,DTDC,218,6,Delivered
+3957,2,Ekart,184,7,Delivered
+3958,4,Blue Dart,125,5,Delivered
+3959,2,Delhivery,292,5,Delivered
+3960,3,DTDC,234,1,Delivered
+3961,1,DTDC,111,3,Delivered
+3962,1,DTDC,45,3,Delivered
+3963,4,DTDC,48,2,Delivered
+3964,1,Ekart,298,3,Delivered
+3965,3,Blue Dart,42,1,Delivered
+3966,1,DTDC,294,7,Delivered
+3967,4,Delhivery,217,5,Delivered
+3968,1,Ekart,106,2,Delivered
+3969,1,Blue Dart,165,5,Delivered
+3970,4,Ekart,68,6,Delivered
+3971,3,Blue Dart,89,6,Delivered
+3972,4,Delhivery,203,6,Delivered
+3973,5,Delhivery,243,4,Delivered
+3974,4,Blue Dart,259,3,Delivered
+3975,5,Blue Dart,139,3,Delivered
+3976,4,Ekart,275,4,Delivered
+3977,3,DTDC,65,7,Delivered
+3978,4,DTDC,85,5,Delivered
+3979,1,Delhivery,135,2,Delivered
+3980,3,DTDC,290,2,Delivered
+3981,2,DTDC,148,7,Delivered
+3982,2,DTDC,188,3,Delivered
+3983,5,Blue Dart,204,2,Delivered
+3984,4,DTDC,232,5,Delivered
+3985,2,Ekart,124,4,Delivered
+3986,5,Blue Dart,154,6,Delivered
+3987,2,Delhivery,109,2,Delivered
+3988,1,Delhivery,168,6,Delivered
+3989,4,Blue Dart,156,7,Delivered
+3990,5,Ekart,190,2,Delivered
+3991,4,Delhivery,116,5,Delivered
+3992,3,Ekart,83,3,Delivered
+3993,3,Blue Dart,239,1,Delivered
+3994,3,DTDC,75,2,Delivered
+3995,1,Delhivery,41,6,Delivered
+3996,3,Blue Dart,149,6,Delivered
+3997,4,Blue Dart,105,4,Delivered
+3998,4,Blue Dart,144,1,Delivered
+3999,1,DTDC,245,3,Delivered
+4000,1,DTDC,41,2,Delivered
+4001,1,Blue Dart,233,7,Delivered
+4002,5,Ekart,126,5,Delivered
+4003,2,Ekart,83,6,Delivered
+4004,4,Ekart,67,2,Delivered
+4005,3,Delhivery,262,4,Delivered
+4006,5,Blue Dart,259,4,Delivered
+4007,3,Delhivery,260,7,Delivered
+4008,1,Blue Dart,247,2,Delivered
+4009,3,DTDC,174,4,Delivered
+4010,3,DTDC,176,3,Delivered
+4011,5,Blue Dart,93,5,Delivered
+4012,5,DTDC,182,7,Delivered
+4013,3,DTDC,57,5,Delivered
+4014,3,Ekart,47,7,Delivered
+4015,2,Blue Dart,253,7,Delivered
+4016,3,Blue Dart,105,2,Delivered
+4017,5,Ekart,235,1,Delivered
+4018,2,Delhivery,93,3,Delivered
+4019,5,Ekart,156,3,Delivered
+4020,1,Blue Dart,270,4,Delivered
+4021,2,Blue Dart,195,4,Delivered
+4022,2,Ekart,243,6,Delivered
+4023,4,Delhivery,296,5,Delivered
+4024,2,DTDC,287,1,Delivered
+4025,3,Delhivery,238,5,Delivered
+4026,1,Blue Dart,170,5,Delivered
+4027,4,Ekart,279,6,Delivered
+4028,5,Ekart,240,1,Delivered
+4029,5,DTDC,267,5,Delivered
+4030,4,Blue Dart,163,1,Delivered
+4031,4,Blue Dart,143,4,Delivered
+4032,1,Delhivery,112,4,Delivered
+4033,4,Blue Dart,43,1,Delivered
+4034,3,Ekart,270,6,Delivered
+4035,3,Ekart,295,6,Delivered
+4036,4,Ekart,207,7,Delivered
+4037,4,Ekart,91,2,Delivered
+4038,4,Ekart,42,1,Delivered
+4039,5,DTDC,212,5,Delivered
+4040,5,Blue Dart,189,6,Delivered
+4041,1,DTDC,235,3,Delivered
+4042,1,Blue Dart,129,3,Delivered
+4043,3,Delhivery,281,3,Delivered
+4044,2,Blue Dart,248,5,Delivered
+4045,5,Blue Dart,202,7,Delivered
+4046,1,DTDC,50,2,Delivered
+4047,1,Ekart,177,2,Delivered
+4048,5,DTDC,71,2,Delivered
+4049,1,Blue Dart,55,5,Delivered
+4050,1,Blue Dart,177,6,Delivered
+4051,5,DTDC,73,7,Delivered
+4052,5,DTDC,289,2,Delivered
+4053,3,Blue Dart,177,1,Delivered
+4054,4,Ekart,46,3,Delivered
+4055,4,Blue Dart,221,7,Delivered
+4056,4,Ekart,300,1,Delivered
+4057,4,Blue Dart,168,6,Delivered
+4058,5,Delhivery,111,6,Delivered
+4059,2,Ekart,178,2,Delivered
+4060,2,Delhivery,221,5,Delivered
+4061,3,Ekart,48,4,Delivered
+4062,2,Delhivery,156,1,Delivered
+4063,4,DTDC,186,5,Delivered
+4064,3,Ekart,98,6,Delivered
+4065,5,DTDC,176,6,Delivered
+4066,2,Delhivery,296,5,Delivered
+4067,5,Ekart,242,6,Delivered
+4068,1,DTDC,121,2,Delivered
+4069,2,DTDC,55,6,Delivered
+4070,5,DTDC,183,2,Delivered
+4071,4,Ekart,147,1,Delivered
+4072,2,Delhivery,236,4,Delivered
+4073,2,Delhivery,230,1,Delivered
+4074,1,DTDC,296,2,Delivered
+4075,4,Ekart,214,5,Delivered
+4076,5,Delhivery,255,2,Delivered
+4077,4,Blue Dart,152,6,Delivered
+4078,4,Delhivery,117,2,Delivered
+4079,5,Delhivery,58,6,Delivered
+4080,3,Ekart,269,1,Delivered
+4081,3,DTDC,268,5,Delivered
+4082,1,DTDC,255,4,Delivered
+4083,2,Delhivery,60,7,Delivered
+4084,4,Delhivery,220,5,Delivered
+4085,4,Delhivery,194,3,Delivered
+4086,4,Blue Dart,247,7,Delivered
+4087,5,Ekart,266,4,Delivered
+4088,1,Blue Dart,48,6,Delivered
+4089,1,Blue Dart,161,5,Delivered
+4090,2,Delhivery,54,6,Delivered
+4091,1,Delhivery,119,5,Delivered
+4092,5,DTDC,90,5,Delivered
+4093,1,DTDC,43,4,Delivered
+4094,1,Delhivery,64,4,Delivered
+4095,2,DTDC,115,5,Delivered
+4096,4,Blue Dart,154,3,Delivered
+4097,4,Ekart,272,1,Delivered
+4098,1,DTDC,291,3,Delivered
+4099,5,DTDC,155,2,Delivered
+4100,4,Delhivery,289,4,Delivered
+4101,2,Blue Dart,91,3,Delivered
+4102,1,Ekart,265,6,Delivered
+4103,3,Blue Dart,87,5,Delivered
+4104,5,Blue Dart,180,6,Delivered
+4105,3,Delhivery,199,3,Delivered
+4106,2,Delhivery,79,3,Delivered
+4107,4,Delhivery,92,7,Delivered
+4108,3,Delhivery,141,4,Delivered
+4109,1,Ekart,241,7,Delivered
+4110,5,Delhivery,59,5,Delivered
+4111,4,DTDC,67,7,Delivered
+4112,2,Ekart,176,3,Delivered
+4113,3,Ekart,250,4,Delivered
+4114,1,Blue Dart,256,6,Delivered
+4115,3,Delhivery,73,4,Delivered
+4116,5,Ekart,285,2,Delivered
+4117,5,Blue Dart,100,3,Delivered
+4118,3,DTDC,122,5,Delivered
+4119,4,Blue Dart,93,5,Delivered
+4120,2,Delhivery,109,5,Delivered
+4121,3,Ekart,195,6,Delivered
+4122,2,Blue Dart,193,1,Delivered
+4123,1,Ekart,170,5,Delivered
+4124,4,DTDC,52,4,Delivered
+4125,3,Ekart,236,7,Delivered
+4126,4,Blue Dart,102,3,Delivered
+4127,3,Ekart,82,6,Delivered
+4128,5,Delhivery,257,1,Delivered
+4129,3,Delhivery,122,2,Delivered
+4130,1,DTDC,76,6,Delivered
+4131,1,Blue Dart,193,7,Delivered
+4132,4,Delhivery,170,7,Delivered
+4133,4,DTDC,187,1,Delivered
+4134,5,Blue Dart,247,3,Delivered
+4135,2,Delhivery,117,4,Delivered
+4136,1,DTDC,135,1,Delivered
+4137,4,DTDC,271,4,Delivered
+4138,4,DTDC,251,4,Delivered
+4139,1,Blue Dart,200,6,Delivered
+4140,3,Blue Dart,56,2,Delivered
+4141,2,Blue Dart,177,5,Delivered
+4142,1,Delhivery,146,6,Delivered
+4143,5,Blue Dart,255,4,Delivered
+4144,1,Delhivery,282,7,Delivered
+4145,1,Ekart,116,6,Delivered
+4146,4,Delhivery,180,3,Delivered
+4147,2,Blue Dart,165,7,Delivered
+4148,1,DTDC,195,7,Delivered
+4149,4,Ekart,111,7,Delivered
+4150,1,Delhivery,236,2,Delivered
+4151,4,Blue Dart,74,5,Delivered
+4152,4,Ekart,222,5,Delivered
+4153,2,DTDC,264,4,Delivered
+4154,1,Ekart,63,1,Delivered
+4155,3,Delhivery,131,6,Delivered
+4156,3,Delhivery,146,7,Delivered
+4157,3,Ekart,244,4,Delivered
+4158,5,Blue Dart,40,3,Delivered
+4159,2,Delhivery,169,3,Delivered
+4160,1,Ekart,286,3,Delivered
+4161,2,Ekart,87,1,Delivered
+4162,4,DTDC,202,2,Delivered
+4163,1,Ekart,47,5,Delivered
+4164,2,DTDC,293,6,Delivered
+4165,1,Blue Dart,66,6,Delivered
+4166,5,Delhivery,70,1,Delivered
+4167,4,Blue Dart,83,3,Delivered
+4168,1,Ekart,87,1,Delivered
+4169,4,DTDC,251,2,Delivered
+4170,1,DTDC,79,5,Delivered
+4171,1,DTDC,203,4,Delivered
+4172,3,DTDC,67,4,Delivered
+4173,1,Blue Dart,259,7,Delivered
+4174,2,Delhivery,230,3,Delivered
+4175,1,DTDC,57,1,Delivered
+4176,1,Blue Dart,297,4,Delivered
+4177,3,Delhivery,207,7,Delivered
+4178,3,Delhivery,89,3,Delivered
+4179,1,DTDC,249,4,Delivered
+4180,3,Delhivery,171,3,Delivered
+4181,5,Blue Dart,49,1,Delivered
+4182,4,Blue Dart,145,7,Delivered
+4183,2,Blue Dart,109,7,Delivered
+4184,1,Delhivery,203,2,Delivered
+4185,2,Blue Dart,130,1,Delivered
+4186,2,Delhivery,88,6,Delivered
+4187,1,Delhivery,98,7,Delivered
+4188,5,Ekart,147,2,Delivered
+4189,2,Blue Dart,129,3,Delivered
+4190,4,Delhivery,149,2,Delivered
+4191,3,Ekart,250,6,Delivered
+4192,2,Blue Dart,195,2,Delivered
+4193,3,Ekart,266,4,Delivered
+4194,2,Ekart,260,4,Delivered
+4195,2,Delhivery,222,2,Delivered
+4196,4,Blue Dart,181,6,Delivered
+4197,3,Blue Dart,281,7,Delivered
+4198,4,Delhivery,211,6,Delivered
+4199,4,Ekart,210,5,Delivered
+4200,3,DTDC,239,2,Delivered
+4201,5,Delhivery,253,4,Delivered
+4202,3,DTDC,229,2,Delivered
+4203,5,Ekart,121,3,Delivered
+4204,3,DTDC,262,6,Delivered
+4205,3,Blue Dart,248,2,Delivered
+4206,5,Ekart,167,2,Delivered
+4207,4,DTDC,117,3,Delivered
+4208,4,Delhivery,120,6,Delivered
+4209,2,Blue Dart,205,3,Delivered
+4210,4,Ekart,296,6,Delivered
+4211,5,Delhivery,251,7,Delivered
+4212,5,Blue Dart,191,5,Delivered
+4213,2,Delhivery,252,1,Delivered
+4214,5,Delhivery,91,4,Delivered
+4215,2,DTDC,85,1,Delivered
+4216,4,Blue Dart,282,2,Delivered
+4217,4,Blue Dart,42,1,Delivered
+4218,5,DTDC,286,5,Delivered
+4219,5,Blue Dart,237,6,Delivered
+4220,2,Delhivery,107,1,Delivered
+4221,2,Ekart,266,4,Delivered
+4222,3,Blue Dart,124,4,Delivered
+4223,3,DTDC,145,7,Delivered
+4224,1,DTDC,111,6,Delivered
+4225,5,Ekart,45,2,Delivered
+4226,3,Delhivery,96,2,Delivered
+4227,4,Ekart,275,1,Delivered
+4228,4,Delhivery,250,6,Delivered
+4229,2,Blue Dart,208,2,Delivered
+4230,1,Delhivery,239,1,Delivered
+4231,5,Delhivery,98,4,Delivered
+4232,5,Ekart,57,7,Delivered
+4233,2,Blue Dart,158,3,Delivered
+4234,2,DTDC,254,7,Delivered
+4235,3,Delhivery,184,1,Delivered
+4236,5,Ekart,85,6,Delivered
+4237,4,DTDC,150,1,Delivered
+4238,5,Delhivery,93,4,Delivered
+4239,5,Delhivery,52,1,Delivered
+4240,2,Delhivery,117,5,Delivered
+4241,4,Delhivery,246,5,Delivered
+4242,5,Delhivery,166,3,Delivered
+4243,2,Ekart,296,6,Delivered
+4244,3,Ekart,119,1,Delivered
+4245,2,Delhivery,257,1,Delivered
+4246,5,Delhivery,288,7,Delivered
+4247,1,Blue Dart,235,1,Delivered
+4248,4,Delhivery,84,7,Delivered
+4249,2,Blue Dart,90,5,Delivered
+4250,1,Blue Dart,195,4,Delivered
+4251,2,Delhivery,188,1,Delivered
+4252,5,DTDC,193,3,Delivered
+4253,1,Blue Dart,263,4,Delivered
+4254,3,DTDC,234,3,Delivered
+4255,2,Delhivery,162,5,Delivered
+4256,1,DTDC,194,5,Delivered
+4257,4,Delhivery,186,2,Delivered
+4258,1,Ekart,185,1,Delivered
+4259,1,Ekart,151,3,Delivered
+4260,5,DTDC,134,4,Delivered
+4261,5,Ekart,216,3,Delivered
+4262,2,DTDC,199,1,Delivered
+4263,3,Ekart,289,6,Delivered
+4264,4,Ekart,223,4,Delivered
+4265,3,Blue Dart,69,1,Delivered
+4266,5,Ekart,261,4,Delivered
+4267,2,Ekart,226,7,Delivered
+4268,2,Blue Dart,269,6,Delivered
+4269,4,Blue Dart,239,4,Delivered
+4270,4,Ekart,53,3,Delivered
+4271,4,Delhivery,61,1,Delivered
+4272,1,Blue Dart,42,7,Delivered
+4273,4,Blue Dart,173,1,Delivered
+4274,4,Delhivery,42,1,Delivered
+4275,4,Delhivery,179,7,Delivered
+4276,4,Blue Dart,112,1,Delivered
+4277,2,Blue Dart,296,6,Delivered
+4278,3,Blue Dart,111,2,Delivered
+4279,2,Blue Dart,129,5,Delivered
+4280,1,Ekart,281,3,Delivered
+4281,5,Blue Dart,223,5,Delivered
+4282,3,Delhivery,40,3,Delivered
+4283,5,Ekart,271,5,Delivered
+4284,2,Ekart,92,6,Delivered
+4285,3,Delhivery,200,2,Delivered
+4286,2,Blue Dart,107,7,Delivered
+4287,3,Delhivery,224,4,Delivered
+4288,5,DTDC,163,1,Delivered
+4289,1,Delhivery,52,3,Delivered
+4290,3,Ekart,164,3,Delivered
+4291,3,Blue Dart,88,6,Delivered
+4292,4,DTDC,272,3,Delivered
+4293,5,Delhivery,129,1,Delivered
+4294,5,Blue Dart,51,4,Delivered
+4295,4,Delhivery,156,4,Delivered
+4296,1,Blue Dart,89,2,Delivered
+4297,4,Ekart,162,7,Delivered
+4298,5,Delhivery,203,7,Delivered
+4299,3,Ekart,292,7,Delivered
+4300,5,Ekart,50,5,Delivered
+4301,2,Delhivery,254,5,Delivered
+4302,5,Delhivery,192,3,Delivered
+4303,5,DTDC,47,4,Delivered
+4304,4,Ekart,255,4,Delivered
+4305,4,Ekart,230,4,Delivered
+4306,1,DTDC,202,2,Delivered
+4307,1,Blue Dart,254,6,Delivered
+4308,3,Delhivery,111,3,Delivered
+4309,5,Ekart,139,4,Delivered
+4310,5,Blue Dart,243,3,Delivered
+4311,4,DTDC,132,3,Delivered
+4312,5,Ekart,134,2,Delivered
+4313,3,Blue Dart,148,3,Delivered
+4314,1,Ekart,80,4,Delivered
+4315,3,Delhivery,209,3,Delivered
+4316,5,Delhivery,207,5,Delivered
+4317,4,Ekart,54,4,Delivered
+4318,5,DTDC,47,2,Delivered
+4319,3,DTDC,71,2,Delivered
+4320,2,Blue Dart,213,6,Delivered
+4321,3,Blue Dart,153,7,Delivered
+4322,5,Blue Dart,238,2,Delivered
+4323,1,Blue Dart,262,4,Delivered
+4324,5,Delhivery,266,2,Delivered
+4325,3,Blue Dart,111,7,Delivered
+4326,3,Delhivery,248,4,Delivered
+4327,1,Ekart,163,5,Delivered
+4328,4,Blue Dart,283,7,Delivered
+4329,4,Blue Dart,104,7,Delivered
+4330,2,Delhivery,158,5,Delivered
+4331,1,Ekart,223,1,Delivered
+4332,1,DTDC,88,6,Delivered
+4333,1,Blue Dart,164,2,Delivered
+4334,2,DTDC,289,1,Delivered
+4335,1,Delhivery,51,2,Delivered
+4336,3,DTDC,90,4,Delivered
+4337,3,DTDC,183,6,Delivered
+4338,5,Ekart,221,5,Delivered
+4339,4,Blue Dart,156,1,Delivered
+4340,2,Blue Dart,159,1,Delivered
+4341,4,DTDC,78,3,Delivered
+4342,3,DTDC,187,7,Delivered
+4343,1,Delhivery,191,7,Delivered
+4344,5,Delhivery,81,6,Delivered
+4345,4,DTDC,259,3,Delivered
+4346,2,DTDC,254,1,Delivered
+4347,5,Blue Dart,84,7,Delivered
+4348,4,Delhivery,248,6,Delivered
+4349,1,Blue Dart,107,2,Delivered
+4350,4,DTDC,266,1,Delivered
+4351,4,Blue Dart,211,2,Delivered
+4352,2,DTDC,103,5,Delivered
+4353,2,Delhivery,110,4,Delivered
+4354,3,Ekart,252,2,Delivered
+4355,1,Delhivery,186,7,Delivered
+4356,3,Blue Dart,51,1,Delivered
+4357,4,Ekart,165,5,Delivered
+4358,5,Blue Dart,164,6,Delivered
+4359,2,Blue Dart,172,4,Delivered
+4360,5,DTDC,234,5,Delivered
+4361,4,Ekart,92,4,Delivered
+4362,2,DTDC,251,3,Delivered
+4363,3,Blue Dart,111,1,Delivered
+4364,3,Delhivery,238,7,Delivered
+4365,4,DTDC,189,2,Delivered
+4366,2,Ekart,72,7,Delivered
+4367,2,Ekart,201,3,Delivered
+4368,4,Ekart,240,3,Delivered
+4369,5,DTDC,250,3,Delivered
+4370,5,Ekart,258,2,Delivered
+4371,5,Ekart,228,7,Delivered
+4372,3,DTDC,110,3,Delivered
+4373,5,Blue Dart,254,3,Delivered
+4374,3,Delhivery,113,7,Delivered
+4375,4,Blue Dart,269,4,Delivered
+4376,2,Blue Dart,203,6,Delivered
+4377,4,Blue Dart,171,6,Delivered
+4378,2,Delhivery,107,5,Delivered
+4379,4,Ekart,42,2,Delivered
+4380,3,DTDC,276,5,Delivered
+4381,3,Ekart,292,6,Delivered
+4382,2,Ekart,99,7,Delivered
+4383,1,DTDC,52,2,Delivered
+4384,5,Blue Dart,87,3,Delivered
+4385,2,Blue Dart,138,4,Delivered
+4386,1,Ekart,202,1,Delivered
+4387,4,DTDC,267,1,Delivered
+4388,4,Blue Dart,111,7,Delivered
+4389,4,Blue Dart,42,1,Delivered
+4390,2,Delhivery,65,6,Delivered
+4391,3,Ekart,104,4,Delivered
+4392,5,Blue Dart,144,7,Delivered
+4393,4,DTDC,51,7,Delivered
+4394,5,DTDC,295,6,Delivered
+4395,2,DTDC,44,7,Delivered
+4396,5,Ekart,262,5,Delivered
+4397,5,Ekart,254,3,Delivered
+4398,1,Blue Dart,114,3,Delivered
+4399,1,Blue Dart,231,1,Delivered
+4400,1,Delhivery,209,3,Delivered
+4401,4,Ekart,70,5,Delivered
+4402,2,Delhivery,186,3,Delivered
+4403,1,Ekart,71,3,Delivered
+4404,3,DTDC,237,5,Delivered
+4405,2,Ekart,137,5,Delivered
+4406,3,Blue Dart,284,3,Delivered
+4407,3,Delhivery,140,1,Delivered
+4408,1,DTDC,202,4,Delivered
+4409,1,DTDC,270,5,Delivered
+4410,1,Delhivery,119,4,Delivered
+4411,4,Blue Dart,287,6,Delivered
+4412,1,Delhivery,227,5,Delivered
+4413,4,DTDC,97,1,Delivered
+4414,4,DTDC,264,3,Delivered
+4415,2,Blue Dart,121,4,Delivered
+4416,1,Ekart,54,3,Delivered
+4417,2,Ekart,137,3,Delivered
+4418,1,Ekart,256,3,Delivered
+4419,5,Ekart,166,3,Delivered
+4420,2,Blue Dart,184,2,Delivered
+4421,2,Delhivery,279,7,Delivered
+4422,3,Delhivery,74,6,Delivered
+4423,3,DTDC,259,5,Delivered
+4424,2,Delhivery,143,1,Delivered
+4425,3,Blue Dart,120,7,Delivered
+4426,4,DTDC,260,5,Delivered
+4427,3,Ekart,75,6,Delivered
+4428,2,Ekart,104,7,Delivered
+4429,3,DTDC,94,2,Delivered
+4430,4,Blue Dart,43,5,Delivered
+4431,4,Blue Dart,44,6,Delivered
+4432,5,Blue Dart,287,7,Delivered
+4433,4,Delhivery,101,7,Delivered
+4434,2,Ekart,105,6,Delivered
+4435,5,DTDC,141,1,Delivered
+4436,1,Delhivery,266,1,Delivered
+4437,1,Blue Dart,182,2,Delivered
+4438,3,DTDC,150,6,Delivered
+4439,3,DTDC,268,4,Delivered
+4440,4,Delhivery,283,1,Delivered
+4441,5,DTDC,219,7,Delivered
+4442,4,DTDC,191,1,Delivered
+4443,4,Blue Dart,139,3,Delivered
+4444,1,Delhivery,227,2,Delivered
+4445,2,DTDC,226,2,Delivered
+4446,5,Blue Dart,133,2,Delivered
+4447,5,Delhivery,172,2,Delivered
+4448,4,Delhivery,225,6,Delivered
+4449,2,DTDC,65,7,Delivered
+4450,4,Delhivery,82,3,Delivered
+4451,1,Delhivery,243,6,Delivered
+4452,4,Delhivery,55,5,Delivered
+4453,4,Ekart,146,6,Delivered
+4454,3,DTDC,144,2,Delivered
+4455,5,Blue Dart,223,4,Delivered
+4456,5,Blue Dart,95,3,Delivered
+4457,4,Delhivery,169,4,Delivered
+4458,4,DTDC,185,6,Delivered
+4459,2,Delhivery,146,1,Delivered
+4460,2,DTDC,256,3,Delivered
+4461,2,Ekart,241,5,Delivered
+4462,5,Blue Dart,295,6,Delivered
+4463,1,Delhivery,57,6,Delivered
+4464,1,DTDC,65,1,Delivered
+4465,1,Ekart,84,5,Delivered
+4466,3,Ekart,146,7,Delivered
+4467,1,DTDC,143,6,Delivered
+4468,2,Ekart,255,7,Delivered
+4469,4,Blue Dart,46,1,Delivered
+4470,1,Delhivery,66,5,Delivered
+4471,5,Blue Dart,73,5,Delivered
+4472,1,Delhivery,198,7,Delivered
+4473,1,Blue Dart,158,3,Delivered
+4474,1,Ekart,132,5,Delivered
+4475,5,Blue Dart,65,3,Delivered
+4476,4,DTDC,257,1,Delivered
+4477,4,Blue Dart,52,5,Delivered
+4478,2,Blue Dart,259,5,Delivered
+4479,5,Ekart,274,6,Delivered
+4480,1,Ekart,152,1,Delivered
+4481,1,Ekart,148,6,Delivered
+4482,1,DTDC,294,2,Delivered
+4483,5,Ekart,111,1,Delivered
+4484,1,Ekart,111,6,Delivered
+4485,2,DTDC,248,6,Delivered
+4486,1,Delhivery,247,7,Delivered
+4487,4,Delhivery,300,4,Delivered
+4488,2,Blue Dart,249,2,Delivered
+4489,5,Ekart,52,1,Delivered
+4490,2,DTDC,245,2,Delivered
+4491,2,DTDC,261,4,Delivered
+4492,5,Delhivery,139,4,Delivered
+4493,1,DTDC,206,2,Delivered
+4494,5,Delhivery,277,3,Delivered
+4495,2,Ekart,94,2,Delivered
+4496,5,DTDC,285,4,Delivered
+4497,3,DTDC,234,3,Delivered
+4498,2,Ekart,52,3,Delivered
+4499,3,Delhivery,265,1,Delivered
+4500,3,DTDC,136,5,Delivered
+4501,5,Ekart,242,3,Delivered
+4502,5,DTDC,81,6,Delivered
+4503,5,DTDC,60,1,Delivered
+4504,1,Delhivery,134,3,Delivered
+4505,2,DTDC,291,3,Delivered
+4506,1,Blue Dart,48,7,Delivered
+4507,2,Delhivery,103,1,Delivered
+4508,3,Delhivery,72,6,Delivered
+4509,1,DTDC,180,2,Delivered
+4510,4,Ekart,116,2,Delivered
+4511,2,DTDC,147,7,Delivered
+4512,1,DTDC,126,1,Delivered
+4513,2,Delhivery,109,7,Delivered
+4514,4,DTDC,111,3,Delivered
+4515,4,Ekart,162,4,Delivered
+4516,1,Ekart,293,7,Delivered
+4517,3,Ekart,240,6,Delivered
+4518,3,DTDC,293,3,Delivered
+4519,5,DTDC,146,3,Delivered
+4520,3,Ekart,152,3,Delivered
+4521,3,DTDC,259,5,Delivered
+4522,4,Ekart,141,6,Delivered
+4523,5,Blue Dart,191,5,Delivered
+4524,3,DTDC,121,7,Delivered
+4525,2,DTDC,240,7,Delivered
+4526,3,Blue Dart,118,1,Delivered
+4527,4,Ekart,281,1,Delivered
+4528,5,Ekart,164,2,Delivered
+4529,5,Blue Dart,168,3,Delivered
+4530,5,Ekart,56,3,Delivered
+4531,3,Delhivery,224,6,Delivered
+4532,2,Ekart,245,4,Delivered
+4533,1,DTDC,140,3,Delivered
+4534,2,Delhivery,279,4,Delivered
+4535,2,Ekart,178,6,Delivered
+4536,1,Blue Dart,54,1,Delivered
+4537,3,Ekart,96,3,Delivered
+4538,1,Ekart,215,1,Delivered
+4539,5,Delhivery,199,2,Delivered
+4540,1,Blue Dart,277,5,Delivered
+4541,2,DTDC,209,2,Delivered
+4542,1,Blue Dart,162,6,Delivered
+4543,1,Ekart,125,4,Delivered
+4544,4,Ekart,116,5,Delivered
+4545,2,Ekart,96,6,Delivered
+4546,3,DTDC,154,5,Delivered
+4547,3,Ekart,189,3,Delivered
+4548,3,DTDC,60,7,Delivered
+4549,5,Blue Dart,205,1,Delivered
+4550,3,Ekart,223,3,Delivered
+4551,4,Delhivery,253,2,Delivered
+4552,5,Delhivery,252,4,Delivered
+4553,4,Ekart,237,1,Delivered
+4554,1,Ekart,283,3,Delivered
+4555,2,DTDC,171,1,Delivered
+4556,1,Ekart,100,5,Delivered
+4557,4,Blue Dart,47,5,Delivered
+4558,4,Blue Dart,82,5,Delivered
+4559,2,Delhivery,160,5,Delivered
+4560,1,DTDC,292,1,Delivered
+4561,1,Ekart,113,7,Delivered
+4562,4,Blue Dart,91,2,Delivered
+4563,3,Blue Dart,59,3,Delivered
+4564,1,Ekart,117,1,Delivered
+4565,5,Blue Dart,245,3,Delivered
+4566,2,Blue Dart,161,1,Delivered
+4567,2,DTDC,225,7,Delivered
+4568,4,DTDC,134,5,Delivered
+4569,1,Ekart,189,5,Delivered
+4570,3,Blue Dart,83,5,Delivered
+4571,3,Blue Dart,263,5,Delivered
+4572,1,Delhivery,120,6,Delivered
+4573,4,Delhivery,94,3,Delivered
+4574,2,Delhivery,279,5,Delivered
+4575,3,Delhivery,271,2,Delivered
+4576,5,Delhivery,258,2,Delivered
+4577,1,Delhivery,297,4,Delivered
+4578,2,Blue Dart,90,5,Delivered
+4579,4,Delhivery,204,4,Delivered
+4580,4,DTDC,98,7,Delivered
+4581,2,DTDC,289,1,Delivered
+4582,3,Delhivery,231,7,Delivered
+4583,3,Ekart,202,1,Delivered
+4584,1,Blue Dart,233,6,Delivered
+4585,2,DTDC,57,2,Delivered
+4586,3,Delhivery,127,5,Delivered
+4587,4,DTDC,243,1,Delivered
+4588,3,Delhivery,145,3,Delivered
+4589,3,Ekart,75,5,Delivered
+4590,2,DTDC,298,1,Delivered
+4591,2,Blue Dart,268,2,Delivered
+4592,3,Delhivery,164,2,Delivered
+4593,1,Delhivery,198,2,Delivered
+4594,1,Blue Dart,126,3,Delivered
+4595,2,Delhivery,140,6,Delivered
+4596,4,Delhivery,250,2,Delivered
+4597,2,Delhivery,285,2,Delivered
+4598,5,Delhivery,278,6,Delivered
+4599,3,DTDC,259,4,Delivered
+4600,1,Delhivery,221,2,Delivered
+4601,1,Delhivery,282,1,Delivered
+4602,4,Blue Dart,177,5,Delivered
+4603,5,Ekart,93,2,Delivered
+4604,1,Ekart,81,7,Delivered
+4605,1,Ekart,195,3,Delivered
+4606,4,DTDC,112,5,Delivered
+4607,3,DTDC,98,5,Delivered
+4608,4,DTDC,80,2,Delivered
+4609,1,DTDC,112,7,Delivered
+4610,5,Ekart,245,1,Delivered
+4611,4,DTDC,152,1,Delivered
+4612,4,Blue Dart,274,1,Delivered
+4613,5,DTDC,186,7,Delivered
+4614,2,Blue Dart,187,6,Delivered
+4615,3,Ekart,240,4,Delivered
+4616,4,Blue Dart,151,1,Delivered
+4617,1,DTDC,253,7,Delivered
+4618,2,Delhivery,231,2,Delivered
+4619,2,Delhivery,243,5,Delivered
+4620,2,DTDC,174,4,Delivered
+4621,4,Ekart,233,5,Delivered
+4622,5,DTDC,51,2,Delivered
+4623,5,Blue Dart,41,1,Delivered
+4624,2,DTDC,156,4,Delivered
+4625,1,Ekart,132,6,Delivered
+4626,5,Delhivery,125,4,Delivered
+4627,4,Ekart,154,3,Delivered
+4628,3,Delhivery,233,6,Delivered
+4629,5,Delhivery,81,5,Delivered
+4630,2,Blue Dart,183,4,Delivered
+4631,2,Delhivery,84,5,Delivered
+4632,5,DTDC,67,7,Delivered
+4633,3,DTDC,169,7,Delivered
+4634,3,DTDC,69,3,Delivered
+4635,1,DTDC,103,1,Delivered
+4636,4,Ekart,253,3,Delivered
+4637,5,Delhivery,44,4,Delivered
+4638,2,Ekart,248,7,Delivered
+4639,4,Blue Dart,88,2,Delivered
+4640,3,Ekart,269,7,Delivered
+4641,1,DTDC,196,5,Delivered
+4642,4,Delhivery,85,5,Delivered
+4643,5,Delhivery,240,5,Delivered
+4644,1,Delhivery,146,6,Delivered
+4645,4,Delhivery,258,4,Delivered
+4646,2,Delhivery,239,2,Delivered
+4647,4,Delhivery,163,1,Delivered
+4648,5,Ekart,177,5,Delivered
+4649,3,Delhivery,164,4,Delivered
+4650,5,Ekart,191,3,Delivered
+4651,5,Blue Dart,214,6,Delivered
+4652,5,Delhivery,118,4,Delivered
+4653,2,Blue Dart,114,3,Delivered
+4654,1,DTDC,179,1,Delivered
+4655,2,Ekart,74,6,Delivered
+4656,4,DTDC,131,1,Delivered
+4657,2,DTDC,59,1,Delivered
+4658,4,Blue Dart,173,3,Delivered
+4659,2,Ekart,202,2,Delivered
+4660,4,Blue Dart,66,5,Delivered
+4661,4,DTDC,212,7,Delivered
+4662,1,DTDC,196,3,Delivered
+4663,5,DTDC,109,6,Delivered
+4664,5,Blue Dart,95,4,Delivered
+4665,3,Delhivery,254,4,Delivered
+4666,1,Blue Dart,150,5,Delivered
+4667,4,DTDC,54,4,Delivered
+4668,1,DTDC,155,6,Delivered
+4669,2,Ekart,107,6,Delivered
+4670,3,Delhivery,157,7,Delivered
+4671,4,Blue Dart,134,6,Delivered
+4672,3,Ekart,47,1,Delivered
+4673,1,Ekart,188,3,Delivered
+4674,5,Ekart,119,6,Delivered
+4675,2,Ekart,165,7,Delivered
+4676,1,Ekart,264,4,Delivered
+4677,1,DTDC,73,3,Delivered
+4678,1,Ekart,92,3,Delivered
+4679,2,Delhivery,138,4,Delivered
+4680,3,Blue Dart,193,7,Delivered
+4681,5,Delhivery,300,7,Delivered
+4682,1,Delhivery,53,6,Delivered
+4683,4,Ekart,176,2,Delivered
+4684,5,Blue Dart,58,6,Delivered
+4685,2,DTDC,235,6,Delivered
+4686,5,DTDC,128,7,Delivered
+4687,3,Blue Dart,158,5,Delivered
+4688,5,Ekart,87,7,Delivered
+4689,2,Delhivery,158,7,Delivered
+4690,2,Ekart,116,3,Delivered
+4691,4,Blue Dart,136,3,Delivered
+4692,2,Ekart,157,2,Delivered
+4693,4,Ekart,92,6,Delivered
+4694,4,Ekart,59,5,Delivered
+4695,3,Blue Dart,185,2,Delivered
+4696,2,DTDC,108,5,Delivered
+4697,1,DTDC,177,2,Delivered
+4698,5,Ekart,123,7,Delivered
+4699,5,Ekart,179,4,Delivered
+4700,2,DTDC,256,3,Delivered
+4701,3,Delhivery,280,4,Delivered
+4702,3,DTDC,103,7,Delivered
+4703,2,Delhivery,59,7,Delivered
+4704,3,Ekart,109,5,Delivered
+4705,2,Ekart,185,6,Delivered
+4706,4,DTDC,262,4,Delivered
+4707,5,Ekart,273,1,Delivered
+4708,4,Delhivery,261,5,Delivered
+4709,3,DTDC,82,1,Delivered
+4710,5,Ekart,269,1,Delivered
+4711,4,Ekart,254,4,Delivered
+4712,1,Ekart,79,5,Delivered
+4713,4,Delhivery,89,4,Delivered
+4714,3,Blue Dart,144,3,Delivered
+4715,3,DTDC,207,1,Delivered
+4716,3,Delhivery,211,7,Delivered
+4717,5,Blue Dart,288,3,Delivered
+4718,2,Ekart,131,7,Delivered
+4719,1,DTDC,125,3,Delivered
+4720,1,Ekart,57,7,Delivered
+4721,1,Blue Dart,205,7,Delivered
+4722,4,Blue Dart,232,7,Delivered
+4723,5,Delhivery,250,7,Delivered
+4724,5,Ekart,165,7,Delivered
+4725,5,Delhivery,237,2,Delivered
+4726,3,Blue Dart,49,6,Delivered
+4727,1,Delhivery,112,4,Delivered
+4728,4,Ekart,83,7,Delivered
+4729,1,Ekart,297,7,Delivered
+4730,4,DTDC,219,5,Delivered
+4731,1,Blue Dart,238,3,Delivered
+4732,1,Blue Dart,256,2,Delivered
+4733,3,Blue Dart,172,4,Delivered
+4734,4,Blue Dart,159,1,Delivered
+4735,2,Blue Dart,153,3,Delivered
+4736,1,DTDC,64,4,Delivered
+4737,1,DTDC,194,3,Delivered
+4738,4,DTDC,259,2,Delivered
+4739,2,DTDC,165,4,Delivered
+4740,3,Delhivery,300,5,Delivered
+4741,5,DTDC,293,3,Delivered
+4742,3,Ekart,186,6,Delivered
+4743,5,Ekart,110,5,Delivered
+4744,4,DTDC,169,7,Delivered
+4745,2,DTDC,239,4,Delivered
+4746,4,Ekart,52,3,Delivered
+4747,1,DTDC,255,4,Delivered
+4748,3,DTDC,219,2,Delivered
+4749,1,Ekart,281,7,Delivered
+4750,1,Delhivery,56,6,Delivered
+4751,5,Ekart,57,7,Delivered
+4752,4,Ekart,299,2,Delivered
+4753,3,Ekart,165,5,Delivered
+4754,4,Ekart,165,3,Delivered
+4755,2,Blue Dart,250,4,Delivered
+4756,1,Ekart,278,1,Delivered
+4757,1,Delhivery,70,6,Delivered
+4758,5,Ekart,255,1,Delivered
+4759,5,DTDC,200,1,Delivered
+4760,1,Ekart,297,2,Delivered
+4761,3,DTDC,258,1,Delivered
+4762,4,DTDC,257,1,Delivered
+4763,5,DTDC,40,3,Delivered
+4764,5,DTDC,244,6,Delivered
+4765,5,Blue Dart,48,6,Delivered
+4766,3,DTDC,215,5,Delivered
+4767,1,Delhivery,181,6,Delivered
+4768,2,Delhivery,132,5,Delivered
+4769,4,DTDC,186,7,Delivered
+4770,3,DTDC,163,5,Delivered
+4771,2,Blue Dart,74,3,Delivered
+4772,1,Blue Dart,85,5,Delivered
+4773,1,Ekart,288,3,Delivered
+4774,2,Delhivery,169,4,Delivered
+4775,3,Blue Dart,173,4,Delivered
+4776,2,Delhivery,136,3,Delivered
+4777,3,Delhivery,48,6,Delivered
+4778,2,DTDC,155,7,Delivered
+4779,5,DTDC,251,3,Delivered
+4780,4,Ekart,88,2,Delivered
+4781,3,Delhivery,298,6,Delivered
+4782,2,Ekart,231,2,Delivered
+4783,3,Delhivery,218,2,Delivered
+4784,5,Ekart,125,6,Delivered
+4785,5,Ekart,215,5,Delivered
+4786,1,Ekart,78,2,Delivered
+4787,4,Ekart,224,7,Delivered
+4788,4,DTDC,216,7,Delivered
+4789,2,Blue Dart,89,5,Delivered
+4790,5,Delhivery,61,6,Delivered
+4791,5,Delhivery,172,7,Delivered
+4792,3,Blue Dart,128,3,Delivered
+4793,1,Ekart,277,6,Delivered
+4794,1,Delhivery,128,1,Delivered
+4795,2,DTDC,138,3,Delivered
+4796,3,DTDC,85,2,Delivered
+4797,3,Ekart,225,2,Delivered
+4798,1,Ekart,154,1,Delivered
+4799,3,Ekart,45,4,Delivered
+4800,1,Delhivery,64,5,Delivered
+4801,3,Ekart,200,3,Delivered
+4802,4,Blue Dart,196,3,Delivered
+4803,1,Blue Dart,90,2,Delivered
+4804,5,Ekart,214,2,Delivered
+4805,3,Delhivery,92,1,Delivered
+4806,4,DTDC,87,1,Delivered
+4807,2,Blue Dart,168,2,Delivered
+4808,4,Blue Dart,253,7,Delivered
+4809,2,Delhivery,295,3,Delivered
+4810,2,DTDC,235,2,Delivered
+4811,2,Ekart,294,5,Delivered
+4812,1,Delhivery,216,5,Delivered
+4813,3,DTDC,106,7,Delivered
+4814,4,Delhivery,143,2,Delivered
+4815,1,DTDC,176,5,Delivered
+4816,4,Blue Dart,170,7,Delivered
+4817,4,Delhivery,114,5,Delivered
+4818,3,Ekart,135,6,Delivered
+4819,3,Delhivery,115,6,Delivered
+4820,4,Delhivery,234,1,Delivered
+4821,1,Blue Dart,133,3,Delivered
+4822,3,Ekart,284,3,Delivered
+4823,5,Ekart,61,6,Delivered
+4824,3,Delhivery,297,6,Delivered
+4825,3,DTDC,240,6,Delivered
+4826,1,Delhivery,239,3,Delivered
+4827,4,Blue Dart,152,5,Delivered
+4828,5,DTDC,235,3,Delivered
+4829,5,Blue Dart,77,2,Delivered
+4830,4,Blue Dart,110,7,Delivered
+4831,1,Delhivery,139,5,Delivered
+4832,3,DTDC,181,6,Delivered
+4833,1,Delhivery,149,5,Delivered
+4834,3,Delhivery,171,7,Delivered
+4835,3,Blue Dart,126,6,Delivered
+4836,3,Delhivery,102,3,Delivered
+4837,1,Ekart,159,3,Delivered
+4838,5,Blue Dart,223,1,Delivered
+4839,4,Blue Dart,68,7,Delivered
+4840,2,Blue Dart,241,4,Delivered
+4841,3,DTDC,251,7,Delivered
+4842,4,Blue Dart,125,3,Delivered
+4843,2,Blue Dart,124,6,Delivered
+4844,1,Blue Dart,118,2,Delivered
+4845,1,DTDC,215,4,Delivered
+4846,4,DTDC,249,6,Delivered
+4847,1,DTDC,182,3,Delivered
+4848,2,DTDC,177,6,Delivered
+4849,3,DTDC,211,2,Delivered
+4850,3,Blue Dart,81,4,Delivered
+4851,3,Blue Dart,297,6,Delivered
+4852,3,DTDC,181,1,Delivered
+4853,3,DTDC,120,4,Delivered
+4854,1,Delhivery,292,4,Delivered
+4855,2,Ekart,248,3,Delivered
+4856,1,Ekart,263,3,Delivered
+4857,5,DTDC,265,5,Delivered
+4858,2,Delhivery,65,5,Delivered
+4859,3,Blue Dart,71,7,Delivered
+4860,2,Delhivery,83,7,Delivered
+4861,5,DTDC,119,2,Delivered
+4862,2,Blue Dart,183,7,Delivered
+4863,3,Blue Dart,285,4,Delivered
+4864,1,Ekart,263,6,Delivered
+4865,1,Delhivery,180,1,Delivered
+4866,2,Ekart,42,1,Delivered
+4867,2,DTDC,163,3,Delivered
+4868,4,DTDC,288,1,Delivered
+4869,3,Ekart,179,4,Delivered
+4870,3,Blue Dart,118,4,Delivered
+4871,4,DTDC,176,6,Delivered
+4872,2,DTDC,109,1,Delivered
+4873,2,DTDC,193,5,Delivered
+4874,1,Blue Dart,218,4,Delivered
+4875,5,Ekart,61,2,Delivered
+4876,3,Blue Dart,165,7,Delivered
+4877,4,Ekart,203,5,Delivered
+4878,2,DTDC,133,4,Delivered
+4879,5,Ekart,243,4,Delivered
+4880,3,Ekart,242,1,Delivered
+4881,5,Delhivery,286,7,Delivered
+4882,5,Delhivery,298,1,Delivered
+4883,3,Ekart,75,2,Delivered
+4884,3,Delhivery,197,5,Delivered
+4885,3,Blue Dart,91,4,Delivered
+4886,5,Blue Dart,165,5,Delivered
+4887,5,DTDC,179,4,Delivered
+4888,3,DTDC,203,5,Delivered
+4889,4,Delhivery,225,3,Delivered
+4890,3,Blue Dart,196,2,Delivered
+4891,5,DTDC,292,1,Delivered
+4892,5,Blue Dart,112,6,Delivered
+4893,3,Delhivery,289,4,Delivered
+4894,3,Delhivery,217,2,Delivered
+4895,4,DTDC,103,1,Delivered
+4896,1,Delhivery,210,6,Delivered
+4897,4,Blue Dart,187,5,Delivered
+4898,2,Delhivery,174,6,Delivered
+4899,2,Blue Dart,220,3,Delivered
+4900,3,DTDC,170,1,Delivered
+4901,3,DTDC,198,1,Delivered
+4902,3,Ekart,279,2,Delivered
+4903,2,Blue Dart,114,5,Delivered
+4904,3,Delhivery,216,4,Delivered
+4905,3,DTDC,225,5,Delivered
+4906,4,Delhivery,119,7,Delivered
+4907,3,Delhivery,139,4,Delivered
+4908,2,Ekart,267,1,Delivered
+4909,4,Delhivery,168,4,Delivered
+4910,4,Delhivery,170,6,Delivered
+4911,4,Blue Dart,188,1,Delivered
+4912,3,Ekart,61,5,Delivered
+4913,4,Ekart,230,6,Delivered
+4914,1,Delhivery,276,1,Delivered
+4915,4,Delhivery,49,1,Delivered
+4916,5,Delhivery,60,7,Delivered
+4917,1,DTDC,275,5,Delivered
+4918,5,Delhivery,290,5,Delivered
+4919,2,Ekart,200,6,Delivered
+4920,2,Delhivery,226,5,Delivered
+4921,5,DTDC,267,4,Delivered
+4922,3,Blue Dart,259,4,Delivered
+4923,3,DTDC,63,4,Delivered
+4924,2,Blue Dart,149,3,Delivered
+4925,2,Blue Dart,216,7,Delivered
+4926,5,Delhivery,78,3,Delivered
+4927,5,DTDC,198,2,Delivered
+4928,5,Blue Dart,261,4,Delivered
+4929,3,DTDC,251,4,Delivered
+4930,3,Delhivery,140,6,Delivered
+4931,1,DTDC,156,7,Delivered
+4932,3,Blue Dart,239,7,Delivered
+4933,2,Ekart,132,6,Delivered
+4934,4,Ekart,74,2,Delivered
+4935,5,DTDC,259,5,Delivered
+4936,2,Blue Dart,140,7,Delivered
+4937,1,Ekart,125,3,Delivered
+4938,4,Delhivery,95,5,Delivered
+4939,5,Blue Dart,210,7,Delivered
+4940,4,Ekart,271,3,Delivered
+4941,4,Ekart,149,2,Delivered
+4942,3,Ekart,79,1,Delivered
+4943,5,Ekart,83,2,Delivered
+4944,2,Delhivery,213,2,Delivered
+4945,5,Delhivery,150,4,Delivered
+4946,5,Ekart,91,5,Delivered
+4947,4,Delhivery,173,4,Delivered
+4948,2,Delhivery,78,3,Delivered
+4949,2,Blue Dart,164,3,Delivered
+4950,1,Delhivery,134,4,Delivered
+4951,2,DTDC,45,2,Delivered
+4952,4,DTDC,189,4,Delivered
+4953,1,Delhivery,255,6,Delivered
+4954,4,Delhivery,161,7,Delivered
+4955,2,Ekart,41,4,Delivered
+4956,1,DTDC,134,1,Delivered
+4957,1,Ekart,242,5,Delivered
+4958,1,DTDC,153,1,Delivered
+4959,4,Ekart,208,7,Delivered
+4960,5,DTDC,279,3,Delivered
+4961,5,Delhivery,245,1,Delivered
+4962,5,Delhivery,238,7,Delivered
+4963,5,Delhivery,289,6,Delivered
+4964,3,Blue Dart,212,7,Delivered
+4965,5,DTDC,67,1,Delivered
+4966,3,Delhivery,136,4,Delivered
+4967,5,DTDC,277,1,Delivered
+4968,2,Delhivery,210,2,Delivered
+4969,2,DTDC,110,7,Delivered
+4970,2,DTDC,41,2,Delivered
+4971,4,Delhivery,273,3,Delivered
+4972,5,Delhivery,112,7,Delivered
+4973,2,Blue Dart,228,5,Delivered
+4974,3,Blue Dart,82,1,Delivered
+4975,4,Blue Dart,207,7,Delivered
+4976,3,Ekart,169,4,Delivered
+4977,3,Delhivery,53,2,Delivered
+4978,3,Delhivery,85,2,Delivered
+4979,2,Blue Dart,84,5,Delivered
+4980,5,DTDC,46,2,Delivered
+4981,4,Delhivery,292,4,Delivered
+4982,1,Blue Dart,56,3,Delivered
+4983,4,Delhivery,195,1,Delivered
+4984,4,Delhivery,208,1,Delivered
+4985,3,Blue Dart,204,2,Delivered
+4986,4,Ekart,99,7,Delivered
+4987,4,DTDC,277,7,Delivered
+4988,1,Delhivery,238,3,Delivered
+4989,3,DTDC,159,7,Delivered
+4990,2,Delhivery,156,2,Delivered
+4991,5,DTDC,271,3,Delivered
+4992,3,Ekart,99,7,Delivered
+4993,5,Ekart,62,5,Delivered
+4994,2,Delhivery,87,3,Delivered
+4995,3,Ekart,123,4,Delivered
+4996,5,Ekart,193,7,Delivered
+4997,1,Delhivery,95,1,Delivered
+4998,4,DTDC,197,4,Delivered
+4999,3,DTDC,214,4,Delivered
+5000,5,DTDC,117,2,Delivered
